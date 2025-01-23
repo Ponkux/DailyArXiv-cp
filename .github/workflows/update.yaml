@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '0 20 21 * * ?' # 21:20 every day
+      - cron: '0 22 21 * * *' # 21:20 every day
 
 permissions:
   contents: write
