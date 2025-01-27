@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2025
+title: Latest 15 Papers - January 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation](http://arxiv.org/abs/2501.13927v1)** | 2025-01-23 |  |
-| **[Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v1)** | 2025-01-23 |  |
-| **[GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration](http://arxiv.org/abs/2501.13896v1)** | 2025-01-23 |  |
-| **[OCMDP: Observation-Constrained Markov Decision Process](http://arxiv.org/abs/2411.07087v4)** | 2025-01-23 | Full paper, 14 Pages |
-| **[Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning](http://arxiv.org/abs/2501.13883v1)** | 2025-01-23 |  |
-| **[A space-decoupling framework for optimization on bounded-rank matrices with orthogonally invariant constraints](http://arxiv.org/abs/2501.13830v1)** | 2025-01-23 | <details><summary>48 pa...</summary><p>48 pages, 12 figures, 6 tables</p></details> |
-| **[Large Language Model driven Policy Exploration for Recommender Systems](http://arxiv.org/abs/2501.13816v1)** | 2025-01-23 |  |
-| **[Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda](http://arxiv.org/abs/2501.13763v1)** | 2025-01-23 | 9 pages |
-| **[Combining Multi-Objective Bayesian Optimization with Reinforcement Learning for TinyML](http://arxiv.org/abs/2305.14109v3)** | 2025-01-23 | <details><summary>ACM T...</summary><p>ACM Transactions on Evolutionary Learning and Optimization, 14 pages, 9 figures</p></details> |
-| **[Supervised Learning-enhanced Multi-Group Actor Critic for Live Stream Allocation in Feed](http://arxiv.org/abs/2412.10381v2)** | 2025-01-23 |  |
-| **[Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System](http://arxiv.org/abs/2501.13727v1)** | 2025-01-23 |  |
-| **[In-Trajectory Inverse Reinforcement Learning: Learn Incrementally Before An Ongoing Trajectory Terminates](http://arxiv.org/abs/2410.15612v5)** | 2025-01-23 |  |
-| **[Reasoning Language Models: A Blueprint](http://arxiv.org/abs/2501.11223v3)** | 2025-01-23 |  |
-| **[S-EPOA: Overcoming the Indistinguishability of Segments with Skill-Driven Preference-Based Reinforcement Learning](http://arxiv.org/abs/2408.12130v2)** | 2025-01-23 | Under review |
-| **[Cross-lingual Transfer of Reward Models in Multilingual Alignment](http://arxiv.org/abs/2410.18027v2)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025</p></details> |
+| **[An Attentive Graph Agent for Topology-Adaptive Cyber Defence](http://arxiv.org/abs/2501.14700v1)** | 2025-01-24 |  |
+| **[COMIX: Generalized Conflict Management in O-RAN xApps -- Architecture, Workflow, and a Power Control case](http://arxiv.org/abs/2501.14619v1)** | 2025-01-24 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables</p></details> |
+| **[Age and Power Minimization via Meta-Deep Reinforcement Learning in UAV Networks](http://arxiv.org/abs/2501.14603v1)** | 2025-01-24 | 10 pages, 8 figures |
+| **[Self-playing Adversarial Language Game Enhances LLM Reasoning](http://arxiv.org/abs/2404.10642v3)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
+| **[Reducing Action Space for Deep Reinforcement Learning via Causal Effect Estimation](http://arxiv.org/abs/2501.14543v1)** | 2025-01-24 |  |
+| **[Breaking the Pre-Planning Barrier: Real-Time Adaptive Coordination of Mission and Charging UAVs Using Graph Reinforcement Learning](http://arxiv.org/abs/2501.14488v1)** | 2025-01-24 |  |
+| **[RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation](http://arxiv.org/abs/2501.06605v3)** | 2025-01-24 | Under review |
+| **[Entity-based Reinforcement Learning for Autonomous Cyber Defence](http://arxiv.org/abs/2410.17647v3)** | 2025-01-24 | <details><summary>Mater...</summary><p>Material also appearing in the proceedings of the 1st International Workshop on Autonomous Cybersecurity at ACM CCS 2024</p></details> |
+| **[MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems](http://arxiv.org/abs/2501.14451v1)** | 2025-01-24 |  |
+| **[Supervised Learning-enhanced Multi-Group Actor Critic for Live Stream Allocation in Feed](http://arxiv.org/abs/2412.10381v3)** | 2025-01-24 |  |
+| **[Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent](http://arxiv.org/abs/2501.14443v1)** | 2025-01-24 | <details><summary>This ...</summary><p>This article was accepted and published in Applied Intelligence (10.1007/s10489-022-04227-3)</p></details> |
+| **[Reinforcement Learning for Efficient Returns Management](http://arxiv.org/abs/2501.14394v1)** | 2025-01-24 |  |
+| **[Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight](http://arxiv.org/abs/2501.14377v1)** | 2025-01-24 | 11 pages, 7 Figures |
+| **[Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies](http://arxiv.org/abs/2501.14373v1)** | 2025-01-24 | <details><summary>accep...</summary><p>accepted by ICLR 2025; code available at https://github.com/lingweizhu/fat2thin</p></details> |
+| **[Moral Alignment for LLM Agents](http://arxiv.org/abs/2410.01639v3)** | 2025-01-24 | <details><summary>To ap...</summary><p>To appear at the 13th International Conference on Learning Representations (ICLR'25), Singapore, Apr 2025</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Predictive Approach for Enhancing Accuracy in Remote Robotic Surgery Using Informer Model](http://arxiv.org/abs/2501.14678v1)** | 2025-01-24 |  |
+| **[RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation](http://arxiv.org/abs/2501.06605v3)** | 2025-01-24 | Under review |
+| **[Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent](http://arxiv.org/abs/2501.14443v1)** | 2025-01-24 | <details><summary>This ...</summary><p>This article was accepted and published in Applied Intelligence (10.1007/s10489-022-04227-3)</p></details> |
+| **[Enhancing Robotic Precision in Construction: A Modular Factor Graph-Based Framework to Deflection and Backlash Compensation Using High-Accuracy Accelerometers](http://arxiv.org/abs/2501.14280v1)** | 2025-01-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, Accepted on November 2024 at IEEE Robotics and Automation Letters</p></details> |
+| **[You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations](http://arxiv.org/abs/2501.14208v1)** | 2025-01-24 | under review |
+| **[RaccoonBot: An Autonomous Wire-Traversing Solar-Tracking Robot for Persistent Environmental Monitoring](http://arxiv.org/abs/2501.14151v1)** | 2025-01-24 | <details><summary>Pre-p...</summary><p>Pre-print submitted to the 2025 IEEE International Conference on Robotics & Automation (ICRA 2025)</p></details> |
+| **[HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting](http://arxiv.org/abs/2501.14147v1)** | 2025-01-24 |  |
 | **[Entanglement Definitions for Tethered Robots: Exploration and Analysis](http://arxiv.org/abs/2402.04909v2)** | 2025-01-23 | <details><summary>18 pa...</summary><p>18 pages, 9 figures. Published on IEEE Access</p></details> |
 | **[TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation](http://arxiv.org/abs/2411.11683v3)** | 2025-01-23 |  |
+| **[Integrating Persian Lip Reading in Surena-V Humanoid Robot for Human-Robot Interaction](http://arxiv.org/abs/2501.13996v1)** | 2025-01-23 |  |
 | **[Design Optimizer for Soft Growing Robot Manipulators in Three-Dimensional Environments](http://arxiv.org/abs/2501.00368v3)** | 2025-01-23 | 17 pages, 10 figures |
 | **[GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization](http://arxiv.org/abs/2501.13417v1)** | 2025-01-23 | <details><summary>Prepr...</summary><p>Preprint, Under review</p></details> |
 | **["See You Later, Alligator": Impacts of Robot Small Talk on Task, Rapport, and Interaction Dynamics in Human-Robot Collaboration](http://arxiv.org/abs/2501.13233v1)** | 2025-01-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, preprint for HRI25, the 20th edition of the IEEE/ACM International Conference on Human-Robot Interaction</p></details> |
 | **[Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans](http://arxiv.org/abs/2501.13203v1)** | 2025-01-22 |  |
 | **[A Data-driven Contact Estimation Method for Wheeled-Biped Robots](http://arxiv.org/abs/2410.12345v3)** | 2025-01-22 |  |
-| **[A 3-Step Optimization Framework with Hybrid Models for a Humanoid Robot's Jump Motion](http://arxiv.org/abs/2501.12594v1)** | 2025-01-22 |  |
-| **[ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot](http://arxiv.org/abs/2501.12493v1)** | 2025-01-21 | <details><summary>13 pa...</summary><p>13 pages, manuscript under review</p></details> |
-| **[Improving robot understanding using conversational AI: demonstration and feasibility study](http://arxiv.org/abs/2501.12214v1)** | 2025-01-21 | <details><summary>40th ...</summary><p>40th Anniversary, IEEE International Conference on Robotics and Automation,2024</p></details> |
-| **[Evaluating Efficiency and Engagement in Scripted and LLM-Enhanced Human-Robot Interactions](http://arxiv.org/abs/2501.12128v1)** | 2025-01-21 | <details><summary>Accep...</summary><p>Accepted as a Late-Breaking Report to the 2025, 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)</p></details> |
-| **[Towards autonomous photogrammetric forest inventory using a lightweight under-canopy robotic drone](http://arxiv.org/abs/2501.12073v1)** | 2025-01-21 | 35 pages, 13 Figures |
-| **[RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing](http://arxiv.org/abs/2310.03505v2)** | 2025-01-21 |  |
-| **[Concurrent-Learning Based Relative Localization in Shape Formation of Robot Swarms (Extended version)](http://arxiv.org/abs/2410.06052v4)** | 2025-01-21 |  |
-| **[Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control](http://arxiv.org/abs/2501.11938v1)** | 2025-01-21 |  |
 
