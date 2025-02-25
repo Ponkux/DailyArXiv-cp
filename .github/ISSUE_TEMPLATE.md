@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - February 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -37,7 +37,7 @@ labels: documentation
 | **[Shared Control with Black Box Agents using Oracle Queries](http://arxiv.org/abs/2410.19612v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted for publication in the 2025 IEEE International Conference on AI and Data Analytics (ICAD 2025)</p></details> |
 | **[Is Q-learning an Ill-posed Problem?](http://arxiv.org/abs/2502.14365v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted at ESANN 2025</p></details> |
 | **[Learning Long-Horizon Robot Manipulation Skills via Privileged Action](http://arxiv.org/abs/2502.15442v1)** | 2025-02-21 |  |
-| **[TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning](http://arxiv.org/abs/2502.15425v1)** | 2025-02-21 |  |
+| **[TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning](http://arxiv.org/abs/2502.15425v2)** | 2025-02-24 |  |
 | **[SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance](http://arxiv.org/abs/2410.18626v2)** | 2025-02-21 |  |
 | **[IGN : Implicit Generative Networks](http://arxiv.org/abs/2206.05860v3)** | 2025-02-21 | <details><summary>2022 ...</summary><p>2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)</p></details> |
 | **[From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning](http://arxiv.org/abs/2412.08920v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
