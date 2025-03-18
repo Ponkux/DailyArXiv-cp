@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,7 +12,7 @@ labels: documentation
 | **[6D Object Pose Tracking in Internet Videos for Robotic Manipulation](http://arxiv.org/abs/2503.10307v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Project page available at https://ponimatkin.github.io/wildpose/</p></details> |
 | **[Long-horizon Embodied Planning with Implicit Logical Inference and Hallucination Mitigation](http://arxiv.org/abs/2409.15658v2)** | 2025-03-13 |  |
 | **[AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](http://arxiv.org/abs/2503.10070v1)** | 2025-03-13 | <details><summary>The f...</summary><p>The first two authors contributed equally. Website: https://aha-robot.github.io</p></details> |
-| **[Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](http://arxiv.org/abs/2503.08306v2)** | 2025-03-12 |  |
+| **[Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](http://arxiv.org/abs/2503.08306v3)** | 2025-03-17 |  |
 | **[EmBARDiment: an Embodied AI Agent for Productivity in XR](http://arxiv.org/abs/2408.08158v2)** | 2025-03-11 |  |
 | **[HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction](http://arxiv.org/abs/2406.06843v4)** | 2025-03-11 |  |
 | **[CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](http://arxiv.org/abs/2412.10439v2)** | 2025-03-11 |  |
@@ -53,7 +53,7 @@ labels: documentation
 | **[Optimal gait design for nonlinear soft robotic crawlers](http://arxiv.org/abs/2410.17058v2)** | 2025-03-14 |  |
 | **[TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](http://arxiv.org/abs/2503.11423v1)** | 2025-03-14 | <details><summary>Confe...</summary><p>Conference on Computer Vision and Pattern Recognition 2025</p></details> |
 | **[CoPAL: Corrective Planning of Robot Actions with Large Language Models](http://arxiv.org/abs/2310.07263v2)** | 2025-03-14 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2024</p></details> |
-| **[Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](http://arxiv.org/abs/2503.11269v1)** | 2025-03-14 |  |
+| **[Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](http://arxiv.org/abs/2503.11269v2)** | 2025-03-17 |  |
 | **[Hand Over or Place On The Table? A Study On Robotic Object Delivery When The Recipient Is Occupied](http://arxiv.org/abs/2503.11177v1)** | 2025-03-14 | 3 pages, 2 figures |
 | **[A Benchmarking Study of Vision-based Robotic Grasping Algorithms](http://arxiv.org/abs/2503.11163v1)** | 2025-03-14 | <details><summary>Submi...</summary><p>Submitted to The IEEE Robotics and Automation Magazine</p></details> |
 | **[$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping](http://arxiv.org/abs/2410.01702v4)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted to the 2025 International Conference on Robotics and Automation (ICRA 2025). Project Website: https://nus-lins-lab.github.io/drograspweb/</p></details> |
