@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach](http://arxiv.org/abs/2503.15764v1)** | 2025-03-20 | <details><summary>Curre...</summary><p>Currently under revision at IEEE Communications Magazine</p></details> |
+| **[Latent Action Learning Requires Supervision in the Presence of Distractors](http://arxiv.org/abs/2502.00379v2)** | 2025-03-19 | <details><summary>Prepr...</summary><p>Preprint. In review. Edit: Accepted by ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling</p></details> |
+| **[SpatialBot: Precise Spatial Understanding with Vision Language Models](http://arxiv.org/abs/2406.13642v7)** | 2025-03-19 |  |
 | **[MoK-RAG: Mixture of Knowledge Paths Enhanced Retrieval-Augmented Generation for Embodied AI Environments](http://arxiv.org/abs/2503.13882v1)** | 2025-03-18 |  |
 | **[Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation](http://arxiv.org/abs/2503.13424v1)** | 2025-03-17 | <details><summary>Proje...</summary><p>Project page: https://infinite-mobility.github.io 10 pages,12 figures</p></details> |
 | **[Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning](http://arxiv.org/abs/2503.12974v1)** | 2025-03-17 |  |
@@ -19,45 +22,42 @@ labels: documentation
 | **[Long-horizon Embodied Planning with Implicit Logical Inference and Hallucination Mitigation](http://arxiv.org/abs/2409.15658v2)** | 2025-03-13 |  |
 | **[AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](http://arxiv.org/abs/2503.10070v1)** | 2025-03-13 | <details><summary>The f...</summary><p>The first two authors contributed equally. Website: https://aha-robot.github.io</p></details> |
 | **[EmBARDiment: an Embodied AI Agent for Productivity in XR](http://arxiv.org/abs/2408.08158v2)** | 2025-03-11 |  |
-| **[HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction](http://arxiv.org/abs/2406.06843v4)** | 2025-03-11 |  |
-| **[CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](http://arxiv.org/abs/2412.10439v2)** | 2025-03-11 |  |
-| **[Investigating the Effectiveness of a Socratic Chain-of-Thoughts Reasoning Method for Task Planning in Robotics, A Case Study](http://arxiv.org/abs/2503.08174v1)** | 2025-03-11 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DAPO: An Open-Source LLM Reinforcement Learning System at Scale](http://arxiv.org/abs/2503.14476v1)** | 2025-03-18 | <details><summary>Proje...</summary><p>Project Page: https://dapo-sia.github.io/</p></details> |
-| **[Pauli Network Circuit Synthesis with Reinforcement Learning](http://arxiv.org/abs/2503.14448v1)** | 2025-03-18 |  |
-| **[Unsynchronized Decentralized Q-Learning: Two Timescale Analysis By Persistence](http://arxiv.org/abs/2308.03239v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to SIAM Journal on Control and Optimization</p></details> |
-| **[A Graph-Enhanced Deep-Reinforcement Learning Framework for the Aircraft Landing Problem](http://arxiv.org/abs/2502.12617v2)** | 2025-03-18 | <details><summary>27 pa...</summary><p>27 pages, submitted to ESWA, comments are welcome</p></details> |
-| **[IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition](http://arxiv.org/abs/2409.12092v2)** | 2025-03-18 |  |
-| **[Flying in Highly Dynamic Environments with End-to-end Learning Approach](http://arxiv.org/abs/2503.14352v1)** | 2025-03-18 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters (2025)</p></details> |
-| **[Offline Hierarchical Reinforcement Learning via Inverse Optimization](http://arxiv.org/abs/2410.07933v2)** | 2025-03-18 |  |
-| **[MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration](http://arxiv.org/abs/2503.14340v1)** | 2025-03-18 | 10 pages |
-| **[Revealing higher-order neural representations with generative artificial intelligence](http://arxiv.org/abs/2503.14333v1)** | 2025-03-18 |  |
-| **[Sublinear Regret for a Class of Continuous-Time Linear-Quadratic Reinforcement Learning Problems](http://arxiv.org/abs/2407.17226v3)** | 2025-03-18 | 49 pages, 4 figures |
-| **[Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs](http://arxiv.org/abs/2503.14286v1)** | 2025-03-18 |  |
-| **[Automating Experimental Optics with Sample Efficient Machine Learning Methods](http://arxiv.org/abs/2503.14260v1)** | 2025-03-18 |  |
-| **[CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration](http://arxiv.org/abs/2503.14254v1)** | 2025-03-18 | <details><summary>7page...</summary><p>7pages,7 figures,Thesis received by 2025 ICRA</p></details> |
-| **[IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving](http://arxiv.org/abs/2411.04653v2)** | 2025-03-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
-| **[A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control](http://arxiv.org/abs/2503.14250v1)** | 2025-03-18 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, Reinforcement Learning</p></details> |
+| **[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.16419v1)** | 2025-03-20 | <details><summary>Proje...</summary><p>Project Website: https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs</p></details> |
+| **[Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming](http://arxiv.org/abs/2503.16371v1)** | 2025-03-20 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, to be published in CPAIOR 2025 (https://sites.google.com/view/cpaior2025)</p></details> |
+| **[Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](http://arxiv.org/abs/2503.16252v1)** | 2025-03-20 |  |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
+| **[Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't](http://arxiv.org/abs/2503.16219v1)** | 2025-03-20 |  |
+| **[Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning](http://arxiv.org/abs/2503.16197v1)** | 2025-03-20 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, submitted to IROS2025</p></details> |
+| **[Nonparametric Bellman Mappings for Value Iteration in Distributed Reinforcement Learning](http://arxiv.org/abs/2503.16192v1)** | 2025-03-20 |  |
+| **[CLS-RL: Image Classification with Rule-Based Reinforcement Learning](http://arxiv.org/abs/2503.16188v1)** | 2025-03-20 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[Sample Efficient Preference Alignment in LLMs via Active Exploration](http://arxiv.org/abs/2312.00267v3)** | 2025-03-20 |  |
+| **[RLOMM: An Efficient and Robust Online Map Matching Framework with Reinforcement Learning](http://arxiv.org/abs/2502.06825v2)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by SIGMOD 2025</p></details> |
+| **[Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention](http://arxiv.org/abs/2411.10156v5)** | 2025-03-20 | <details><summary>The d...</summary><p>The data set, experimental process, code and data results have been uploaded to Github repository, the link is https://github.com/brucewang123456789/GeniusTrail/tree/main/Synthetic%20Data%20Intervention</p></details> |
+| **[Cultural Alignment in Large Language Models Using Soft Prompt Tuning](http://arxiv.org/abs/2503.16094v1)** | 2025-03-20 |  |
+| **[Relational Object-Centric Actor-Critic](http://arxiv.org/abs/2310.17178v2)** | 2025-03-20 |  |
+| **[OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning](http://arxiv.org/abs/2503.16081v1)** | 2025-03-20 |  |
+| **[Crowd-PrefRL: Preference-Based Reward Learning from Crowds](http://arxiv.org/abs/2401.10941v2)** | 2025-03-20 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physically-Consistent Parameter Identification of Robots in Contact](http://arxiv.org/abs/2409.09850v2)** | 2025-03-18 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, 2 tables</p></details> |
-| **[InteLiPlan: An Interactive Lightweight LLM-Based Planner for Domestic Robot Autonomy](http://arxiv.org/abs/2409.14506v2)** | 2025-03-18 |  |
-| **[A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis](http://arxiv.org/abs/2503.14255v1)** | 2025-03-18 | 6 pages, 9 figures |
-| **[CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration](http://arxiv.org/abs/2503.14254v1)** | 2025-03-18 | <details><summary>7page...</summary><p>7pages,7 figures,Thesis received by 2025 ICRA</p></details> |
-| **[GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics](http://arxiv.org/abs/2503.14247v1)** | 2025-03-18 | 8 pages |
-| **[CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction](http://arxiv.org/abs/2410.01273v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025, project page https://worv-ai.github.io/canvas</p></details> |
-| **[db-CBS: Discontinuity-Bounded Conflict-Based Search for Multi-Robot Kinodynamic Motion Planning](http://arxiv.org/abs/2309.16445v4)** | 2025-03-18 | <details><summary>Prese...</summary><p>Presented at ICRA 2024</p></details> |
-| **[An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation](http://arxiv.org/abs/2503.10118v2)** | 2025-03-18 |  |
-| **[SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey](http://arxiv.org/abs/2503.09829v2)** | 2025-03-18 | <details><summary>Submi...</summary><p>Submitted to International Journcal of Control, Automation and Systems (IJCAS), Under Review</p></details> |
-| **[A bio-inspired sand-rolling robot: effect of body shape on sand rolling performance](http://arxiv.org/abs/2503.13919v1)** | 2025-03-18 |  |
-| **[Project URSULA: Design of a Robotic Squid for Underwater Manipulation](http://arxiv.org/abs/2503.13913v1)** | 2025-03-18 | <details><summary>Prese...</summary><p>Presented during the IEEE OES AUV 2024 Symposium held in Boston, MA, USA between the dates 18-20 September, 2024. 6 pages, 7 pages, 17 references</p></details> |
-| **[Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations](http://arxiv.org/abs/2503.03998v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L. (C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media. 8 pages with 9 figures</p></details> |
-| **[Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models](http://arxiv.org/abs/2503.13813v1)** | 2025-03-18 |  |
-| **[An Augmented Reality Interface for Teleoperating Robot Manipulators](http://arxiv.org/abs/2409.18394v2)** | 2025-03-17 | 8 pages, 6 figures |
-| **[Visibility-Aware RRT* for Safety-Critical Navigation of Perception-Limited Robots in Unknown Environments](http://arxiv.org/abs/2406.07728v2)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (to be presented at IROS 2025). Our project page can be found at: https://www.taekyung.me/visibility-rrt</p></details> |
+| **[Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation?](http://arxiv.org/abs/2503.16310v1)** | 2025-03-20 |  |
+| **[The Morphology-Control Trade-Off: Insights into Soft Robotic Efficiency](http://arxiv.org/abs/2503.16127v1)** | 2025-03-20 | <details><summary>The p...</summary><p>The paper is planed to be submitted to a journal</p></details> |
+| **[Wearable Haptics for a Marionette-inspired Teleoperation of Highly Redundant Robotic Systems](http://arxiv.org/abs/2503.15998v1)** | 2025-03-20 | 7 pages, 8 figures |
+| **[A Laser-guided Interaction Interface for Providing Effective Robot Assistance to People with Upper Limbs Impairments](http://arxiv.org/abs/2503.15987v1)** | 2025-03-20 | 8 pages, 12 figures |
+| **[Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](http://arxiv.org/abs/2410.21845v3)** | 2025-03-20 |  |
+| **[SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning](http://arxiv.org/abs/2401.16013v4)** | 2025-03-20 | ICRA 2024 |
+| **[CONTHER: Human-Like Contextual Robot Learning via Hindsight Experience Replay and Transformers without Expert Demonstrations](http://arxiv.org/abs/2503.15895v1)** | 2025-03-20 | <details><summary>Submi...</summary><p>Submitted to IROS 2025</p></details> |
+| **[APEX-MR: Multi-Robot Asynchronous Planning and Execution for Cooperative Assembly](http://arxiv.org/abs/2503.15836v1)** | 2025-03-20 | 17 pages, 11 figures |
+| **[Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos](http://arxiv.org/abs/2412.04445v2)** | 2025-03-20 | <details><summary>Proje...</summary><p>Project released at: https://chenyi99.github.io/moto/ Update: Added content related to real-world robot experiments and learning from human videos</p></details> |
+| **[Cycloidal Quasi-Direct Drive Actuator Designs with Learning-based Torque Estimation for Legged Robotics](http://arxiv.org/abs/2410.16591v2)** | 2025-03-20 | <details><summary>Proce...</summary><p>Proceeding to 2025 IEEE International Conference on Robotics and Automation (ICRA25)</p></details> |
+| **[Dialogic Learning in Child-Robot Interaction: A Hybrid Approach to Personalized Educational Content Generation](http://arxiv.org/abs/2503.15762v1)** | 2025-03-20 |  |
+| **[Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning](http://arxiv.org/abs/2503.15724v1)** | 2025-03-19 | 7 pages, 5 figures |
+| **[Safety Aware Task Planning via Large Language Models in Robotics](http://arxiv.org/abs/2503.15707v1)** | 2025-03-19 |  |
+| **[Capturing a Moving Target by Two Robots in the F2F Model](http://arxiv.org/abs/2503.15688v1)** | 2025-03-19 |  |
+| **[Robotic Paper Wrapping by Learning Force Control](http://arxiv.org/abs/2503.15685v1)** | 2025-03-19 |  |
 
