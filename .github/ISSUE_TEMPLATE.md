@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2025
+title: Latest 15 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,31 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion](http://arxiv.org/abs/2409.06366v3)** | 2025-04-01 |  |
+| **[Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains](http://arxiv.org/abs/2503.23829v2)** | 2025-04-01 |  |
+| **[BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v2)** | 2025-04-01 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
+| **[Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System](http://arxiv.org/abs/2501.13727v2)** | 2025-04-01 |  |
+| **[Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL](http://arxiv.org/abs/2503.23157v2)** | 2025-04-01 | <details><summary>Moham...</summary><p>Mohammadreza Pourreza and Shayan Talaei contributed equally to this work</p></details> |
+| **[Think or Not Think: A Study of Explicit Thinking inRule-Based Visual Reinforcement Fine-Tuning](http://arxiv.org/abs/2503.16188v2)** | 2025-04-01 | <details><summary>Prepr...</summary><p>Preprint, work in progress. Add results on CVBench</p></details> |
+| **[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](http://arxiv.org/abs/2503.07523v2)** | 2025-04-01 | 18pages,11 figures |
+| **[CoRanking: Collaborative Ranking with Small and Large Ranking Agents](http://arxiv.org/abs/2503.23427v2)** | 2025-04-01 |  |
+| **[Whole-Body Dynamic Throwing with Legged Manipulators](http://arxiv.org/abs/2410.05681v2)** | 2025-04-01 |  |
+| **[Independent and Decentralized Learning in Markov Potential Games](http://arxiv.org/abs/2205.14590v8)** | 2025-04-01 | 43 pages, 1 figure |
+| **[Unified Preference Optimization: Language Model Alignment Beyond the Preference Frontier](http://arxiv.org/abs/2405.17956v3)** | 2025-03-31 |  |
 | **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)** | 2025-03-31 | <details><summary>Techn...</summary><p>Technical Report (In Progress); Code released at: https://github.com/TencentARC/SEED-Bench-R1</p></details> |
 | **[Fair Dynamic Spectrum Access via Fully Decentralized Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2503.24296v1)** | 2025-03-31 | <details><summary>To ap...</summary><p>To appear in WiOpt 2025</p></details> |
 | **[Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](http://arxiv.org/abs/2503.24290v1)** | 2025-03-31 |  |
 | **[Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning](http://arxiv.org/abs/2503.24289v1)** | 2025-03-31 |  |
-| **[Moving Edge for On-Demand Edge Computing: An Uncertainty-aware Approach](http://arxiv.org/abs/2503.24214v1)** | 2025-03-31 |  |
-| **[Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning](http://arxiv.org/abs/2503.24183v1)** | 2025-03-31 | 30 pages, 12 figures |
-| **[Studying the Interplay Between the Actor and Critic Representations in Reinforcement Learning](http://arxiv.org/abs/2503.06343v2)** | 2025-03-31 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. 10 pages</p></details> |
-| **[Learning a Canonical Basis of Human Preferences from Binary Ratings](http://arxiv.org/abs/2503.24150v1)** | 2025-03-31 | 25 pages, 11 figures |
-| **[Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy](http://arxiv.org/abs/2503.24140v1)** | 2025-03-31 |  |
-| **[Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning](http://arxiv.org/abs/2503.24099v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on the Foundations of Digital Games (FDG) 2025</p></details> |
-| **[HACTS: a Human-As-Copilot Teleoperation System for Robot Learning](http://arxiv.org/abs/2503.24070v1)** | 2025-03-31 |  |
-| **[Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback](http://arxiv.org/abs/2503.22230v2)** | 2025-03-31 |  |
-| **[Multi-User MISO with Stacked Intelligent Metasurfaces: A DRL-Based Sum-Rate Optimization Approach](http://arxiv.org/abs/2408.04837v2)** | 2025-03-31 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 3 tables. arXiv admin note: text overlap with arXiv:2402.09006</p></details> |
-| **[A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi](http://arxiv.org/abs/2503.23975v1)** | 2025-03-31 |  |
-| **[Noise-based reward-modulated learning](http://arxiv.org/abs/2503.23972v1)** | 2025-03-31 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Procedural Framework for Low-latency Robot-Assisted Hand-Object Interaction](http://arxiv.org/abs/2405.19531v2)** | 2025-04-01 | 6 pages, 5 figures |
+| **[DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models](http://arxiv.org/abs/2404.03275v3)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted at ICRA 2025</p></details> |
+| **[A formal implementation of Behavior Trees to act in robotics](http://arxiv.org/abs/2502.11904v3)** | 2025-04-01 |  |
+| **[A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction](http://arxiv.org/abs/2311.16137v2)** | 2025-04-01 | <details><summary>Submi...</summary><p>Submitted to Dialogue & Discourse 2023</p></details> |
+| **[Temporal and Semantic Evaluation Metrics for Foundation Models in Post-Hoc Analysis of Robotic Sub-tasks](http://arxiv.org/abs/2403.17238v2)** | 2025-04-01 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. IROS 2024 Submission</p></details> |
+| **[Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups](http://arxiv.org/abs/2503.00370v2)** | 2025-04-01 | <details><summary>Websi...</summary><p>Website: https://scalable-real2sim.github.io/</p></details> |
 | **[Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation](http://arxiv.org/abs/2503.24361v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project website: https://co-training.github.io/</p></details> |
 | **[Pro-Routing: Proactive Routing of Autonomous Multi-Capacity Robots for Pickup-and-Delivery Tasks](http://arxiv.org/abs/2503.24325v1)** | 2025-03-31 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, and 1 table</p></details> |
 | **[AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World](http://arxiv.org/abs/2503.24278v1)** | 2025-03-31 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[Toward Anxiety-Reducing Pocket Robots for Children](http://arxiv.org/abs/2503.24041v1)** | 2025-03-31 | 8 pages |
 | **[MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation](http://arxiv.org/abs/2503.23908v1)** | 2025-03-31 | 8 pages, 8 figures |
 | **[ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos](http://arxiv.org/abs/2503.23877v1)** | 2025-03-31 | <details><summary>ICRA ...</summary><p>ICRA 2025. Project website: https://zeromimic.github.io/</p></details> |
-| **[GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models](http://arxiv.org/abs/2503.23875v1)** | 2025-03-31 |  |
-| **[Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People](http://arxiv.org/abs/2503.21997v2)** | 2025-03-31 | <details><summary>Prepr...</summary><p>Preprint, ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)</p></details> |
-| **[YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning](http://arxiv.org/abs/2410.19846v3)** | 2025-03-31 | <details><summary>24 Pa...</summary><p>24 Pages, 13 Figures, 1 Table</p></details> |
-| **[Exploring GPT-4 for Robotic Agent Strategy with Real-Time State Feedback and a Reactive Behaviour Framework](http://arxiv.org/abs/2503.23601v1)** | 2025-03-30 |  |
-| **[Safe Navigation for Robotic Digestive Endoscopy via Human Intervention-based Reinforcement Learning](http://arxiv.org/abs/2409.15688v2)** | 2025-03-30 |  |
-| **[Verifiably Following Complex Robot Instructions with Foundation Models](http://arxiv.org/abs/2402.11498v3)** | 2025-03-30 |  |
 
