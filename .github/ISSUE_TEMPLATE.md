@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2025
+title: Latest 15 Papers - April 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 | **[Regulating Spatial Fairness in a Tripartite Micromobility Sharing System via Reinforcement Learning](http://arxiv.org/abs/2504.02597v1)** | 2025-04-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, accepted at the 2025 Innovation & Society: Statistics and Data Science for Evaluation and Quality (IES) on February 24th, 2025. arXiv admin note: text overlap with arXiv:2403.15780</p></details> |
 | **[Iterated $Q$-Network: Beyond One-Step Bellman Updates in Deep Reinforcement Learning](http://arxiv.org/abs/2403.02107v6)** | 2025-04-03 | <details><summary>Publi...</summary><p>Published at TMLR: https://openreview.net/forum?id=Lt2H8Bd8jF</p></details> |
 | **[LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning](http://arxiv.org/abs/2504.02590v1)** | 2025-04-03 |  |
-| **[Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](http://arxiv.org/abs/2504.02587v1)** | 2025-04-03 | <details><summary>Code ...</summary><p>Code is public and available at: https://github.com/GAIR-NLP/MAYE</p></details> |
+| **[Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](http://arxiv.org/abs/2504.02587v2)** | 2025-04-04 | <details><summary>Code ...</summary><p>Code is public and available at: https://github.com/GAIR-NLP/MAYE</p></details> |
 | **[Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs](http://arxiv.org/abs/2404.11014v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Mobile Computing</p></details> |
 | **[MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning](http://arxiv.org/abs/2504.02565v1)** | 2025-04-03 |  |
 | **[A nonlinear real time capable motion cueing algorithm based on deep reinforcement learning](http://arxiv.org/abs/2503.10419v3)** | 2025-04-03 |  |
