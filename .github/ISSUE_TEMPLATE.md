@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians](http://arxiv.org/abs/2504.11218v1)** | 2025-04-15 | <details><summary>The f...</summary><p>The first large-scale 3D Gaussians Affordance Reasoning Benchmark</p></details> |
+| **[3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians](http://arxiv.org/abs/2504.11218v2)** | 2025-04-16 | <details><summary>The f...</summary><p>The first large-scale 3D Gaussians Affordance Reasoning Benchmark</p></details> |
 | **[Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](http://arxiv.org/abs/2503.08306v4)** | 2025-04-15 |  |
 | **[HUMOTO: A 4D Dataset of Mocap Human Object Interactions](http://arxiv.org/abs/2504.10414v1)** | 2025-04-14 | 19 pages, 15 figures |
 | **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
@@ -50,7 +50,7 @@ labels: documentation
 | **[Improving Swimming Performance in Soft Robotic Fish with Distributed Muscles and Embedded Kinematic Sensing](http://arxiv.org/abs/2504.11377v1)** | 2025-04-15 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. To be published in the Proceedings of the 8th IEEE - RAS International Conference on Soft Robotics</p></details> |
 | **[MonoRollBot: 3-DOF Spherical Robot with Underactuated Single Compliant Actuator Design](http://arxiv.org/abs/2411.04264v3)** | 2025-04-15 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, accepted at IEEE RoboSoft 2025</p></details> |
 | **[Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks](http://arxiv.org/abs/2504.11247v1)** | 2025-04-15 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 6 tables</p></details> |
-| **[A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space](http://arxiv.org/abs/2504.11170v1)** | 2025-04-15 | 20 pages, 11 figures |
+| **[A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space](http://arxiv.org/abs/2504.11170v2)** | 2025-04-16 | 20 pages, 11 figures |
 | **[The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets](http://arxiv.org/abs/2504.11163v1)** | 2025-04-15 | Accepted to CHI '25 |
 | **[Acquisition of high-quality images for camera calibration in robotics applications via speech prompts](http://arxiv.org/abs/2504.11031v1)** | 2025-04-15 | 8 pages, 6 figures |
 | **[ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping](http://arxiv.org/abs/2504.10857v1)** | 2025-04-15 | <details><summary>Publi...</summary><p>Published at CVPR 2025, Webpage: https://sh8.io/#/zerograsp</p></details> |
