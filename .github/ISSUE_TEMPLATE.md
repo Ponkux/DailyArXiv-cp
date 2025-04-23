@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2025
+title: Latest 15 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RILe: Reinforced Imitation Learning](http://arxiv.org/abs/2406.08472v4)** | 2025-04-21 |  |
-| **[VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279v1)** | 2025-04-21 | <details><summary>Code,...</summary><p>Code, data, and baselines are available at https://visulogic-benchmark.github.io/VisuLogic</p></details> |
-| **[Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](http://arxiv.org/abs/2504.15275v1)** | 2025-04-21 |  |
-| **[FlowReasoner: Reinforcing Query-Level Meta-Agents](http://arxiv.org/abs/2504.15257v1)** | 2025-04-21 |  |
-| **[BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](http://arxiv.org/abs/2410.11689v2)** | 2025-04-21 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
-| **[DRAGON: Distributional Rewards Optimize Diffusion Generative Models](http://arxiv.org/abs/2504.15217v1)** | 2025-04-21 |  |
-| **[Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs](http://arxiv.org/abs/2504.15210v1)** | 2025-04-21 |  |
-| **[Beyond Binary Opinions: A Deep Reinforcement Learning-Based Approach to Uncertainty-Aware Competitive Influence Maximization](http://arxiv.org/abs/2504.15131v1)** | 2025-04-21 |  |
-| **[A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment](http://arxiv.org/abs/2504.15129v1)** | 2025-04-21 |  |
-| **[Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN](http://arxiv.org/abs/2504.15099v1)** | 2025-04-21 |  |
-| **[Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL](http://arxiv.org/abs/2504.15077v1)** | 2025-04-21 | 15 pages |
-| **[Energy-Efficient UAV-Mounted RIS for IoT: A Hybrid Energy Harvesting and DRL Approach](http://arxiv.org/abs/2504.15043v1)** | 2025-04-21 |  |
-| **[Energy-Efficient Irregular RIS-aided UAV-Assisted Optimization: A Deep Reinforcement Learning Approach](http://arxiv.org/abs/2504.15031v1)** | 2025-04-21 |  |
-| **[Accelerating Goal-Conditioned RL Algorithms and Research](http://arxiv.org/abs/2408.11052v3)** | 2025-04-21 | <details><summary>Websi...</summary><p>Website: https://michalbortkiewicz.github.io/JaxGCRL/ Code: https://github.com/MichalBortkiewicz/JaxGCRL</p></details> |
-| **[SkyReels-V2: Infinite-length Film Generative Model](http://arxiv.org/abs/2504.13074v3)** | 2025-04-21 | 31 pages,10 figures |
+| **[TTRL: Test-Time Reinforcement Learning](http://arxiv.org/abs/2504.16084v1)** | 2025-04-22 |  |
+| **[Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching](http://arxiv.org/abs/2411.07007v2)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](http://arxiv.org/abs/2504.16078v1)** | 2025-04-22 |  |
+| **[A Pontryagin Perspective on Reinforcement Learning](http://arxiv.org/abs/2405.18100v3)** | 2025-04-22 |  |
+| **[Harmonia: A Multi-Agent Reinforcement Learning Approach to Data Placement and Migration in Hybrid Storage Systems](http://arxiv.org/abs/2503.20507v2)** | 2025-04-22 |  |
+| **[The Formation of Production Networks: How Supply Chains Arise from Simple Learning with Minimal Information](http://arxiv.org/abs/2504.16010v1)** | 2025-04-22 |  |
+| **[DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks](http://arxiv.org/abs/2503.07433v2)** | 2025-04-22 |  |
+| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v2)** | 2025-04-22 | <details><summary>This ...</summary><p>This paper has been accepted by SCIENCE CHINA Information Sciences. arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
+| **[Learning to Reason under Off-Policy Guidance](http://arxiv.org/abs/2504.14945v2)** | 2025-04-22 | Work in progress |
+| **[Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems](http://arxiv.org/abs/2504.15984v1)** | 2025-04-22 | 15 pages, 6 figures |
+| **[A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement](http://arxiv.org/abs/2410.13828v2)** | 2025-04-22 |  |
+| **[Optimizing RLHF Training for Large Language Models with Stage Fusion](http://arxiv.org/abs/2409.13221v3)** | 2025-04-22 |  |
+| **[Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning](http://arxiv.org/abs/2504.15932v1)** | 2025-04-22 |  |
+| **[StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](http://arxiv.org/abs/2504.15930v1)** | 2025-04-22 |  |
+| **[New Recipe for Semi-supervised Community Detection: Clique Annealing under Crystallization Kinetics](http://arxiv.org/abs/2504.15927v1)** | 2025-04-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2203.05898 by other authors</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](http://arxiv.org/abs/2403.12945v2)** | 2025-04-22 | <details><summary>Proje...</summary><p>Project website: https://droid-dataset.github.io/</p></details> |
+| **[Robot Data Curation with Mutual Information Estimators](http://arxiv.org/abs/2502.08623v3)** | 2025-04-22 | <details><summary>Video...</summary><p>Videos and code at https://jhejna.github.io/demonstration-info. Published at RSS 2025</p></details> |
+| **[SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots](http://arxiv.org/abs/2504.16055v1)** | 2025-04-22 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 2 tables</p></details> |
+| **[Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective](http://arxiv.org/abs/2504.15886v1)** | 2025-04-22 |  |
+| **[CaRoSaC: A Reinforcement Learning-Based Kinematic Control of Cable-Driven Parallel Robots by Addressing Cable Sag through Simulation](http://arxiv.org/abs/2504.15740v1)** | 2025-04-22 | <details><summary>8 Pag...</summary><p>8 Pages, 16 figures, Accepted for publication at IEEE ROBOTICS AND AUTOMATION LETTERS [VOL. 10, NO. 6, JUNE 2025]</p></details> |
+| **[Symbolic Runtime Verification and Adaptive Decision-Making for Robot-Assisted Dressing](http://arxiv.org/abs/2504.15666v1)** | 2025-04-22 |  |
+| **[SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation](http://arxiv.org/abs/2504.15561v1)** | 2025-04-22 |  |
+| **[MRTA-Sim: A Modular Simulator for Multi-Robot Allocation, Planning, and Control in Open-World Environments](http://arxiv.org/abs/2504.15418v1)** | 2025-04-21 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 3 tables</p></details> |
 | **[Cascade IPG Observer for Underwater Robot State Estimation](http://arxiv.org/abs/2504.15235v1)** | 2025-04-21 | <details><summary>ICRA ...</summary><p>ICRA 2025 (International Conference on Robotics and Automation), Atlanta, USA</p></details> |
 | **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](http://arxiv.org/abs/2504.15226v1)** | 2025-04-21 |  |
 | **[SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation](http://arxiv.org/abs/2504.05488v2)** | 2025-04-21 |  |
+| **[Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions](http://arxiv.org/abs/2504.15327v1)** | 2025-04-21 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, submitted to IEEE</p></details> |
 | **[Precision Robotic Spot-Spraying: Reducing Herbicide Use and Enhancing Environmental Outcomes in Sugarcane](http://arxiv.org/abs/2401.13931v2)** | 2025-04-21 | <details><summary>36 pa...</summary><p>36 pages, 17 figures, 4 tables. Published at the Computers and Electronics in Agriculture journal</p></details> |
 | **[Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots](http://arxiv.org/abs/2504.08615v2)** | 2025-04-21 | Accepted by RSS 2025 |
 | **[A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636v2)** | 2025-04-21 |  |
-| **[Safe Autonomous Environmental Contact for Soft Robots using Control Barrier Functions](http://arxiv.org/abs/2504.14755v1)** | 2025-04-20 | 10 pages, 10 figures |
-| **[Latent Representations for Visual Proprioception in Inexpensive Robots](http://arxiv.org/abs/2504.14634v1)** | 2025-04-20 |  |
-| **[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](http://arxiv.org/abs/2504.14604v1)** | 2025-04-20 |  |
-| **[K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics](http://arxiv.org/abs/2504.14602v1)** | 2025-04-20 | <details><summary>23 pa...</summary><p>23 pages, 13 figures,4 tables</p></details> |
-| **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
-| **[Going Down the Abstraction Stream with Augmented Reality and Tangible Robots: the Case of Vector Instruction](http://arxiv.org/abs/2504.14562v1)** | 2025-04-20 |  |
-| **[ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](http://arxiv.org/abs/2504.14477v1)** | 2025-04-20 |  |
-| **[Experience-based Refinement of Task Planning Knowledge in Autonomous Robots](http://arxiv.org/abs/2504.14259v1)** | 2025-04-19 |  |
-| **[Collision Induced Binding and Transport of Shape Changing Robot Pairs](http://arxiv.org/abs/2504.14170v1)** | 2025-04-19 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, submitted to PRL</p></details> |
 
