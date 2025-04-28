@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2025
+title: Latest 15 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control](http://arxiv.org/abs/2504.17771v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025. Project page: https://dreamstarring.github.io/HAMLET/</p></details> |
-| **[Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence](http://arxiv.org/abs/2504.17703v1)** | 2025-04-24 |  |
-| **[SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning](http://arxiv.org/abs/2504.17603v1)** | 2025-04-24 | 27 pages, 14 figures |
-| **[Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach](http://arxiv.org/abs/2504.17590v1)** | 2025-04-24 |  |
-| **[Advancing CMA-ES with Learning-Based Cooperative Coevolution for Scalable Optimization](http://arxiv.org/abs/2504.17578v1)** | 2025-04-24 |  |
-| **[ReaL: Efficient RLHF Training of Large Language Models with Parameter Reallocation](http://arxiv.org/abs/2406.14088v2)** | 2025-04-24 | <details><summary>11 pa...</summary><p>11 pages (20 pages with references and the appendix), 17 figures. Accepted by MLSys 25</p></details> |
-| **[Dexterous Manipulation through Imitation Learning: A Survey](http://arxiv.org/abs/2504.03515v2)** | 2025-04-24 | 22pages, 5 figures |
-| **[Cooperative Task Offloading through Asynchronous Deep Reinforcement Learning in Mobile Edge Computing for Future Networks](http://arxiv.org/abs/2504.17526v1)** | 2025-04-24 |  |
-| **[Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning](http://arxiv.org/abs/2504.17490v1)** | 2025-04-24 | 23 pages |
-| **[Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning](http://arxiv.org/abs/2504.17356v1)** | 2025-04-24 | <details><summary>20 pa...</summary><p>20 pages, keywords: Automated Feature Engineering, Tabular Dataset, Multi-Agent Reinforcement Learning, Feature Selection</p></details> |
-| **[Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization](http://arxiv.org/abs/2504.17355v1)** | 2025-04-24 | <details><summary>13 pa...</summary><p>13 pages, Keywords: Automated Feature Transformation, Tabular Dataset, Reinforcement Learning</p></details> |
-| **[Learning by Doing: An Online Causal Reinforcement Learning Framework with Causal-Aware Policy](http://arxiv.org/abs/2402.04869v2)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted by Science China Information Sciences</p></details> |
-| **[A Robust Model-Based Approach for Continuous-Time Policy Evaluation with Unknown Lévy Process Dynamics](http://arxiv.org/abs/2504.01482v2)** | 2025-04-24 | 28 pages, 9 figures |
-| **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v2)** | 2025-04-24 |  |
-| **[Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning](http://arxiv.org/abs/2504.17282v1)** | 2025-04-24 |  |
+| **[Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks](http://arxiv.org/abs/2504.18519v1)** | 2025-04-25 |  |
+| **[Reinforcement Learning-based Threat Assessment](http://arxiv.org/abs/2503.02612v2)** | 2025-04-25 | <details><summary>The r...</summary><p>The research content is not yet complete and requires further supplementation and improvement</p></details> |
+| **[Eval-PPO: Building an Efficient Threat Evaluator Using Proximal Policy Optimization](http://arxiv.org/abs/2503.12098v2)** | 2025-04-25 | <details><summary>The r...</summary><p>The research content is not yet complete and requires further supplementation and improvement</p></details> |
+| **[Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation](http://arxiv.org/abs/2504.18453v1)** | 2025-04-25 |  |
+| **[Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](http://arxiv.org/abs/2504.16656v2)** | 2025-04-25 |  |
+| **[A Dual Perspective of Reinforcement Learning for Imposing Policy Constraints](http://arxiv.org/abs/2404.16468v2)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Artificial Intelligence</p></details> |
+| **[Generative Auto-Bidding with Value-Guided Explorations](http://arxiv.org/abs/2504.14587v2)** | 2025-04-25 |  |
+| **[Application of linear regression and quasi-Newton methods to the deep reinforcement learning in continuous action cases](http://arxiv.org/abs/2503.14976v3)** | 2025-04-25 | 23 pages, 8 figures |
+| **[Pushing the boundary on Natural Language Inference](http://arxiv.org/abs/2504.18376v1)** | 2025-04-25 |  |
+| **[Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization](http://arxiv.org/abs/2504.18371v1)** | 2025-04-25 | <details><summary>Submi...</summary><p>Submitted to IEEE PIMRC 2025</p></details> |
+| **[EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](http://arxiv.org/abs/2502.12486v5)** | 2025-04-25 | 22 pages, 4 figures |
+| **[Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps](http://arxiv.org/abs/2504.18300v1)** | 2025-04-25 | 14 pages, 6 figures |
+| **[Depth-Constrained ASV Navigation with Deep RL and Limited Sensing](http://arxiv.org/abs/2504.18253v1)** | 2025-04-25 | 9 pages, 8 figures |
+| **[Whole-body End-Effector Pose Tracking](http://arxiv.org/abs/2409.16048v2)** | 2025-04-25 |  |
+| **[Symmetries-enhanced Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2501.01136v2)** | 2025-04-25 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey](http://arxiv.org/abs/2503.07278v2)** | 2025-04-25 |  |
+| **[Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics](http://arxiv.org/abs/2504.18500v1)** | 2025-04-25 | <details><summary>accep...</summary><p>accepted for Robotic: Science and Systems (RSS 2025)</p></details> |
+| **[Action Flow Matching for Continual Robot Learning](http://arxiv.org/abs/2504.18471v1)** | 2025-04-25 | <details><summary>Robot...</summary><p>Robotics: Science and Systems 2025</p></details> |
+| **[Electrically-driven phase transition actuators to power soft robot designs](http://arxiv.org/abs/2411.06963v2)** | 2025-04-25 |  |
+| **[Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing](http://arxiv.org/abs/2504.18284v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted and presented at the workshop on Agricultural Robotics for a Sustainable Future at 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, October 14, 2024. 2024</p></details> |
+| **[Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines](http://arxiv.org/abs/2504.18200v1)** | 2025-04-25 | <details><summary>15 Pa...</summary><p>15 Pages, 3 figures, 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA 2025)</p></details> |
+| **[AllTact Fin Ray: A Compliant Robot Gripper with Omni-Directional Tactile Sensing](http://arxiv.org/abs/2504.18064v1)** | 2025-04-25 |  |
+| **[Fuzzy-RRT for Obstacle Avoidance in a 2-DOF Semi-Autonomous Surgical Robotic Arm](http://arxiv.org/abs/2504.17979v1)** | 2025-04-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to NAFIPS 2025 Conference (North American Fuzzy Information Processing Society). Includes results on Fuzzy-RRT performance in surgical robotics path planning</p></details> |
+| **[Beyond Task and Motion Planning: Hierarchical Robot Planning with General-Purpose Policies](http://arxiv.org/abs/2504.17901v1)** | 2025-04-24 |  |
+| **[Terrain-Aware Kinodynamic Planning with Efficiently Adaptive State Lattices for Mobile Robot Navigation in Off-Road Environments](http://arxiv.org/abs/2504.17889v1)** | 2025-04-24 | <details><summary>8 pag...</summary><p>8 page paper with 1 additional copyright page. Published at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light](http://arxiv.org/abs/2504.17865v1)** | 2025-04-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted to IROS 2025</p></details> |
 | **[Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation](http://arxiv.org/abs/2504.17784v1)** | 2025-04-24 | <details><summary>Publi...</summary><p>Published at Robotics: Science and Systems (RSS) 2025</p></details> |
 | **[Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control](http://arxiv.org/abs/2504.17771v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025. Project page: https://dreamstarring.github.io/HAMLET/</p></details> |
 | **[Robotic Task Ambiguity Resolution via Natural Language Interaction](http://arxiv.org/abs/2504.17748v1)** | 2025-04-24 |  |
 | **[Robot Pouring: Identifying Causes of Spillage and Selecting Alternative Action Parameters Using Probabilistic Actual Causation](http://arxiv.org/abs/2502.09395v2)** | 2025-04-24 | 20 pages, 13 figures |
-| **[Unifying Complementarity Constraints and Control Barrier Functions for Safe Whole-Body Robot Control](http://arxiv.org/abs/2504.17647v1)** | 2025-04-24 |  |
-| **[CoPAL: Corrective Planning of Robot Actions with Large Language Models](http://arxiv.org/abs/2310.07263v3)** | 2025-04-24 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2024</p></details> |
-| **[To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](http://arxiv.org/abs/2403.12533v3)** | 2025-04-24 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024</p></details> |
-| **[Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications](http://arxiv.org/abs/2501.07421v2)** | 2025-04-24 |  |
-| **[Latent Representations for Visual Proprioception in Inexpensive Robots](http://arxiv.org/abs/2504.14634v2)** | 2025-04-24 |  |
-| **[Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](http://arxiv.org/abs/2501.10100v3)** | 2025-04-24 |  |
-| **[Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](http://arxiv.org/abs/2504.17249v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted in Robotics: Science and Systems (RSS) 2025</p></details> |
-| **[Robotic Grinding Skills Learning Based on Geodesic Length Dynamic Motion Primitives](http://arxiv.org/abs/2504.17216v1)** | 2025-04-24 |  |
-| **[MAT-DiSMech: A Discrete Differential Geometry-based Computational Tool for Simulation of Rods, Shells, and Soft Robots](http://arxiv.org/abs/2504.17186v1)** | 2025-04-24 | <details><summary>Total...</summary><p>Total 25 pages, 8 figures, open-source code available at https://github.com/StructuresComp/dismech-matlab</p></details> |
-| **[RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance](http://arxiv.org/abs/2401.15159v2)** | 2025-04-23 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)</p></details> |
-| **[SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey](http://arxiv.org/abs/2503.09829v3)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to International Journcal of Control, Automation and Systems (IJCAS)</p></details> |
 
