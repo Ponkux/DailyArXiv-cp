@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 24, 2025
+title: Latest 15 Papers - May 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -57,7 +57,7 @@ labels: documentation
 | **[Strengthening Generative Robot Policies through Predictive World Modeling](http://arxiv.org/abs/2502.00622v2)** | 2025-05-22 | <details><summary>Websi...</summary><p>Website: https://computationalrobotics.seas.harvard.edu/GPC</p></details> |
 | **[Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces](http://arxiv.org/abs/2505.16087v1)** | 2025-05-22 |  |
 | **[Goal-conditioned dual-action imitation learning for dexterous dual-arm robot manipulation](http://arxiv.org/abs/2203.09749v3)** | 2025-05-21 | <details><summary>19 pa...</summary><p>19 pages, published in Transactions on Robotics (T-RO)</p></details> |
+| **[Gaze-based dual resolution deep imitation learning for high-precision dexterous robot manipulation](http://arxiv.org/abs/2102.01295v4)** | 2025-05-21 | <details><summary>8 pag...</summary><p>8 pages. The supplementary video can be found at: https://www.youtube.com/watch?v=ytpChcFqD5g Published in IEEE Robotics and Automation Letters. Replaced to add video url in the manuscript</p></details> |
 | **[Transformer-based deep imitation learning for dual-arm robot manipulation](http://arxiv.org/abs/2108.00385v3)** | 2025-05-21 | <details><summary>8 pag...</summary><p>8 pages. Accepted in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios](http://arxiv.org/abs/2505.16055v1)** | 2025-05-21 |  |
-| **[Reference Free Platform Adaptive Locomotion for Quadrupedal Robots using a Dynamics Conditioned Policy](http://arxiv.org/abs/2505.16042v1)** | 2025-05-21 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, 5 figures</p></details> |
 
