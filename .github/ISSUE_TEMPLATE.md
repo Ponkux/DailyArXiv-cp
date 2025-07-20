@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2025
+title: Latest 15 Papers - July 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,20 +27,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](http://arxiv.org/abs/2507.13348v1)** | 2025-07-17 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/dvlab-research/VisionThink</p></details> |
-| **[Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence](http://arxiv.org/abs/2504.17703v2)** | 2025-07-17 |  |
-| **[Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](http://arxiv.org/abs/2502.14819v2)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project web page: https://latent-planning.github.io/</p></details> |
-| **[Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour](http://arxiv.org/abs/2507.13277v1)** | 2025-07-17 |  |
-| **[QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation](http://arxiv.org/abs/2507.13266v1)** | 2025-07-17 | 19 pages, 8 figures |
-| **[Multiple-Frequencies Population-Based Training](http://arxiv.org/abs/2506.03225v2)** | 2025-07-17 | RLC25 - Camera-ready |
-| **[Signal Temporal Logic Compliant Co-design of Planning and Control](http://arxiv.org/abs/2507.13225v1)** | 2025-07-17 |  |
-| **[VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain](http://arxiv.org/abs/2409.17469v4)** | 2025-07-17 |  |
-| **[V-Max: A Reinforcement Learning Framework for Autonomous Driving](http://arxiv.org/abs/2503.08388v3)** | 2025-07-17 | <details><summary>RLC 2...</summary><p>RLC 25 - Camera-ready</p></details> |
-| **[Spectral Bellman Method: Unifying Representation and Exploration in RL](http://arxiv.org/abs/2507.13181v1)** | 2025-07-17 |  |
-| **[Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback](http://arxiv.org/abs/2507.13171v1)** | 2025-07-17 |  |
-| **[Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities](http://arxiv.org/abs/2507.13158v1)** | 2025-07-17 |  |
-| **[From Roots to Rewards: Dynamic Tree Reasoning with RL](http://arxiv.org/abs/2507.13142v1)** | 2025-07-17 |  |
-| **[SmartThinker: Learning to Compress and Preserve Reasoning by Step-Level Length Control](http://arxiv.org/abs/2507.04348v2)** | 2025-07-17 |  |
-| **[Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning](http://arxiv.org/abs/2507.12977v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted at IROS 2025</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
