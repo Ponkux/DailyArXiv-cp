@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](http://arxiv.org/abs/2507.22058v1)** | 2025-07-29 |  |
-| **[Structure-Informed Deep Reinforcement Learning for Inventory Management](http://arxiv.org/abs/2507.22040v1)** | 2025-07-29 |  |
-| **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
-| **[From Seeing to Experiencing: Scaling Navigation Foundation Models with Reinforcement Learning](http://arxiv.org/abs/2507.22028v1)** | 2025-07-29 |  |
-| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
-| **[Exploring the Stratified Space Structure of an RL Game with the Volume Growth Transform](http://arxiv.org/abs/2507.22010v1)** | 2025-07-29 | <details><summary>17 pa...</summary><p>17 pages and 8 figures. Preliminary report. Feedback welcome!</p></details> |
-| **[ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](http://arxiv.org/abs/2507.21990v1)** | 2025-07-29 | 13 figures, 4 tables |
-| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](http://arxiv.org/abs/2507.21983v1)** | 2025-07-29 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
-| **[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](http://arxiv.org/abs/2507.21974v1)** | 2025-07-29 |  |
-| **[DeepGo: Predictive Directed Greybox Fuzzing](http://arxiv.org/abs/2507.21952v1)** | 2025-07-29 |  |
-| **[Post-Training Large Language Models via Reinforcement Learning from Self-Feedback](http://arxiv.org/abs/2507.21931v1)** | 2025-07-29 |  |
-| **[Probabilistically safe and efficient model-based reinforcement learning](http://arxiv.org/abs/2504.00626v2)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted to 2025 CDC</p></details> |
-| **[Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](http://arxiv.org/abs/2507.21892v1)** | 2025-07-29 | Preprint |
-| **[EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity](http://arxiv.org/abs/2507.21848v1)** | 2025-07-29 |  |
-| **[FB-RAG: Improving RAG with Forward and Backward Lookup](http://arxiv.org/abs/2505.17206v2)** | 2025-07-29 |  |
+| **[Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning](http://arxiv.org/abs/2501.13883v2)** | 2025-07-30 |  |
+| **[Human-Level Competitive Pokémon via Scalable Offline Reinforcement Learning with Transformers](http://arxiv.org/abs/2504.04395v2)** | 2025-07-30 | <details><summary>Reinf...</summary><p>Reinforcement Learning Conference 2025</p></details> |
+| **[A Bit of Freedom Goes a Long Way: Classical and Quantum Algorithms for Reinforcement Learning under a Generative Model](http://arxiv.org/abs/2507.22854v1)** | 2025-07-30 | 57 pages |
+| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
+| **[RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](http://arxiv.org/abs/2507.22844v1)** | 2025-07-30 |  |
+| **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v3)** | 2025-07-30 | <details><summary>Code ...</summary><p>Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
+| **[Deep reinforcement learning for efficient exploration of combinatorial structural design spaces](http://arxiv.org/abs/2507.22804v1)** | 2025-07-30 | <details><summary>Submi...</summary><p>Submitted to the International Association for Shell and Spatial Structures (IASS) 2025 Symposium</p></details> |
+| **[G-Core: A Simple, Scalable and Balanced RLHF Trainer](http://arxiv.org/abs/2507.22789v1)** | 2025-07-30 |  |
+| **[Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies](http://arxiv.org/abs/2507.22782v1)** | 2025-07-30 | 8 pages |
+| **[Reducing Hallucinations in Summarization via Reinforcement Learning with Entity Hallucination Index](http://arxiv.org/abs/2507.22744v1)** | 2025-07-30 | 8 |
+| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
+| **[From Sufficiency to Reflection: Reinforcement-Guided Thinking Quality in Retrieval-Augmented Reasoning for LLMs](http://arxiv.org/abs/2507.22716v1)** | 2025-07-30 |  |
+| **[Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction](http://arxiv.org/abs/2507.22640v1)** | 2025-07-30 |  |
+| **[VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](http://arxiv.org/abs/2507.22607v1)** | 2025-07-30 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 tables. Work in progress</p></details> |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics](http://arxiv.org/abs/2507.22042v1)** | 2025-07-29 |  |
-| **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
-| **[DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments](http://arxiv.org/abs/2507.21981v1)** | 2025-07-29 | <details><summary>8page...</summary><p>8pages, IROS2025 (Camera Ready)</p></details> |
-| **[Integration of Large Language Models within Cognitive Architectures for Autonomous Robots](http://arxiv.org/abs/2309.14945v3)** | 2025-07-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, Submitted to ROBOT 2025 (8th Iberian Robotics Conference)</p></details> |
-| **[A Systematic Robot Design Optimization Methodology with Application to Redundant Dual-Arm Manipulators](http://arxiv.org/abs/2507.21896v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
-| **[An Integrated Approach to Robotic Object Grasping and Manipulation](http://arxiv.org/abs/2411.13205v3)** | 2025-07-29 |  |
-| **[MoDeSuite: Robot Learning Task Suite for Benchmarking Mobile Manipulation with Deformable Objects](http://arxiv.org/abs/2507.21796v1)** | 2025-07-29 |  |
-| **[Assistax: A Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](http://arxiv.org/abs/2507.21638v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted for the Coordination and Cooperation in Multi-Agent Reinforcement Learning Workshop at the Reinforcement Learning Conference 2025</p></details> |
-| **[Multi-robot LiDAR SLAM: a practical case study in underground tunnel environments](http://arxiv.org/abs/2507.21553v1)** | 2025-07-29 | 14 pages, 14 figures |
-| **[Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning](http://arxiv.org/abs/2507.21545v1)** | 2025-07-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Multifunctional physical reservoir computing in soft tensegrity robots](http://arxiv.org/abs/2507.21496v1)** | 2025-07-29 | <details><summary>25 pa...</summary><p>25 pages, 12 figures. The following article has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science</p></details> |
-| **[SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures](http://arxiv.org/abs/2507.00209v3)** | 2025-07-29 |  |
-| **[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](http://arxiv.org/abs/2507.20217v2)** | 2025-07-29 | Tech Report |
-| **[MP1: MeanFlow Tames Policy Learning in 1-step for Robotic Manipulation](http://arxiv.org/abs/2507.10543v3)** | 2025-07-29 |  |
-| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
+| **[Multi-robot LiDAR SLAM: a practical case study in underground tunnel environments](http://arxiv.org/abs/2507.21553v2)** | 2025-07-30 | 14 pages, 14 figures |
+| **[Resilient Multi-Robot Target Tracking with Sensing and Communication Danger Zones](http://arxiv.org/abs/2409.11230v2)** | 2025-07-30 |  |
+| **[Spatial Language Likelihood Grounding Network for Bayesian Fusion of Human-Robot Observations](http://arxiv.org/abs/2507.19947v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC); Supplementary video: https://cu-asl.github.io/fp-lgn/</p></details> |
+| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
+| **[UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation](http://arxiv.org/abs/2507.22653v1)** | 2025-07-30 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IROS 2025</p></details> |
+| **[EmojiVoice: Towards long-term controllable expressivity in robot speech](http://arxiv.org/abs/2506.15085v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to RO-MAN 2025, Demo at HRI 2025 : https://dl.acm.org/doi/10.5555/3721488.3721774 Project webpage here: https://rosielab.github.io/emojivoice/ Toolbox here: https://github.com/rosielab/emojivoice</p></details> |
+| **[TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation](http://arxiv.org/abs/2505.10696v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted for publication to IEEE/RSJ IROS 2025</p></details> |
+| **[Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection](http://arxiv.org/abs/2507.22546v1)** | 2025-07-30 |  |
+| **[Recognizing Actions from Robotic View for Natural Human-Robot Interaction](http://arxiv.org/abs/2507.22522v1)** | 2025-07-30 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Accepted to ICCV2025</p></details> |
+| **[Swing Leg Motion Strategy for Heavy-load Legged Robot Based on Force Sensing](http://arxiv.org/abs/2309.01112v2)** | 2025-07-30 | <details><summary>The m...</summary><p>The manuscript is withdrawn due to ongoing major revisions and improvements to the methodology and experimental validation</p></details> |
+| **[A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation](http://arxiv.org/abs/2507.22473v1)** | 2025-07-30 | IROS2025 |
+| **[Design, Dynamic Modeling and Control of a 2-DOF Robotic Wrist Actuated by Twisted and Coiled Actuators](http://arxiv.org/abs/2503.05508v2)** | 2025-07-30 |  |
+| **[Improving Generalization Ability of Robotic Imitation Learning by Resolving Causal Confusion in Observations](http://arxiv.org/abs/2507.22380v1)** | 2025-07-30 | 13 pages |
+| **[NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT](http://arxiv.org/abs/2404.08939v2)** | 2025-07-30 |  |
+| **[FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability](http://arxiv.org/abs/2507.22345v1)** | 2025-07-30 |  |
 
