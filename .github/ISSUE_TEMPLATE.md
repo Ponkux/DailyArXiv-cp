@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2025
+title: Latest 15 Papers - August 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,9 +55,4 @@ labels: documentation
 | **[Why Report Failed Interactions With Robots?! Towards Vignette-based Interaction Quality](http://arxiv.org/abs/2508.10603v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at the workshop on Real-World HRI in Public and Private Spaces: Successes, Failures, and Lessons Learned (PubRob-Fails), held at the IEEE RO-MAN Conference, 2025. 6 pages</p></details> |
 | **[MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm](http://arxiv.org/abs/2508.10538v1)** | 2025-08-14 |  |
 | **[Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2412.19948v3)** | 2025-08-14 |  |
-| **[Enabling Generic Robot Skill Implementation Using Object Oriented Programming](http://arxiv.org/abs/2508.10497v1)** | 2025-08-14 | <details><summary>34th ...</summary><p>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</p></details> |
-| **[Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation](http://arxiv.org/abs/2310.17879v3)** | 2025-08-14 |  |
-| **[Traversability analysis with vision and terrain probing for safe legged robot navigation](http://arxiv.org/abs/2209.00334v2)** | 2025-08-14 |  |
-| **[Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots](http://arxiv.org/abs/2209.09508v2)** | 2025-08-14 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Preprint version. Accepted June 2022</p></details> |
-| **[MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion](http://arxiv.org/abs/2508.10423v1)** | 2025-08-14 |  |
 
