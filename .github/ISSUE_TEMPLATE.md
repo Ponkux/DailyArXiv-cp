@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](http://arxiv.org/abs/2508.18265v1)** | 2025-08-25 |  |
-| **[VIN-NBV: A View Introspection Network for Next-Best-View Selection](http://arxiv.org/abs/2505.06219v3)** | 2025-08-25 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 2 tables. Reformat into two column. Additional experiments and results</p></details> |
-| **[ANO : Faster is Better in Noisy Landscape](http://arxiv.org/abs/2508.18258v1)** | 2025-08-25 | <details><summary>Work ...</summary><p>Work in progress, 26 pages total with appendix, 7 figures, 12 tables</p></details> |
-| **[Better Language Model-Based Judging Reward Modeling through Scaling Comprehension Boundaries](http://arxiv.org/abs/2508.18212v1)** | 2025-08-25 |  |
-| **[OwkinZero: Accelerating Biological Discovery with AI](http://arxiv.org/abs/2508.16315v2)** | 2025-08-25 | Preprint |
-| **[Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation](http://arxiv.org/abs/2508.18032v1)** | 2025-08-25 |  |
-| **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](http://arxiv.org/abs/2508.16153v2)** | 2025-08-25 |  |
-| **[Adaptive Learning for Moving Target defence: Enhancing Cybersecurity Strategies](http://arxiv.org/abs/2508.17945v1)** | 2025-08-25 |  |
-| **[Physical Embodiment Enables Information Processing Beyond Explicit Sensing in Active Matter](http://arxiv.org/abs/2508.17921v1)** | 2025-08-25 |  |
-| **[Tabular and Deep Reinforcement Learning for Gittins Index](http://arxiv.org/abs/2405.01157v4)** | 2025-08-25 |  |
-| **[PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs](http://arxiv.org/abs/2508.17886v1)** | 2025-08-25 |  |
-| **[Group Expectation Policy Optimization for Stable Heterogeneous Reinforcement Learning in LLMs](http://arxiv.org/abs/2508.17850v1)** | 2025-08-25 |  |
-| **[LLMulator: Generalizable Cost Modeling for Dataflow Accelerators with Input-Adaptive Control Flow](http://arxiv.org/abs/2508.17826v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by MICRO (IEEE/ACM International Symposium on Microarchitecture) 2025</p></details> |
-| **[DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models](http://arxiv.org/abs/2508.17803v1)** | 2025-08-25 |  |
-| **[Proximal Supervised Fine-Tuning](http://arxiv.org/abs/2508.17784v1)** | 2025-08-25 |  |
+| **[Emergent time-keeping mechanisms in a deep reinforcement learning agent performing an interval timing task](http://arxiv.org/abs/2508.15784v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at 2025 Artificial Life Conference</p></details> |
+| **[StepWiser: Stepwise Generative Judges for Wiser Reasoning](http://arxiv.org/abs/2508.19229v1)** | 2025-08-26 |  |
+| **[QuadKAN: KAN-Enhanced Quadruped Motion Control via End-to-End Reinforcement Learning](http://arxiv.org/abs/2508.19153v1)** | 2025-08-26 | <details><summary>14pag...</summary><p>14pages, 9 figures, Journal paper</p></details> |
+| **[Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games](http://arxiv.org/abs/2508.19152v1)** | 2025-08-26 | <details><summary>PhD D...</summary><p>PhD Dissertation, National Yang Ming Chiao Tung University, 2025. This is the public version without Chinese abstract or postscript</p></details> |
+| **[Active Query Selection for Crowd-Based Reinforcement Learning](http://arxiv.org/abs/2508.19132v1)** | 2025-08-26 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 2 tables plus appendices</p></details> |
+| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v3)** | 2025-08-26 |  |
+| **[Ego-Foresight: Self-supervised Learning of Agent-Aware Representations for Improved RL](http://arxiv.org/abs/2407.01570v3)** | 2025-08-26 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, conference</p></details> |
+| **[Safe Reinforcement Learning in Black-Box Environments via Adaptive Shielding](http://arxiv.org/abs/2405.18180v3)** | 2025-08-26 | <details><summary>To be...</summary><p>To be published in ECAI 25</p></details> |
+| **[Reasoning LLMs in the Medical Domain: A Literature Survey](http://arxiv.org/abs/2508.19097v1)** | 2025-08-26 |  |
+| **[Steerable Scene Generation with Post Training and Inference-Time Search](http://arxiv.org/abs/2505.04831v2)** | 2025-08-26 | <details><summary>Proje...</summary><p>Project website: https://steerable-scene-generation.github.io/</p></details> |
+| **[Attackers Strike Back? Not Anymore - An Ensemble of RL Defenders Awakens for APT Detection](http://arxiv.org/abs/2508.19072v1)** | 2025-08-26 |  |
+| **[MAB Optimizer for Estimating Math Question Difficulty via Inverse CV without NLP](http://arxiv.org/abs/2508.19014v1)** | 2025-08-26 |  |
+| **[Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning](http://arxiv.org/abs/2508.16949v2)** | 2025-08-26 | <details><summary>This ...</summary><p>This work is still in progress</p></details> |
+| **[FormaRL: Enhancing Autoformalization with no Labeled Data](http://arxiv.org/abs/2508.18914v1)** | 2025-08-26 | <details><summary>Confe...</summary><p>Conference paper at COLM2025</p></details> |
+| **[Noise-based reward-modulated learning](http://arxiv.org/abs/2503.23972v2)** | 2025-08-26 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping](http://arxiv.org/abs/2506.06535v3)** | 2025-08-25 |  |
-| **[DANCeRS: A Distributed Algorithm for Negotiating Consensus in Robot Swarms with Gaussian Belief Propagation](http://arxiv.org/abs/2508.18153v1)** | 2025-08-25 |  |
-| **[The Effects of Communication Delay on Human Performance and Neurocognitive Responses in Mobile Robot Teleoperation](http://arxiv.org/abs/2508.18074v1)** | 2025-08-25 |  |
-| **[No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin](http://arxiv.org/abs/2508.17986v1)** | 2025-08-25 | <details><summary>Submi...</summary><p>Submitted for review to ICRA 2026</p></details> |
-| **[Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications](http://arxiv.org/abs/2508.17753v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at the workshop on Foundation Models for Social Robotics (FoMoSR) at ICSR 2025</p></details> |
-| **[MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](http://arxiv.org/abs/2411.17636v2)** | 2025-08-25 | 48 pages |
-| **[AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons](http://arxiv.org/abs/2503.03081v3)** | 2025-08-25 | <details><summary>accep...</summary><p>accepted to CoRL 2025</p></details> |
-| **[MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding](http://arxiv.org/abs/2508.17684v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted at IEEE-RAS Humanoids2025, Website - https://haraduka.github.io/mevita-hardware , YouTube - https://youtu.be/_akfHkCne0s</p></details> |
-| **[Physical Autoregressive Model for Robotic Manipulation without Action Pretraining](http://arxiv.org/abs/2508.09822v2)** | 2025-08-25 | 16 pages, 6 figures |
-| **[SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation](http://arxiv.org/abs/2508.17643v1)** | 2025-08-25 |  |
-| **[GWM: Towards Scalable Gaussian World Models for Robotic Manipulation](http://arxiv.org/abs/2508.17600v1)** | 2025-08-25 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://gaussian-world-model.github.io/</p></details> |
-| **[BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities](http://arxiv.org/abs/2503.05652v2)** | 2025-08-24 | <details><summary>9th C...</summary><p>9th Conference on Robot Learning (CoRL 2025), Seoul, Korea. Project website: https://behavior-robot-suite.github.io/</p></details> |
-| **[Optimizing Grasping in Legged Robots: A Deep Learning Approach to Loco-Manipulation](http://arxiv.org/abs/2508.17466v1)** | 2025-08-24 |  |
-| **[Robotic Manipulation via Imitation Learning: Taxonomy, Evolution, Benchmark, and Challenges](http://arxiv.org/abs/2508.17449v1)** | 2025-08-24 |  |
-| **[4D Visual Pre-training for Robot Learning](http://arxiv.org/abs/2508.17230v1)** | 2025-08-24 |  |
+| **[MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2508.19236v1)** | 2025-08-26 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA</p></details> |
+| **[Dojo: A Differentiable Physics Engine for Robotics](http://arxiv.org/abs/2203.00806v5)** | 2025-08-26 |  |
+| **[AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot](http://arxiv.org/abs/2508.19191v1)** | 2025-08-26 |  |
+| **[Real-Time Model Checking for Closed-Loop Robot Reactive Planning](http://arxiv.org/abs/2508.19186v1)** | 2025-08-26 | <details><summary>30 pa...</summary><p>30 pages excluding references, 18 figures, submitted to Formal Aspects of Computing</p></details> |
+| **[From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity](http://arxiv.org/abs/2508.19172v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at CoRL 2025</p></details> |
+| **[Uncertainty-Resilient Active Intention Recognition for Robotic Assistants](http://arxiv.org/abs/2508.19150v1)** | 2025-08-26 | <details><summary>(To a...</summary><p>(To appear) In Proceedings of ECMR 2025</p></details> |
+| **[DELIVER: A System for LLM-Guided Coordinated Multi-Robot Pickup and Delivery using Voronoi-Based Relay Planning](http://arxiv.org/abs/2508.19114v1)** | 2025-08-26 | <details><summary>Submi...</summary><p>Submission under review at the 2026 IEEE/SICE International Symposium on System Integration (SII 2026)</p></details> |
+| **[An LLM-powered Natural-to-Robotic Language Translation Framework with Correctness Guarantees](http://arxiv.org/abs/2508.19074v1)** | 2025-08-26 |  |
+| **[HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots](http://arxiv.org/abs/2508.19002v1)** | 2025-08-26 | <details><summary>8 pag...</summary><p>8 pages, 8 figures,4 tables</p></details> |
+| **[VisionSafeEnhanced VPC: Cautious Predictive Control with Visibility Constraints under Uncertainty for Autonomous Robotic Surgery](http://arxiv.org/abs/2508.18937v1)** | 2025-08-26 | 8 pages, 6 figures |
+| **[Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze Information and Motion Bottlenecks](http://arxiv.org/abs/2502.18121v3)** | 2025-08-26 |  |
+| **[Multi-Touch and Bending Perception Using Electrical Impedance Tomography for Robotics](http://arxiv.org/abs/2503.13048v2)** | 2025-08-26 |  |
+| **[Enhancing Video-Based Robot Failure Detection Using Task Knowledge](http://arxiv.org/abs/2508.18705v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at ECMR 2025</p></details> |
+| **[AgriChrono: A Multi-modal Dataset Capturing Crop Growth and Lighting Variability with a Field Robot](http://arxiv.org/abs/2508.18694v1)** | 2025-08-26 |  |
+| **[Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](http://arxiv.org/abs/2412.18292v5)** | 2025-08-26 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, Extended Version of accepted AAAI 2025 Paper</p></details> |
 
