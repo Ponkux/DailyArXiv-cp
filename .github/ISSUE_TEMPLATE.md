@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 30, 2025
+title: Latest 15 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs](http://arxiv.org/abs/2412.10439v3)** | 2025-08-28 |  |
+| **[HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation](http://arxiv.org/abs/2508.17832v1)** | 2025-08-25 |  |
+| **[Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](http://arxiv.org/abs/2407.06886v8)** | 2025-08-25 | <details><summary>The c...</summary><p>The comprehensive review of Embodied AI. We also provide the resource repository for Embodied AI: https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List</p></details> |
+| **[BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion](http://arxiv.org/abs/2506.15610v3)** | 2025-08-24 | <details><summary>Proje...</summary><p>Project page: https://lanlan96.github.io/BoxFusion/</p></details> |
+| **[FetchBot: Learning Generalizable Object Fetching in Cluttered Scenes via Zero-Shot Sim2Real](http://arxiv.org/abs/2502.17894v2)** | 2025-08-24 | <details><summary>9th A...</summary><p>9th Annual Conference on Robot Learning (CoRL 2025, Oral)</p></details> |
+| **[SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](http://arxiv.org/abs/2508.15769v1)** | 2025-08-21 | <details><summary>Techn...</summary><p>Technical Report; Project Page: https://mengmouxu.github.io/SceneGen</p></details> |
+| **[Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation](http://arxiv.org/abs/2508.15663v1)** | 2025-08-21 |  |
+| **[Survey of Vision-Language-Action Models for Embodied Manipulation](http://arxiv.org/abs/2508.15201v1)** | 2025-08-21 | in Chinese language |
+| **[Open-Universe Assistance Games](http://arxiv.org/abs/2508.15119v1)** | 2025-08-20 | <details><summary>7 pag...</summary><p>7 pages + 2 pages references + 7 pages appendix</p></details> |
+| **[JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics](http://arxiv.org/abs/2508.10287v2)** | 2025-08-20 |  |
+| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](http://arxiv.org/abs/2508.13998v1)** | 2025-08-19 | <details><summary>Embod...</summary><p>Embodied-R1 technical report</p></details> |
+| **[Multimodal Data Storage and Retrieval for Embodied AI: A Survey](http://arxiv.org/abs/2508.13901v1)** | 2025-08-19 |  |
+| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v5)** | 2025-08-19 | CoRL 2025 |
+| **[Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics](http://arxiv.org/abs/2508.13444v1)** | 2025-08-19 | Workshop Submission |
+| **[Virtuous Machines: Towards Artificial General Science](http://arxiv.org/abs/2508.13421v1)** | 2025-08-19 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
