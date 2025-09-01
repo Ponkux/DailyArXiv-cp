@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](http://arxiv.org/abs/2508.21066v1)** | 2025-08-28 | <details><summary>proje...</summary><p>project url: https://one-reward.github.io</p></details> |
-| **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v1)** | 2025-08-28 | 8 pages, 7 figures |
-| **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v4)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
-| **[Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance](http://arxiv.org/abs/2508.21016v1)** | 2025-08-28 |  |
-| **[Digital Twin-Empowered Deep Reinforcement Learning for Intelligent VNF Migration in Edge-Core Networks](http://arxiv.org/abs/2508.20957v1)** | 2025-08-28 |  |
-| **[SageLM: A Multi-aspect and Explainable Large Language Model for Speech Judgement](http://arxiv.org/abs/2508.20916v1)** | 2025-08-28 |  |
-| **[OneRec-V2 Technical Report](http://arxiv.org/abs/2508.20900v1)** | 2025-08-28 |  |
-| **[Learning to Drive Ethically: Embedding Moral Reasoning into Autonomous Driving](http://arxiv.org/abs/2508.14926v2)** | 2025-08-28 |  |
-| **[Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning](http://arxiv.org/abs/2503.08751v2)** | 2025-08-28 |  |
-| **[cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending](http://arxiv.org/abs/2508.20818v1)** | 2025-08-28 | <details><summary>A sho...</summary><p>A shorter version has been accepted to the 2025 Conference on Information and Knowledge Management</p></details> |
-| **[Single Agent Robust Deep Reinforcement Learning for Bus Fleet Control](http://arxiv.org/abs/2508.20784v1)** | 2025-08-28 |  |
-| **[Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning](http://arxiv.org/abs/2508.20751v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://codegoat24.github.io/UnifiedReward/Pref-GRPO</p></details> |
-| **[An Efficient Data-Driven Framework for Linear Quadratic Output Feedback Control](http://arxiv.org/abs/2508.20748v1)** | 2025-08-28 |  |
-| **[rStar2-Agent: Agentic Reasoning Technical Report](http://arxiv.org/abs/2508.20722v1)** | 2025-08-28 |  |
-| **[LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions](http://arxiv.org/abs/2508.18321v2)** | 2025-08-28 |  |
+| **[DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers](http://arxiv.org/abs/2508.21797v1)** | 2025-08-29 |  |
+| **[DocR1: Evidence Page-Guided GRPO for Multi-Page Document Understanding](http://arxiv.org/abs/2508.07313v2)** | 2025-08-29 |  |
+| **[UItron: Foundational GUI Agent with Advanced Perception and Planning](http://arxiv.org/abs/2508.21767v1)** | 2025-08-29 | 24 pages |
+| **[Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime](http://arxiv.org/abs/2504.12000v2)** | 2025-08-29 |  |
+| **[Can a mobile robot learn from a pedestrian model to prevent the sidewalk salsa?](http://arxiv.org/abs/2508.21690v1)** | 2025-08-29 |  |
+| **[Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation](http://arxiv.org/abs/2505.04619v2)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted at CoRL 2025. For project website and code, see https://aalmuzairee.github.io/mad</p></details> |
+| **[BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens](http://arxiv.org/abs/2508.17196v2)** | 2025-08-29 |  |
+| **[Machine Intelligence on the Edge: Interpretable Cardiac Pattern Localisation Using Reinforcement Learning](http://arxiv.org/abs/2508.21652v1)** | 2025-08-29 |  |
+| **[Integrating Large Language Models with Network Optimization for Interactive and Explainable Supply Chain Planning: A Real-World Case Study](http://arxiv.org/abs/2508.21622v1)** | 2025-08-29 |  |
+| **[Learning Agile Gate Traversal via Analytical Optimal Policy Gradient](http://arxiv.org/abs/2508.21592v1)** | 2025-08-29 | 8 pages, 8 figures |
+| **[NSPDI-SNN: An efficient lightweight SNN based on nonlinear synaptic pruning and dendritic integration](http://arxiv.org/abs/2508.21566v1)** | 2025-08-29 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 5 tables; This manuscript has been submitted for possible pulication</p></details> |
+| **[Reusable Test Suites for Reinforcement Learning](http://arxiv.org/abs/2508.21553v1)** | 2025-08-29 |  |
+| **[Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity, and Convergence](http://arxiv.org/abs/2412.18164v4)** | 2025-08-29 | <details><summary>31 pa...</summary><p>31 pages; first version: Dec 2024; this version: Aug 2025</p></details> |
+| **[Traversing the Narrow Path: A Two-Stage Reinforcement Learning Framework for Humanoid Beam Walking](http://arxiv.org/abs/2508.20661v2)** | 2025-08-29 | <details><summary>Proje...</summary><p>Project website: https://huangtc233.github.io/Traversing-the-Narrow-Path/</p></details> |
+| **[Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control](http://arxiv.org/abs/2508.21505v1)** | 2025-08-29 | <details><summary>Prepr...</summary><p>Preprint (31 pages, 19 images, 7 tables)</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[COBRA-PPM: A Causal Bayesian Reasoning Architecture Using Probabilistic Programming for Robot Manipulation Under Uncertainty](http://arxiv.org/abs/2403.14488v4)** | 2025-08-29 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, accepted to the 2025 IEEE European Conference on Mobile Robots (ECMR 2025)</p></details> |
+| **[Centralization vs. decentralization in multi-robot sweep coverage with ground robots and UAVs](http://arxiv.org/abs/2408.06553v4)** | 2025-08-29 | <details><summary>IRIDI...</summary><p>IRIDIA, Universite Libre de Bruxelles, Brussels, Belgium, 2021</p></details> |
+| **[Can a mobile robot learn from a pedestrian model to prevent the sidewalk salsa?](http://arxiv.org/abs/2508.21690v1)** | 2025-08-29 |  |
+| **[Robust Convex Model Predictive Control with collision avoidance guarantees for robot manipulators](http://arxiv.org/abs/2508.21677v1)** | 2025-08-29 |  |
+| **[The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics](http://arxiv.org/abs/2508.21635v1)** | 2025-08-29 | <details><summary>First...</summary><p>First published on The International Journal of Robotics Research: https://journals.sagepub.com/doi/10.1177/02783649251368909</p></details> |
+| **[Knowledge in multi-robot systems: an interplay of dynamics, computation and communication](http://arxiv.org/abs/2501.18309v2)** | 2025-08-29 |  |
+| **[CoRI: Communication of Robot Intent for Physical Human-Robot Interaction](http://arxiv.org/abs/2505.20537v2)** | 2025-08-29 | <details><summary>To be...</summary><p>To be published in Proceedings of the 9th Conference on Robot Learning (CoRL). 34 pages, 10 figures</p></details> |
+| **[Assessing Human Cooperation for Enhancing Social Robot Navigation](http://arxiv.org/abs/2508.21455v1)** | 2025-08-29 |  |
+| **[RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](http://arxiv.org/abs/2508.21378v1)** | 2025-08-29 |  |
+| **[QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots](http://arxiv.org/abs/2508.02512v2)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. The source code and model weights will be publicly available at \url{https://github.com/losehu/QuaDreamer</p></details> |
+| **[UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception](http://arxiv.org/abs/2508.20982v2)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
+| **[Towards Embodiment Scaling Laws in Robot Locomotion](http://arxiv.org/abs/2505.05753v2)** | 2025-08-29 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL), 2025. Project website: https://embodiment-scaling-laws.github.io/</p></details> |
+| **[Multi-robot Path Planning and Scheduling via Model Predictive Optimal Transport (MPC-OT)](http://arxiv.org/abs/2508.21205v1)** | 2025-08-28 | <details><summary>2025 ...</summary><p>2025 IEEE Conference on Decision and Control</p></details> |
+| **[Pellet-based 3D Printing of Soft Thermoplastic Elastomeric Membranes for Soft Robotic Applications](http://arxiv.org/abs/2503.20957v2)** | 2025-08-28 |  |
 | **[HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](http://arxiv.org/abs/2508.21043v1)** | 2025-08-28 | 8 pages, 7 figures |
-| **[UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception](http://arxiv.org/abs/2508.20982v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[CoCoL: A Communication Efficient Decentralized Collaborative Method for Multi-Robot Systems](http://arxiv.org/abs/2508.20898v1)** | 2025-08-28 | Accepted by IROS2025 |
-| **[Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning](http://arxiv.org/abs/2508.20884v1)** | 2025-08-28 |  |
-| **[Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](http://arxiv.org/abs/2508.20840v1)** | 2025-08-28 |  |
-| **[Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting](http://arxiv.org/abs/2508.20812v1)** | 2025-08-28 |  |
-| **[Pixel Motion as Universal Representation for Robot Control](http://arxiv.org/abs/2505.07817v2)** | 2025-08-28 |  |
-| **[From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity](http://arxiv.org/abs/2508.19172v3)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at CoRL 2025</p></details> |
-| **[Task-Oriented Edge-Assisted Cross-System Design for Real-Time Human-Robot Interaction in Industrial Metaverse](http://arxiv.org/abs/2508.20664v1)** | 2025-08-28 | <details><summary>This ...</summary><p>This paper has submitted to IEEE Transactions on Mobile Computing</p></details> |
-| **[Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation](http://arxiv.org/abs/2508.19958v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025; Github Page: https://long-vla.github.io</p></details> |
-| **[Learning Fast, Tool aware Collision Avoidance for Collaborative Robots](http://arxiv.org/abs/2508.20457v1)** | 2025-08-28 |  |
-| **[HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation](http://arxiv.org/abs/2508.20085v2)** | 2025-08-28 |  |
-| **[Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion Planning](http://arxiv.org/abs/2508.20095v1)** | 2025-08-27 |  |
-| **[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](http://arxiv.org/abs/2506.18088v2)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project Page: https://robotwin-platform.github.io/, Code: https://github.com/robotwin-Platform/robotwin, Doc: https://robotwin-platform.github.io/doc/</p></details> |
-| **[RoboComm: A DID-based scalable and privacy-preserving Robot-to-Robot interaction over state channels](http://arxiv.org/abs/2504.09517v3)** | 2025-08-27 | 19 pages, 10 figures |
 
