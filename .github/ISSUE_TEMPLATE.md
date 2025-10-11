@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 10, 2025
+title: Latest 15 Papers - October 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,11 @@ labels: documentation
 | **[SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.08531v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/SpatialLadder/ Code: https://github.com/ZJU-REAL/SpatialLadder</p></details> |
 | **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](http://arxiv.org/abs/2510.08529v1)** | 2025-10-09 |  |
 | **[Convergence Theorems for Entropy-Regularized and Distributional Reinforcement Learning](http://arxiv.org/abs/2510.08526v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. First two authors contributed equally</p></details> |
+| **[Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](http://arxiv.org/abs/2510.08525v1)** | 2025-10-09 |  |
+| **[DYNAMIX: RL-based Adaptive Batch Size Optimization in Distributed Machine Learning Systems](http://arxiv.org/abs/2510.08522v1)** | 2025-10-09 |  |
+| **[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](http://arxiv.org/abs/2507.16746v2)** | 2025-10-09 | <details><summary>datas...</summary><p>dataset link: https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT</p></details> |
+| **[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](http://arxiv.org/abs/2509.06493v2)** | 2025-10-09 |  |
+| **[Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools](http://arxiv.org/abs/2510.08480v1)** | 2025-10-09 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
