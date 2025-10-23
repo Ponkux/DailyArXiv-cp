@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes](http://arxiv.org/abs/2510.19400v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The project and benchmark are publicly available at https://github.com/microsoft/MV-RoboBench</p></details> |
 | **[Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation](http://arxiv.org/abs/2510.00441v3)** | 2025-10-21 |  |
 | **[VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning](http://arxiv.org/abs/2506.09049v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project page: https://faceong.github.io/VIKI-R/</p></details> |
 | **[3D Audio-Visual Segmentation](http://arxiv.org/abs/2411.02236v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2024 Workshop on Audio Imagination; this version updates the project page link</p></details> |
@@ -21,43 +22,37 @@ labels: documentation
 | **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](http://arxiv.org/abs/2510.12693v1)** | 2025-10-14 |  |
 | **[Image Quality Assessment for Embodied AI](http://arxiv.org/abs/2505.16815v2)** | 2025-10-14 |  |
 | **[InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](http://arxiv.org/abs/2509.10813v2)** | 2025-10-14 |  |
-| **[Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View](http://arxiv.org/abs/2510.11687v1)** | 2025-10-13 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](http://arxiv.org/abs/2510.18874v1)** | 2025-10-21 |  |
-| **[Wonder Wins Ways: Curiosity-Driven Exploration through Multi-Agent Contextual Calibration](http://arxiv.org/abs/2509.20648v2)** | 2025-10-21 |  |
-| **[EffiReasonTrans: RL-Optimized Reasoning for Code Translation](http://arxiv.org/abs/2510.18863v1)** | 2025-10-21 |  |
-| **[Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](http://arxiv.org/abs/2510.18855v1)** | 2025-10-21 | Technical Report |
-| **[Lyapunov-Aware Quantum-Inspired Reinforcement Learning for Continuous-Time Vehicle Control: A Feasibility Study](http://arxiv.org/abs/2510.18852v1)** | 2025-10-21 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 20 equations, 3 appendices, 4 tables</p></details> |
-| **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](http://arxiv.org/abs/2510.18849v1)** | 2025-10-21 | work in progress |
-| **[Actor-Free Continuous Control via Structurally Maximizable Q-Functions](http://arxiv.org/abs/2510.18828v1)** | 2025-10-21 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation](http://arxiv.org/abs/2509.21690v2)** | 2025-10-21 |  |
-| **[Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](http://arxiv.org/abs/2510.11370v2)** | 2025-10-21 |  |
-| **[Search Self-play: Pushing the Frontier of Agent Capability without Supervision](http://arxiv.org/abs/2510.18821v1)** | 2025-10-21 |  |
-| **[Online SFT for LLM Reasoning: Surprising Effectiveness of Self-Tuning without Rewards](http://arxiv.org/abs/2510.18814v1)** | 2025-10-21 |  |
-| **[SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents](http://arxiv.org/abs/2510.17017v2)** | 2025-10-21 |  |
-| **[Stochastic Path Planning in Correlated Obstacle Fields](http://arxiv.org/abs/2509.19559v2)** | 2025-10-21 |  |
-| **[Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning](http://arxiv.org/abs/2506.01480v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[WebSeer: Training Deeper Search Agents through Reinforcement Learning with Self-Reflection](http://arxiv.org/abs/2510.18798v1)** | 2025-10-21 |  |
+| **[Learning Reward Machines from Partially Observed Policies](http://arxiv.org/abs/2502.03762v3)** | 2025-10-22 |  |
+| **[olmOCR 2: Unit Test Rewards for Document OCR](http://arxiv.org/abs/2510.19817v1)** | 2025-10-22 | <details><summary>https...</summary><p>https://olmocr.allen.ai/</p></details> |
+| **[Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning](http://arxiv.org/abs/2510.19807v1)** | 2025-10-22 | <details><summary>Code:...</summary><p>Code: https://github.com/dvlab-research/Scaf-GRPO</p></details> |
+| **[Provably Efficient Reward Transfer in Reinforcement Learning with Discrete Markov Decision Processes](http://arxiv.org/abs/2503.13414v3)** | 2025-10-22 |  |
+| **[QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](http://arxiv.org/abs/2506.00711v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted as Oral at NeurIPS 2025. Revision after camera ready</p></details> |
+| **[SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas](http://arxiv.org/abs/2510.19766v1)** | 2025-10-22 |  |
+| **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v4)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project page: https://github.com/tulerfeng/Video-R1</p></details> |
+| **[Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning](http://arxiv.org/abs/2508.16949v5)** | 2025-10-22 |  |
+| **[Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](http://arxiv.org/abs/2510.19732v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted for Spotlight Presentation at NeurIPS 2025</p></details> |
+| **[AttentionSwarm: Reinforcement Learning with Attention Control Barier Function for Crazyflie Drones in Dynamic Environments](http://arxiv.org/abs/2503.07376v2)** | 2025-10-22 | 6 pages, 6 figures |
+| **[ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning](http://arxiv.org/abs/2510.14176v2)** | 2025-10-22 |  |
+| **[Masked Generative Priors Improve World Models Sequence Modelling Capabilities](http://arxiv.org/abs/2410.07836v6)** | 2025-10-22 |  |
+| **[MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom](http://arxiv.org/abs/2510.19626v1)** | 2025-10-22 | <details><summary>The c...</summary><p>The code, checkpoints, and dataset are available at: https://github.com/Leevan001/MedReason-R1</p></details> |
+| **[DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning](http://arxiv.org/abs/2510.19562v1)** | 2025-10-22 | <details><summary>Websi...</summary><p>Website at: https://github.com/RunpengXie/Distributional-Aligned-Learning</p></details> |
+| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v2)** | 2025-10-22 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethink Repeatable Measures of Robot Performance with Statistical Query](http://arxiv.org/abs/2505.08216v3)** | 2025-10-21 |  |
-| **[Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](http://arxiv.org/abs/2508.05186v2)** | 2025-10-21 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, project page: https://hcplab-sysu.github.io/TAVP</p></details> |
-| **[Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations](http://arxiv.org/abs/2510.18697v1)** | 2025-10-21 | Submitted to RA-L |
-| **[A Compositional Paradigm for Foundation Models: Towards Smarter Robotic Agents](http://arxiv.org/abs/2510.18608v1)** | 2025-10-21 |  |
-| **[Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning](http://arxiv.org/abs/2510.18518v1)** | 2025-10-21 |  |
-| **[Time Reversal Symmetry for Efficient Robotic Manipulations in Deep Reinforcement Learning](http://arxiv.org/abs/2505.13925v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[Biomechanically consistent real-time action recognition for human-robot interaction](http://arxiv.org/abs/2510.18373v1)** | 2025-10-21 |  |
-| **[DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials](http://arxiv.org/abs/2510.17335v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted as a regular paper by the IEEE Transactions on Robotics</p></details> |
-| **[IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity](http://arxiv.org/abs/2409.04730v3)** | 2025-10-21 | <details><summary>\c{op...</summary><p>\c{opyright} 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning](http://arxiv.org/abs/2510.18137v1)** | 2025-10-20 |  |
-| **[MOFM-Nav: On-Manifold Ordering-Flexible Multi-Robot Navigation](http://arxiv.org/abs/2510.18063v1)** | 2025-10-20 |  |
-| **[Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](http://arxiv.org/abs/2402.07127v3)** | 2025-10-20 | <details><summary>Publi...</summary><p>Published at IEEE Access</p></details> |
-| **[RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies](http://arxiv.org/abs/2510.17950v1)** | 2025-10-20 | <details><summary>Autho...</summary><p>Authors are listed in alphabetical order. The official website is located at https://robochallenge.ai</p></details> |
-| **[Studying the Effects of Robot Intervention on School Shooters in Virtual Reality](http://arxiv.org/abs/2510.17948v1)** | 2025-10-20 | <details><summary>Prepr...</summary><p>Preprint under review for conference publication. 10 pages, 9 figures, 3 tables (including 1-page appendix)</p></details> |
-| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v1)** | 2025-10-20 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
+| **[What Foundation Models can Bring for Robot Learning in Manipulation : A Survey](http://arxiv.org/abs/2404.18201v6)** | 2025-10-22 |  |
+| **[LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](http://arxiv.org/abs/2510.19655v1)** | 2025-10-22 |  |
+| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v2)** | 2025-10-22 |  |
+| **[Risk Assessment of an Autonomous Underwater Snake Robot in Confined Operations](http://arxiv.org/abs/2510.19415v1)** | 2025-10-22 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, Accepted for publication in OCEANS 2023 - Limerick</p></details> |
+| **[Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes](http://arxiv.org/abs/2510.19400v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The project and benchmark are publicly available at https://github.com/microsoft/MV-RoboBench</p></details> |
+| **[Using Temperature Sampling to Effectively Train Robot Learning Policies on Imbalanced Datasets](http://arxiv.org/abs/2510.19373v1)** | 2025-10-22 |  |
+| **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v2)** | 2025-10-22 |  |
+| **[TARMAC: A Taxonomy for Robot Manipulation in Chemistry](http://arxiv.org/abs/2510.19289v1)** | 2025-10-22 |  |
+| **[OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation](http://arxiv.org/abs/2510.17150v2)** | 2025-10-22 | <details><summary>Code,...</summary><p>Code, video and RAG dataset are available at \url{https://sites.google.com/view/omni-vic}</p></details> |
+| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v2)** | 2025-10-22 |  |
 
