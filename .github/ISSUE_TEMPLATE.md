@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,8 +18,8 @@ labels: documentation
 | **[A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918v8)** | 2022-01-06 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
 | **[Embodied Exploration of Latent Spaces and Explainable AI](https://arxiv.org/pdf/2410.14590v1)** | 2024-10-21 | <details><summary>In Pr...</summary><p>In Proceedings of Explainable AI for the Arts Workshop 2024 (XAIxArts 2024) arXiv:2406.14485</p></details> |
 | **[Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI](https://arxiv.org/pdf/2509.15273v2)** | 2025-09-24 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, Embodied Arena Technical Report</p></details> |
-| **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](https://arxiv.org/pdf/2508.10399v1)** | 2025-08-15 |  |
 | **[Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks](https://arxiv.org/pdf/2410.01176v1)** | 2024-10-03 |  |
+| **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](https://arxiv.org/pdf/2508.10399v1)** | 2025-08-15 |  |
 | **[Crossing the Tepper Line: An Emerging Ontology for Describing the Dynamic Sociality of Embodied AI](https://arxiv.org/pdf/2103.08079v1)** | 2021-03-16 | <details><summary>Accep...</summary><p>Accepted at CHI EA '21</p></details> |
 | **[RoboTHOR: An Open Simulation-to-Real Embodied AI Platform](https://arxiv.org/pdf/2004.06799v1)** | 2020-04-16 | CVPR 2020 |
 
