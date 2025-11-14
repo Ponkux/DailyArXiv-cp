@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,8 +18,8 @@ labels: documentation
 | **[A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/pdf/2103.04918v8)** | 2022-01-06 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
 | **[Embodied Exploration of Latent Spaces and Explainable AI](https://arxiv.org/pdf/2410.14590v1)** | 2024-10-21 | <details><summary>In Pr...</summary><p>In Proceedings of Explainable AI for the Arts Workshop 2024 (XAIxArts 2024) arXiv:2406.14485</p></details> |
 | **[Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI](https://arxiv.org/pdf/2509.15273v2)** | 2025-09-24 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, Embodied Arena Technical Report</p></details> |
-| **[Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks](https://arxiv.org/pdf/2410.01176v1)** | 2024-10-03 |  |
 | **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](https://arxiv.org/pdf/2508.10399v1)** | 2025-08-15 |  |
+| **[Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks](https://arxiv.org/pdf/2410.01176v1)** | 2024-10-03 |  |
 | **[Crossing the Tepper Line: An Emerging Ontology for Describing the Dynamic Sociality of Embodied AI](https://arxiv.org/pdf/2103.08079v1)** | 2021-03-16 | <details><summary>Accep...</summary><p>Accepted at CHI EA '21</p></details> |
 | **[RoboTHOR: An Open Simulation-to-Real Embodied AI Platform](https://arxiv.org/pdf/2004.06799v1)** | 2020-04-16 | CVPR 2020 |
 
@@ -38,9 +38,9 @@ labels: documentation
 | **[Reinforcement Evolutionary Learning Method for self-learning](https://arxiv.org/pdf/1810.03198v1)** | 2018-10-09 | 5 figures |
 | **[Interpretable Reinforcement Learning with Ensemble Methods](https://arxiv.org/pdf/1809.06995v1)** | 2018-09-20 |  |
 | **[Approximating Shapley Explanations in Reinforcement Learning](https://arxiv.org/pdf/2511.06094v1)** | 2025-11-11 | <details><summary>Camer...</summary><p>Camera-ready version. Published at the Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277v3)** | 2020-02-11 | 9 pages, 5 figures |
-| **[Object-sensitive Deep Reinforcement Learning](https://arxiv.org/pdf/1809.06064v1)** | 2018-09-18 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, Accepted at 3rd Global Conference on Artificial Intelligence (GCAI-17), Miami, 2017</p></details> |
+| **[Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/pdf/2504.08161v3)** | 2025-07-16 |  |
 | **[A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046v2)** | 2023-12-04 | NeurIPS 2023 |
+| **[Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277v3)** | 2020-02-11 | 9 pages, 5 figures |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
