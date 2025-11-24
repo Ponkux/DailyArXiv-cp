@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,14 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can AI Perceive Physical Danger and Intervene?](https://arxiv.org/abs/2509.21651v2)** | 2025-11-21 |  |
+| **[PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM](https://arxiv.org/abs/2511.17467v1)** | 2025-11-21 |  |
+| **[TP-MDDN: Task-Preferenced Multi-Demand-Driven Navigation with Autonomous Decision-Making](https://arxiv.org/abs/2511.17225v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Toward Sustainable Generative AI: A Scoping Review of Carbon Footprint and Environmental Impacts Across Training and Inference Stages](https://arxiv.org/abs/2511.17179v1)** | 2025-11-21 | <details><summary>43 pa...</summary><p>43 pages, 5 figure, 3 tables</p></details> |
+| **[VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449v2)** | 2025-11-21 |  |
+| **[Emergence of psychopathological computations in large language models](https://arxiv.org/abs/2504.08016v2)** | 2025-11-21 | pre-print |
 | **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
 | **[MiMo-Embodied: X-Embodied Foundation Model Technical Report](https://arxiv.org/abs/2511.16518v1)** | 2025-11-20 | <details><summary>Code:...</summary><p>Code: https://github.com/XiaomiMiMo/MiMo-Embodied Model: https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B</p></details> |
-| **[VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449v1)** | 2025-11-20 |  |
 | **[TC-Light: Temporally Coherent Generative Rendering for Realistic World Transfer](https://arxiv.org/abs/2506.18904v3)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project Page: https://dekuliutesla.github.io/tclight/ Code: https://github.com/Linketic/TC-Light</p></details> |
 | **[The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks](https://arxiv.org/abs/2511.16347v1)** | 2025-11-20 |  |
 | **[Evaluating Multimodal Large Language Models with Daily Composite Tasks in Home Environments](https://arxiv.org/abs/2509.17425v2)** | 2025-11-20 |  |
@@ -17,47 +22,42 @@ labels: documentation
 | **[Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training](https://arxiv.org/abs/2511.15379v1)** | 2025-11-19 |  |
 | **[Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception](https://arxiv.org/abs/2511.15279v1)** | 2025-11-19 |  |
 | **[RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/abs/2511.14161v2)** | 2025-11-19 |  |
-| **[SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices](https://arxiv.org/abs/2510.18544v3)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. This version is temporarily hosted anonymously for double-blind review</p></details> |
-| **[Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning](https://arxiv.org/abs/2511.14396v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026, the Project website is available at https://qhemu.github.io/CCoL/</p></details> |
-| **[GEN3D: Generating Domain-Free 3D Scenes from a Single Image](https://arxiv.org/abs/2511.14291v1)** | 2025-11-18 | 5 pages , 2 figures |
-| **[The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey](https://arxiv.org/abs/2507.11840v2)** | 2025-11-18 |  |
-| **[ParallelKittens: Systematic and Practical Simplification of Multi-GPU AI Kernels](https://arxiv.org/abs/2511.13940v1)** | 2025-11-17 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project Page: https://think-while-gen.github.io Code: https://github.com/ZiyuGuo99/Thinking-while-Generating</p></details> |
-| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
-| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
-| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
-| **[Stabilizing Policy Gradient Methods via Reward Profiling](https://arxiv.org/abs/2511.16629v1)** | 2025-11-20 |  |
-| **[Leveraging Reinforcement Learning, Genetic Algorithms and Transformers for background determination in particle physics](https://arxiv.org/abs/2509.14894v2)** | 2025-11-20 | 34 pages, 12 figures |
-| **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602v1)** | 2025-11-20 |  |
-| **[Green Resilience of Cyber-Physical Systems: Doctoral Dissertation](https://arxiv.org/abs/2511.16593v1)** | 2025-11-20 |  |
-| **[MiMo-Embodied: X-Embodied Foundation Model Technical Report](https://arxiv.org/abs/2511.16518v1)** | 2025-11-20 | <details><summary>Code:...</summary><p>Code: https://github.com/XiaomiMiMo/MiMo-Embodied Model: https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B</p></details> |
-| **[Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense](https://arxiv.org/abs/2511.16483v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in the AAAI-26 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
-| **[Limitations of Scalarisation in MORL: A Comparative Study in Discrete Environments](https://arxiv.org/abs/2511.16476v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2025)</p></details> |
-| **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
-| **[Eliciting Reasoning in Language Models with Cognitive Tools](https://arxiv.org/abs/2506.12115v2)** | 2025-11-20 | 25 pages, 2 figures |
-| **[LAOF: Robust Latent Action Learning with Optical Flow Constraints](https://arxiv.org/abs/2511.16407v1)** | 2025-11-20 | <details><summary>Code ...</summary><p>Code can be found at https://github.com/XizoB/LAOF</p></details> |
+| **[Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination](https://arxiv.org/abs/2511.17490v1)** | 2025-11-21 |  |
+| **[Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization](https://arxiv.org/abs/2511.17489v1)** | 2025-11-21 |  |
+| **[ID-Crafter: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation](https://arxiv.org/abs/2511.00511v3)** | 2025-11-21 |  |
+| **[Fine-Grained Reward Optimization for Machine Translation using Error Severity Mappings](https://arxiv.org/abs/2411.05986v3)** | 2025-11-21 |  |
+| **[Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1)** | 2025-11-21 |  |
+| **[Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems](https://arxiv.org/abs/2511.17435v1)** | 2025-11-21 | 15 pages |
+| **[Concise Reasoning via Reinforcement Learning](https://arxiv.org/abs/2504.05185v3)** | 2025-11-21 |  |
+| **[Value of Information-Enhanced Exploration in Bootstrapped DQN](https://arxiv.org/abs/2511.02969v2)** | 2025-11-21 |  |
+| **[MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration](https://arxiv.org/abs/2511.17392v1)** | 2025-11-21 |  |
+| **[Human Imitated Bipedal Locomotion with Frequency Based Gait Generator Network](https://arxiv.org/abs/2511.17387v1)** | 2025-11-21 |  |
+| **[R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability](https://arxiv.org/abs/2511.17367v1)** | 2025-11-21 |  |
+| **[Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?](https://arxiv.org/abs/2505.09439v3)** | 2025-11-21 |  |
+| **[Convergence and stability of Q-learning in Hierarchical Reinforcement Learning](https://arxiv.org/abs/2511.17351v1)** | 2025-11-21 |  |
+| **[Meta-World+: An Improved, Standardized, RL Benchmark](https://arxiv.org/abs/2505.11289v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPs 2025, Datasets and Benchmarks</p></details> |
+| **[MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning](https://arxiv.org/abs/2511.17300v1)** | 2025-11-21 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://arxiv.org/abs/2511.17441v1)** | 2025-11-21 |  |
+| **[SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](https://arxiv.org/abs/2511.17411v1)** | 2025-11-21 |  |
+| **[Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment](https://arxiv.org/abs/2511.17401v1)** | 2025-11-21 | <details><summary>37 pa...</summary><p>37 pages, 9 figures, and 7 tables</p></details> |
+| **[Vector Cost Behavioral Planning for Autonomous Robotic Systems with Contemporary Validation Strategies](https://arxiv.org/abs/2511.17375v1)** | 2025-11-21 | <details><summary>Techn...</summary><p>Technical report associated with submission to Journal of Intelligent & Robotic Systems, currently under review</p></details> |
+| **[Biologically Inspired Predictive Coding TCN-Transformer for Anticipatory Human-Robot Interaction in Shared Physical Spaces](https://arxiv.org/abs/2405.13955v3)** | 2025-11-21 | <details><summary>45 pa...</summary><p>45 pages, 12 figures, 6 tables</p></details> |
+| **[Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM](https://arxiv.org/abs/2511.17335v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to ASRU 2025</p></details> |
+| **[A ROS2 Interface for Universal Robots Collaborative Manipulators Based on ur_rtde](https://arxiv.org/abs/2511.17237v1)** | 2025-11-21 |  |
+| **[VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation](https://arxiv.org/abs/2511.17199v1)** | 2025-11-21 |  |
+| **[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178v1)** | 2025-11-21 |  |
+| **[H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation](https://arxiv.org/abs/2511.17079v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/H-GAR</p></details> |
+| **[A segment anchoring-based balancing algorithm for agricultural multi-robot task allocation with energy constraints](https://arxiv.org/abs/2511.17076v1)** | 2025-11-21 |  |
+| **[Stable Offline Hand-Eye Calibration for any Robot with Just One Mark](https://arxiv.org/abs/2511.17001v1)** | 2025-11-21 |  |
+| **[MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots](https://arxiv.org/abs/2511.16949v1)** | 2025-11-21 |  |
+| **[AgriChrono: A Multi-modal Dataset Capturing Crop Growth and Lighting Variability with a Field Robot](https://arxiv.org/abs/2508.18694v2)** | 2025-11-21 |  |
 | **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
-| **[Homogeneous Proportional-Integral-Derivative Controller in Mobile Robotic Manipulators](https://arxiv.org/abs/2511.16406v1)** | 2025-11-20 |  |
-| **[Robot Metacognition: Decision Making with Confidence for Tool Invention](https://arxiv.org/abs/2511.16390v1)** | 2025-11-20 | under review |
-| **[InEKFormer: A Hybrid State Estimator for Humanoid Robots](https://arxiv.org/abs/2511.16306v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at The 22nd International Conference on Advanced Robotics (ICAR 2025)</p></details> |
-| **[How Robot Dogs See the Unseeable](https://arxiv.org/abs/2511.16262v1)** | 2025-11-20 |  |
-| **[DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks](https://arxiv.org/abs/2511.16223v1)** | 2025-11-20 |  |
-| **[MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics](https://arxiv.org/abs/2511.16158v1)** | 2025-11-20 |  |
-| **[Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements (Extended version)](https://arxiv.org/abs/2411.05481v4)** | 2025-11-20 | 17 pages, 26 figures |
-| **[Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers](https://arxiv.org/abs/2511.16050v1)** | 2025-11-20 |  |
-| **[The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces](https://arxiv.org/abs/2511.15956v1)** | 2025-11-20 | 9 pages, 6 figures |
-| **[Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback](https://arxiv.org/abs/2402.08546v3)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint version. Accepted full paper available here: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500072</p></details> |
-| **[I've Changed My Mind: Robots Adapting to Changing Human Goals during Collaboration](https://arxiv.org/abs/2511.15914v1)** | 2025-11-19 | Accepted to RA-L |
-| **[Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography](https://arxiv.org/abs/2511.15614v1)** | 2025-11-19 |  |
-| **[Decentralized Gaussian Process Classification and an Application in Subsea Robotics](https://arxiv.org/abs/2511.15529v1)** | 2025-11-19 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, IROS 2025 conference</p></details> |
-| **[Robust Adaptive Safe Robotic Grasping with Tactile Sensing](https://arxiv.org/abs/2411.07833v2)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper was accepted to ECC 2025. The demonstration video is available at https://youtu.be/Cuj47mkXRdg</p></details> |
 
