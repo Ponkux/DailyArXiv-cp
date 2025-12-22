@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 21, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1)** | 2025-12-18 | <details><summary>proje...</summary><p>project page: https://auditdm.github.io/</p></details> |
-| **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/CYWang735/AdaTooler-V</p></details> |
-| **[Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](https://arxiv.org/abs/2512.16917v1)** | 2025-12-18 |  |
-| **[Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward](https://arxiv.org/abs/2512.16912v1)** | 2025-12-18 | 35 pages |
-| **[Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](https://arxiv.org/abs/2512.16911v1)** | 2025-12-18 |  |
-| **[MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909v1)** | 2025-12-18 | <details><summary>25 pa...</summary><p>25 pages, 10 figures. Project page:https://hybridrobotics.github.io/MomaGraph/</p></details> |
-| **[AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.16883v1)** | 2025-12-18 | <details><summary>Prepr...</summary><p>Preprint. Code and artifacts will be uploaded to https://github.com/hank0316/AdaSearch</p></details> |
-| **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
-| **[ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning](https://arxiv.org/abs/2512.16861v1)** | 2025-12-18 |  |
-| **[Meta-RL Induces Exploration in Language Agents](https://arxiv.org/abs/2512.16848v1)** | 2025-12-18 |  |
-| **[Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.16813v1)** | 2025-12-18 |  |
-| **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v2)** | 2025-12-18 |  |
-| **[V-Thinker: Interactive Thinking with Images](https://arxiv.org/abs/2511.04460v2)** | 2025-12-18 | Working in progress |
-| **[Olaf: Bringing an Animated Character to Life in the Physical World](https://arxiv.org/abs/2512.16705v1)** | 2025-12-18 |  |
-| **[Breaking the Performance Ceiling in Reinforcement Learning requires Inference Strategies](https://arxiv.org/abs/2505.21236v3)** | 2025-12-18 | <details><summary>Neuri...</summary><p>Neurips '25 version (post conference)</p></details> |
+| **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](https://arxiv.org/abs/2512.17899v1)** | 2025-12-19 | 18 pages, 5 figures |
+| **[Deep Gaussian Process Proximal Policy Optimization](https://arxiv.org/abs/2511.18214v2)** | 2025-12-19 | <details><summary>Withd...</summary><p>Withdrawn by the authors as the manuscript is not yet complete; no updated version is available at this time</p></details> |
+| **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v1)** | 2025-12-19 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
+| **[Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes](https://arxiv.org/abs/2512.17846v1)** | 2025-12-19 |  |
+| **[NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework](https://arxiv.org/abs/2512.17841v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 3 tables, for submission to IOP Neuromorphic Computing and Engineering</p></details> |
+| **[RL from Teacher-Model Refinement: Gradual Imitation Learning for Machine Translation](https://arxiv.org/abs/2507.22219v3)** | 2025-12-19 |  |
+| **[Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning](https://arxiv.org/abs/2510.20150v4)** | 2025-12-19 |  |
+| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](https://arxiv.org/abs/2508.10501v4)** | 2025-12-19 |  |
+| **[Fun-ASR Technical Report](https://arxiv.org/abs/2509.12508v4)** | 2025-12-19 | <details><summary>Autho...</summary><p>Authors are listed in alphabetical order. Work in progress</p></details> |
+| **[Enhancing Blind Face Restoration through Online Reinforcement Learning](https://arxiv.org/abs/2509.23339v2)** | 2025-12-19 | 8 figures, 4 tables |
+| **[Preconditioned Inexact Stochastic ADMM for Deep Model](https://arxiv.org/abs/2502.10784v5)** | 2025-12-19 |  |
+| **[About Time: Model-free Reinforcement Learning with Timed Reward Machines](https://arxiv.org/abs/2512.17637v1)** | 2025-12-19 |  |
+| **[Trust-Region Adaptive Policy Optimization](https://arxiv.org/abs/2512.17636v1)** | 2025-12-19 |  |
+| **[SCOPE: Sequential Causal Optimization of Process Interventions](https://arxiv.org/abs/2512.17629v1)** | 2025-12-19 |  |
+| **[Learning Safe Autonomous Driving Policies Using Predictive Safety Representations](https://arxiv.org/abs/2512.17586v1)** | 2025-12-19 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to ICRA 2026</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies](https://arxiv.org/abs/2512.16881v1)** | 2025-12-18 | <details><summary>Websi...</summary><p>Website: https://polaris-evals.github.io/</p></details> |
-| **[VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation](https://arxiv.org/abs/2512.16724v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted at RA-L 2025</p></details> |
-| **[A Formal Modular Synthesis Approach for the Coordination of 3-D Robotic Construction with Multi-robots](https://arxiv.org/abs/2512.16555v1)** | 2025-12-18 |  |
-| **[Single-View Shape Completion for Robotic Grasping in Clutter](https://arxiv.org/abs/2512.16449v1)** | 2025-12-18 |  |
-| **[Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging](https://arxiv.org/abs/2512.08333v2)** | 2025-12-18 |  |
-| **[Imperative Learning: A Self-supervised Neuro-Symbolic Learning Framework for Robot Autonomy](https://arxiv.org/abs/2406.16087v7)** | 2025-12-18 |  |
-| **[Maintaining the Level of a Payload carried by Multi-Robot System on Irregular Surface](https://arxiv.org/abs/2512.16024v1)** | 2025-12-17 |  |
-| **[CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion](https://arxiv.org/abs/2512.16023v1)** | 2025-12-17 | 9 pages, 7 figures |
-| **[Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios](https://arxiv.org/abs/2512.16019v1)** | 2025-12-17 |  |
-| **[SORS: A Modular, High-Fidelity Simulator for Soft Robots](https://arxiv.org/abs/2512.15994v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Code and data are available at github.com/srl-ethz/sors</p></details> |
-| **[Eyes on the Grass: Biodiversity-Increasing Robotic Mowing Using Deep Visual Embeddings](https://arxiv.org/abs/2512.15993v1)** | 2025-12-17 |  |
-| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v1)** | 2025-12-17 |  |
-| **[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840v1)** | 2025-12-17 | 29 pages, 16 figures |
-| **[An Open Toolkit for Underwater Field Robotics](https://arxiv.org/abs/2512.15597v1)** | 2025-12-17 | 10 pages, 8 figures |
-| **[ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](https://arxiv.org/abs/2512.11773v2)** | 2025-12-17 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Project page: https://brittonjordan.github.io/probe_mde/</p></details> |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v2)** | 2025-12-19 | <details><summary>Revis...</summary><p>Revised Introduction, Related Work, and Appendix. Additional minor notational and grammatical fixes</p></details> |
+| **[Maintaining the Level of a Payload carried by Multi-Robot System on Irregular Surface](https://arxiv.org/abs/2512.16024v2)** | 2025-12-19 |  |
+| **[On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis](https://arxiv.org/abs/2512.17579v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted at IEEE Internation Conference on Emerging Technologies and Factory Automation (ETFA) 2025</p></details> |
+| **[Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation](https://arxiv.org/abs/2512.17568v1)** | 2025-12-19 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project Website: https://kinematics-aware-diffusion-policy.github.io</p></details> |
+| **[Learning-Based Safety-Aware Task Scheduling for Efficient Human-Robot Collaboration](https://arxiv.org/abs/2512.17560v1)** | 2025-12-19 | 8 pages |
+| **[MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training](https://arxiv.org/abs/2512.15411v2)** | 2025-12-19 |  |
+| **[Mitty: Diffusion-based Human-to-Robot Video Generation](https://arxiv.org/abs/2512.17253v1)** | 2025-12-19 |  |
+| **[A Service Robot's Guide to Interacting with Busy Customers](https://arxiv.org/abs/2512.17241v1)** | 2025-12-19 | <details><summary>Prese...</summary><p>Presented at ACRA 2025. 10 pages, 4 figures. Includes a user study (N=24) using the Temi robot evaluating speech, visual, and micromotion modalities</p></details> |
+| **[Collaborative Object Handover in a Robot Crafting Assistant](https://arxiv.org/abs/2502.19991v2)** | 2025-12-19 | <details><summary>Publi...</summary><p>Published at the 2025 Australasian Conference on Robotics and Automation (ACRA 2025): https://www.araa.asn.au/conference/acra-2025/</p></details> |
+| **[Research on Dead Reckoning Algorithm for Self-Propelled Pipeline Robots in Three-Dimensional Complex Pipelines](https://arxiv.org/abs/2512.17215v1)** | 2025-12-19 | 8 pages, 9 figures |
+| **[Design and Research of a Self-Propelled Pipeline Robot Based on Force Analysis and Dynamic Simulation](https://arxiv.org/abs/2512.17212v1)** | 2025-12-19 | 7 pages, 14 figures |
+| **[Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots](https://arxiv.org/abs/2512.17183v1)** | 2025-12-19 |  |
+| **[Towards Senior-Robot Interaction: Reactive Robot Dog Gestures](https://arxiv.org/abs/2512.17136v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted at the Australasian Conference on Robotics and Automation (ACRA) 2025</p></details> |
+| **[Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation](https://arxiv.org/abs/2511.22685v2)** | 2025-12-18 | <details><summary>18 pa...</summary><p>18 pages (including appendix), 3 figures. Project page (videos, animations, additional resources): https://wanghaoyi518.github.io/rl-mapf-project-page/</p></details> |
+| **[Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots](https://arxiv.org/abs/2512.10477v3)** | 2025-12-18 | <details><summary>https...</summary><p>https://github.com/SuspensionRailway/symphony</p></details> |
 
