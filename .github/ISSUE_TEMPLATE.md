@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Intrinsic Benefits of Categorical Distributional Loss: Uncertainty-aware Regularized Exploration in Reinforcement Learning](https://arxiv.org/abs/2110.03155v8)** | 2025-12-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Previous Version in ICML Workshop: Exploration in AI Today (EXAIT) 2025</p></details> |
-| **[MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models](https://arxiv.org/abs/2512.21231v1)** | 2025-12-24 |  |
-| **[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://arxiv.org/abs/2510.16416v3)** | 2025-12-24 |  |
-| **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332v3)** | 2025-12-24 |  |
-| **[AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models](https://arxiv.org/abs/2511.20325v2)** | 2025-12-24 |  |
-| **[Sequence to Sequence Reward Modeling: Improving RLHF by Language Feedback](https://arxiv.org/abs/2409.00162v2)** | 2025-12-24 | 7 pages |
-| **[Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning](https://arxiv.org/abs/2512.21085v1)** | 2025-12-24 | 8 pages, 6 figures |
-| **[Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics](https://arxiv.org/abs/2512.21081v1)** | 2025-12-24 |  |
-| **[Ensuring Safety in an Uncertain Environment: Constrained MDPs via Stochastic Thresholds](https://arxiv.org/abs/2504.04973v3)** | 2025-12-24 |  |
-| **[Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v2)** | 2025-12-24 |  |
-| **[Reinforcement Learning with Verifiable yet Noisy Rewards under Imperfect Verifiers](https://arxiv.org/abs/2510.00915v3)** | 2025-12-24 |  |
-| **[Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners](https://arxiv.org/abs/2509.26226v2)** | 2025-12-24 |  |
-| **[Policy-Conditioned Policies for Multi-Agent Task Solving](https://arxiv.org/abs/2512.21024v1)** | 2025-12-24 |  |
-| **[DAPPER: Discriminability-Aware Policy-to-Policy Preference-Based Reinforcement Learning for Query-Efficient Robot Skill Acquisition](https://arxiv.org/abs/2505.06357v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for IEEE Robotics & Automation Magazine (RAM)</p></details> |
-| **[LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT](https://arxiv.org/abs/2512.20997v1)** | 2025-12-24 | 8 pages, 5 figures |
+| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
+| **[Periodic Asynchrony: An Effective Method for Accelerating Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2511.18871v3)** | 2025-12-26 |  |
+| **[Meta-Learning-Based Handover Management in NextG O-RAN](https://arxiv.org/abs/2512.22022v1)** | 2025-12-26 |  |
+| **[ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving](https://arxiv.org/abs/2505.12717v2)** | 2025-12-26 |  |
+| **[Latency-Optimal Cache-aided Multicast Streaming via Forward-Backward Reinforcement Learning](https://arxiv.org/abs/2512.21954v1)** | 2025-12-26 |  |
+| **[SWE-RM: Execution-free Feedback For Software Engineering Agents](https://arxiv.org/abs/2512.21919v1)** | 2025-12-26 | 21 pages |
+| **[Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2507.21386v2)** | 2025-12-26 |  |
+| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v2)** | 2025-12-26 | 13 pages, 7 figures |
+| **[A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852v1)** | 2025-12-26 |  |
+| **[Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](https://arxiv.org/abs/2512.16917v2)** | 2025-12-26 | <details><summary>V2: A...</summary><p>V2: Added links to the code-generation results and additional details in the appendix</p></details> |
+| **[Q-A3C2: Quantum Reinforcement Learning with Time-Series Dynamic Clustering for Adaptive ETF Stock Selection](https://arxiv.org/abs/2512.21819v1)** | 2025-12-26 |  |
+| **[ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring](https://arxiv.org/abs/2501.09926v2)** | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA 2025)</p></details> |
+| **[Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V](https://arxiv.org/abs/2512.18564v2)** | 2025-12-25 | Under review |
+| **[Multi-Agent Collaborative Reward Design for Enhancing Reasoning in Reinforcement Learning](https://arxiv.org/abs/2511.16202v3)** | 2025-12-25 |  |
+| **[ZIA: A Theoretical Framework for Zero-Input AI](https://arxiv.org/abs/2502.16124v2)** | 2025-12-25 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboCade: Gamifying Robot Data Collection](https://arxiv.org/abs/2512.21235v2)** | 2025-12-26 | 10 pages, 9 figures |
+| **[Bab_Sak Robotic Intubation System (BRIS): A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation](https://arxiv.org/abs/2512.21983v1)** | 2025-12-26 |  |
+| **[Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking](https://arxiv.org/abs/2512.21882v1)** | 2025-12-26 | <details><summary>Autho...</summary><p>Author's version of a manuscript accepted at the International Conference on Space Robotics 2025 (iSpaRo 2025). (c) IEEE</p></details> |
+| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v2)** | 2025-12-26 | 13 pages, 7 figures |
+| **[MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction](https://arxiv.org/abs/2512.21853v1)** | 2025-12-26 | <details><summary>This ...</summary><p>This is the authors' version of a paper accepted for publication in IEEE Transactions on Field Robotics, (c) IEEE. The final published version is available at https://doi.org/10.1109/TFR.2025.3624346</p></details> |
+| **[How Robot Dogs See the Unseeable: Improving Visual Interpretability via Peering for Exploratory Robots](https://arxiv.org/abs/2511.16262v2)** | 2025-12-25 |  |
+| **[Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning](https://arxiv.org/abs/2512.21654v1)** | 2025-12-25 | 20pages, 6Figues |
+| **[UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer](https://arxiv.org/abs/2512.21233v2)** | 2025-12-25 |  |
+| **[A Novel Robotic Variable Stiffness Mechanism Based on Helically Wound Structured Electrostatic Layer Jamming](https://arxiv.org/abs/2512.21534v1)** | 2025-12-25 |  |
+| **[Design and Research of a Self-Propelled Pipeline Robot Based on Force Analysis and Dynamic Simulation](https://arxiv.org/abs/2512.17212v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The article needs further revision</p></details> |
+| **[Research on Dead Reckoning Algorithm for Self-Propelled Pipeline Robots in Three-Dimensional Complex Pipelines](https://arxiv.org/abs/2512.17215v2)** | 2025-12-25 | <details><summary>The p...</summary><p>The paper needs further revision</p></details> |
 | **[Quadrupped-Legged Robot Movement Plan Generation using Large Language Model](https://arxiv.org/abs/2512.21293v1)** | 2025-12-24 |  |
-| **[RoboCade: Gamifying Robot Data Collection](https://arxiv.org/abs/2512.21235v1)** | 2025-12-24 | 10 pages, 9 figures |
-| **[UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer](https://arxiv.org/abs/2512.21233v1)** | 2025-12-24 |  |
 | **[Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](https://arxiv.org/abs/2512.21226v1)** | 2025-12-24 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, 4 algorithms</p></details> |
 | **[Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3](https://arxiv.org/abs/2512.21219v1)** | 2025-12-24 |  |
 | **[Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation](https://arxiv.org/abs/2512.21065v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal</p></details> |
-| **[RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation](https://arxiv.org/abs/2511.09141v2)** | 2025-12-24 |  |
-| **[DAPPER: Discriminability-Aware Policy-to-Policy Preference-Based Reinforcement Learning for Query-Efficient Robot Skill Acquisition](https://arxiv.org/abs/2505.06357v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for IEEE Robotics & Automation Magazine (RAM)</p></details> |
-| **[Multimodal Sensing for Robot-Assisted Sub-Tissue Feature Detection in Physiotherapy Palpation](https://arxiv.org/abs/2512.20992v1)** | 2025-12-24 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, submitted to DMD2026</p></details> |
-| **[From Human Bias to Robot Choice: How Occupational Contexts and Racial Priming Shape Robot Selection](https://arxiv.org/abs/2512.20951v1)** | 2025-12-24 | HRI '26 |
-| **[Imperative Learning: A Self-supervised Neuro-Symbolic Learning Framework for Robot Autonomy](https://arxiv.org/abs/2406.16087v8)** | 2025-12-24 |  |
-| **[Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2506.09384v2)** | 2025-12-24 | <details><summary>v2: E...</summary><p>v2: Extended the main text with additional analysis and implementation details</p></details> |
-| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
-| **[Nonholonomic Robot Parking by Feedback -- Part I: Modular Strict CLF Designs](https://arxiv.org/abs/2511.15119v2)** | 2025-12-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2509.25575</p></details> |
-| **[YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion](https://arxiv.org/abs/2512.20847v1)** | 2025-12-23 | <details><summary>Paper...</summary><p>Paper presented at the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2025</p></details> |
 
