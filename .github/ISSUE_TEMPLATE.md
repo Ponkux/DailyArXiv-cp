@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
-| **[Periodic Asynchrony: An Effective Method for Accelerating Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2511.18871v3)** | 2025-12-26 |  |
-| **[Meta-Learning-Based Handover Management in NextG O-RAN](https://arxiv.org/abs/2512.22022v1)** | 2025-12-26 |  |
-| **[ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving](https://arxiv.org/abs/2505.12717v2)** | 2025-12-26 |  |
-| **[Latency-Optimal Cache-aided Multicast Streaming via Forward-Backward Reinforcement Learning](https://arxiv.org/abs/2512.21954v1)** | 2025-12-26 |  |
-| **[SWE-RM: Execution-free Feedback For Software Engineering Agents](https://arxiv.org/abs/2512.21919v1)** | 2025-12-26 | 21 pages |
-| **[Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2507.21386v2)** | 2025-12-26 |  |
-| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v2)** | 2025-12-26 | 13 pages, 7 figures |
-| **[A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852v1)** | 2025-12-26 |  |
-| **[Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](https://arxiv.org/abs/2512.16917v2)** | 2025-12-26 | <details><summary>V2: A...</summary><p>V2: Added links to the code-generation results and additional details in the appendix</p></details> |
-| **[Q-A3C2: Quantum Reinforcement Learning with Time-Series Dynamic Clustering for Adaptive ETF Stock Selection](https://arxiv.org/abs/2512.21819v1)** | 2025-12-26 |  |
-| **[ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring](https://arxiv.org/abs/2501.09926v2)** | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA 2025)</p></details> |
-| **[Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V](https://arxiv.org/abs/2512.18564v2)** | 2025-12-25 | Under review |
-| **[Multi-Agent Collaborative Reward Design for Enhancing Reasoning in Reinforcement Learning](https://arxiv.org/abs/2511.16202v3)** | 2025-12-25 |  |
-| **[ZIA: A Theoretical Framework for Zero-Input AI](https://arxiv.org/abs/2502.16124v2)** | 2025-12-25 |  |
+| **[Training AI Co-Scientists Using Rubric Rewards](https://arxiv.org/abs/2512.23707v1)** | 2025-12-29 | <details><summary>11 pa...</summary><p>11 pages in the main paper, total 119 including sample outputs in the Appendix</p></details> |
+| **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703v1)** | 2025-12-29 | 27 pages, 11 figures |
+| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
+| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
+| **[Coarse Q-learning in Decision-Making: Indifference vs. Indeterminacy vs. Instability](https://arxiv.org/abs/2412.09321v3)** | 2025-12-29 | <details><summary>45 Ma...</summary><p>45 Main pages + 25 Appendix pages</p></details> |
+| **[Le Cam Distortion: A Decision-Theoretic Framework for Robust Transfer Learning](https://arxiv.org/abs/2512.23617v1)** | 2025-12-29 |  |
+| **[ProGuard: Towards Proactive Multimodal Safeguard](https://arxiv.org/abs/2512.23573v1)** | 2025-12-29 |  |
+| **[ThinkGen: Generalized Thinking for Visual Generation](https://arxiv.org/abs/2512.23568v1)** | 2025-12-29 |  |
+| **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
+| **[Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions](https://arxiv.org/abs/2504.14894v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Transactions on Mobile Computing</p></details> |
+| **[Expressive Temporal Specifications for Reward Monitoring](https://arxiv.org/abs/2511.12808v4)** | 2025-12-29 | Accepted at AAAI-26 |
+| **[Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.23515v1)** | 2025-12-29 |  |
+| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v1)** | 2025-12-29 | <details><summary>Manus...</summary><p>Manuscript under review in IEEE Networking Letters. Contents may change at any time without notice</p></details> |
+| **[RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation](https://arxiv.org/abs/2509.15965v2)** | 2025-12-29 | <details><summary>GitHu...</summary><p>GitHub Repo: https://github.com/RLinf/RLinf</p></details> |
+| **[Agentic AI for Autonomous Defense in Software Supply Chain Security: Beyond Provenance to Vulnerability Mitigation](https://arxiv.org/abs/2512.23480v1)** | 2025-12-29 | <details><summary>Confe...</summary><p>Conference paper, accept in ACCA IEEE Bahrain</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboCade: Gamifying Robot Data Collection](https://arxiv.org/abs/2512.21235v2)** | 2025-12-26 | 10 pages, 9 figures |
-| **[Bab_Sak Robotic Intubation System (BRIS): A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation](https://arxiv.org/abs/2512.21983v1)** | 2025-12-26 |  |
-| **[Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking](https://arxiv.org/abs/2512.21882v1)** | 2025-12-26 | <details><summary>Autho...</summary><p>Author's version of a manuscript accepted at the International Conference on Space Robotics 2025 (iSpaRo 2025). (c) IEEE</p></details> |
-| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v2)** | 2025-12-26 | 13 pages, 7 figures |
-| **[MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction](https://arxiv.org/abs/2512.21853v1)** | 2025-12-26 | <details><summary>This ...</summary><p>This is the authors' version of a paper accepted for publication in IEEE Transactions on Field Robotics, (c) IEEE. The final published version is available at https://doi.org/10.1109/TFR.2025.3624346</p></details> |
-| **[How Robot Dogs See the Unseeable: Improving Visual Interpretability via Peering for Exploratory Robots](https://arxiv.org/abs/2511.16262v2)** | 2025-12-25 |  |
-| **[Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning](https://arxiv.org/abs/2512.21654v1)** | 2025-12-25 | 20pages, 6Figues |
-| **[UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer](https://arxiv.org/abs/2512.21233v2)** | 2025-12-25 |  |
-| **[A Novel Robotic Variable Stiffness Mechanism Based on Helically Wound Structured Electrostatic Layer Jamming](https://arxiv.org/abs/2512.21534v1)** | 2025-12-25 |  |
-| **[Design and Research of a Self-Propelled Pipeline Robot Based on Force Analysis and Dynamic Simulation](https://arxiv.org/abs/2512.17212v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The article needs further revision</p></details> |
-| **[Research on Dead Reckoning Algorithm for Self-Propelled Pipeline Robots in Three-Dimensional Complex Pipelines](https://arxiv.org/abs/2512.17215v2)** | 2025-12-25 | <details><summary>The p...</summary><p>The paper needs further revision</p></details> |
-| **[Quadrupped-Legged Robot Movement Plan Generation using Large Language Model](https://arxiv.org/abs/2512.21293v1)** | 2025-12-24 |  |
-| **[Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](https://arxiv.org/abs/2512.21226v1)** | 2025-12-24 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, 4 algorithms</p></details> |
-| **[Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3](https://arxiv.org/abs/2512.21219v1)** | 2025-12-24 |  |
-| **[Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation](https://arxiv.org/abs/2512.21065v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Journal</p></details> |
+| **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703v1)** | 2025-12-29 | 27 pages, 11 figures |
+| **[The Bulldozer Technique: Efficient Elimination of Local Minima Traps for APF-Based Robot Navigation](https://arxiv.org/abs/2512.23672v1)** | 2025-12-29 |  |
+| **[Mechanically Programming the Cross-Sectional Shape of Soft Growing Robotic Structures for Patient Transfer](https://arxiv.org/abs/2505.11593v3)** | 2025-12-29 |  |
+| **[Interactive Robot Programming for Surface Finishing via Task-Centric Mixed Reality Interfaces](https://arxiv.org/abs/2512.23616v1)** | 2025-12-29 | <details><summary>Curre...</summary><p>Currently under review at Intelligent Service Robotics</p></details> |
+| **[Soft Robotic Technological Probe for Speculative Fashion Futures](https://arxiv.org/abs/2512.23570v1)** | 2025-12-29 |  |
+| **[Anti-Slip AI-Driven Model-Free Control with Global Exponential Stability in Skid-Steering Robots](https://arxiv.org/abs/2504.08831v2)** | 2025-12-29 | <details><summary>This ...</summary><p>This paper has been published in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Robust Deep Learning Control with Guaranteed Performance for Safe and Reliable Robotization in Heavy-Duty Machinery](https://arxiv.org/abs/2512.23505v1)** | 2025-12-29 | <details><summary>Docto...</summary><p>Doctoral Dissertation, Tampere University</p></details> |
+| **[Theory of Mind for Explainable Human-Robot Interaction](https://arxiv.org/abs/2512.23482v1)** | 2025-12-29 |  |
+| **[Contingency Model-based Control (CMC) for Communicationless Cooperative Collision Avoidance in Robot Swarms](https://arxiv.org/abs/2512.20391v2)** | 2025-12-29 |  |
+| **[Optimal Scalability-Aware Allocation of Swarm Robots: From Linear to Retrograde Performance via Marginal Gains](https://arxiv.org/abs/2512.23431v1)** | 2025-12-29 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, Accepted for publication in IEEE Transactions on Systems, Man, and Cybernetics: Systems</p></details> |
+| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v3)** | 2025-12-29 | 13 pages, 7 figures |
+| **[ReSemAct: Advancing Fine-Grained Robotic Manipulation via Semantic Structuring and Affordance Refinement](https://arxiv.org/abs/2507.18262v4)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code and videos: https://github.com/scy-v/ReSemAct and https://resemact.github.io</p></details> |
+| **[Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants](https://arxiv.org/abs/2512.23312v1)** | 2025-12-29 | 27 pages, 16 figures |
+| **[UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer](https://arxiv.org/abs/2512.21233v3)** | 2025-12-29 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[How Much Progress Did I Make? An Unexplored Human Feedback Signal for Teaching Robots](https://arxiv.org/abs/2407.06459v2)** | 2025-12-29 | 8 pages. RO-MAN 2024 |
 
