@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
-| **[Many Minds from One Model: Bayesian Transformers for Population Intelligence](https://arxiv.org/abs/2512.25063v1)** | 2025-12-31 |  |
-| **[ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning](https://arxiv.org/abs/2512.25023v1)** | 2025-12-31 | NeurIPS 2025 |
-| **[CLF-RL: Control Lyapunov Function Guided Reinforcement Learning](https://arxiv.org/abs/2508.09354v2)** | 2025-12-31 | 8 pages; 7 figures |
-| **[MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control](https://arxiv.org/abs/2512.24955v1)** | 2025-12-31 |  |
-| **[Iterative Deployment Improves Planning Skills in LLMs](https://arxiv.org/abs/2512.24940v1)** | 2025-12-31 |  |
-| **[Pre-DPO: Improving Data Utilization in Direct Preference Optimization Using a Guiding Reference Model](https://arxiv.org/abs/2504.15843v3)** | 2025-12-31 |  |
-| **[Throughput Optimization in UAV-Mounted RIS under Jittering and Imperfect CSI via DRL](https://arxiv.org/abs/2512.24773v1)** | 2025-12-31 |  |
-| **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
-| **[Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow](https://arxiv.org/abs/2512.24766v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project website: https://dream2flow.github.io/</p></details> |
-| **[AINav: Large Language Model-Based Adaptive Interactive Navigation](https://arxiv.org/abs/2503.22942v2)** | 2025-12-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, accepted to IEEE Robotics & Automation Magazine</p></details> |
-| **[Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints](https://arxiv.org/abs/2512.24740v1)** | 2025-12-31 | 9 pages, 10 figures |
-| **[Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting](https://arxiv.org/abs/2512.24702v1)** | 2025-12-31 |  |
-| **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
-| **[Hierarchical Online Optimization Approach for IRS-enabled Low-altitude MEC in Vehicular Networks](https://arxiv.org/abs/2512.24659v1)** | 2025-12-31 | 18 pages, 7 figures, |
+| **[Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients](https://arxiv.org/abs/2512.23090v2)** | 2026-01-02 |  |
+| **[Adaptive Learning Guided by Bias-Noise-Alignment Diagnostics](https://arxiv.org/abs/2512.24445v2)** | 2026-01-02 | <details><summary>This ...</summary><p>This preprint focuses on the theoretical framework and diagnostic behavior. Comprehensive experimental validation in application-specific settings is deferred to a companion experimental study</p></details> |
+| **[Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty](https://arxiv.org/abs/2601.00737v1)** | 2026-01-02 | 19 pages |
+| **[Precision Autotuning for Linear Solvers via Contextual Bandit-Based RL](https://arxiv.org/abs/2601.00728v1)** | 2026-01-02 |  |
+| **[ARISE: Adaptive Reinforcement Integrated with Swarm Exploration](https://arxiv.org/abs/2601.00693v1)** | 2026-01-02 | <details><summary>12 pa...</summary><p>12 pages. Accepted for presentation at WCSC 2026</p></details> |
+| **[IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning](https://arxiv.org/abs/2601.00677v1)** | 2026-01-02 | 14 pages, 4 figures |
+| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v1)** | 2026-01-02 |  |
+| **[Flattening Hierarchies with Policy Bootstrapping](https://arxiv.org/abs/2505.14975v3)** | 2026-01-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight, top 3.2%)</p></details> |
+| **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
+| **[Integrating Multi-Armed Bandit, Active Learning, and Distributed Computing for Scalable Optimization](https://arxiv.org/abs/2601.00615v1)** | 2026-01-02 | <details><summary>36 pa...</summary><p>36 pages. Submitted to a conference</p></details> |
+| **[Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610v1)** | 2026-01-02 |  |
+| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
+| **[Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems](https://arxiv.org/abs/2512.01661v2)** | 2026-01-02 | preprint |
+| **[Parametrized Sharing for Multi-Agent Hybrid DRL for Multiple Multi-Functional RISs-Aided Downlink NOMA Networks](https://arxiv.org/abs/2601.00538v1)** | 2026-01-02 |  |
+| **[Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501v4)** | 2026-01-02 | <details><summary>193 p...</summary><p>193 pages. Web-native version at https://rlhfbook.com/ Continually improving, latest version at website</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Mind for Explainable Human-Robot Interaction](https://arxiv.org/abs/2512.23482v2)** | 2025-12-31 |  |
-| **[Towards Data-Driven Metrics for Social Robot Navigation Benchmarking](https://arxiv.org/abs/2509.01251v2)** | 2025-12-31 |  |
-| **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
-| **[ReSPIRe: Informative and Reusable Belief Tree Search for Robot Probabilistic Search and Tracking in Unknown Environments](https://arxiv.org/abs/2512.24680v1)** | 2025-12-31 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems</p></details> |
-| **[VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots](https://arxiv.org/abs/2512.24673v1)** | 2025-12-31 |  |
-| **[Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids](https://arxiv.org/abs/2512.24657v1)** | 2025-12-31 | Preprint |
-| **[Hybrid Motion Planning with Deep Reinforcement Learning for Mobile Robot Navigation](https://arxiv.org/abs/2512.24651v1)** | 2025-12-31 | 22 pages, 4 figures |
-| **[Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding](https://arxiv.org/abs/2512.24638v1)** | 2025-12-31 |  |
-| **[A New Software Tool for Generating and Visualizing Robot Self-Collision Matrices](https://arxiv.org/abs/2512.23140v2)** | 2025-12-30 |  |
-| **[Beyond URDF: The Universal Robot Description Directory for Shared, Extensible, and Standardized Robot Models](https://arxiv.org/abs/2512.23135v2)** | 2025-12-30 |  |
-| **[APOLLO Blender: A Robotics Library for Visualization and Animation in Blender](https://arxiv.org/abs/2512.23103v2)** | 2025-12-30 |  |
-| **[SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling](https://arxiv.org/abs/2512.23162v2)** | 2025-12-30 |  |
-| **[Subsecond 3D Mesh Generation for Robot Manipulation](https://arxiv.org/abs/2512.24428v1)** | 2025-12-30 | In submission |
-| **[UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots](https://arxiv.org/abs/2512.24321v1)** | 2025-12-30 | <details><summary>Proje...</summary><p>Project page: https://jnnan.github.io/uniact/</p></details> |
-| **[Contingency Model-based Control (CMC) for Communicationless Cooperative Collision Avoidance in Robot Swarms](https://arxiv.org/abs/2512.20391v3)** | 2025-12-30 |  |
+| **[Calling for Backup: How Children Navigate Successive Robot Communication Failures](https://arxiv.org/abs/2601.00754v1)** | 2026-01-02 |  |
+| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v1)** | 2026-01-02 |  |
+| **[Iterative Tuning of Nonlinear Model Predictive Control for Robotic Manufacturing Tasks](https://arxiv.org/abs/2512.13170v2)** | 2026-01-02 |  |
+| **[Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610v1)** | 2026-01-02 |  |
+| **[NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots](https://arxiv.org/abs/2601.00609v1)** | 2026-01-02 |  |
+| **[Digital Twin based Automatic Reconfiguration of Robotic Systems in Smart Environments](https://arxiv.org/abs/2511.00094v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted for presentation to 11th IEEE International Smart Cities Conference (ISC2 2025)</p></details> |
+| **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v3)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Priority-Aware Multi-Robot Coverage Path Planning](https://arxiv.org/abs/2601.00580v1)** | 2026-01-02 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters, 8 pages, 10 figures</p></details> |
+| **[LLM-Based Agentic Exploration for Robot Navigation & Manipulation with Skill Orchestration](https://arxiv.org/abs/2601.00555v1)** | 2026-01-02 |  |
+| **[Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots](https://arxiv.org/abs/2512.10477v5)** | 2026-01-01 | <details><summary>https...</summary><p>https://github.com/SuspensionRailway/symphony</p></details> |
+| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v2)** | 2026-01-01 |  |
+| **[Vehicle Painting Robot Path Planning Using Hierarchical Optimization](https://arxiv.org/abs/2601.00271v1)** | 2026-01-01 |  |
+| **[Video-Based Detection and Analysis of Errors in Robotic Surgical Training](https://arxiv.org/abs/2504.19571v3)** | 2026-01-01 | <details><summary>Title...</summary><p>Title change; 9 pages, 4 figures, 1 table. Alex Geftler and Ilana Nisky contributed equally to this work</p></details> |
+| **[Reinforcement learning with timed constraints for robotics motion planning](https://arxiv.org/abs/2601.00087v1)** | 2025-12-31 |  |
+| **[Hybrid A* Path Planning with Multi-Modal Motion Extension for Four-Wheel Steering Mobile Robots](https://arxiv.org/abs/2509.06115v3)** | 2025-12-31 | <details><summary>Updat...</summary><p>Updated method details, parameters, and experimental scenarios</p></details> |
 
