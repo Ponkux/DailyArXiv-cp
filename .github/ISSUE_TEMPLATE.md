@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation](https://arxiv.org/abs/2601.19233v1)** | 2026-01-27 | conference |
 | **[Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge](https://arxiv.org/abs/2601.18733v1)** | 2026-01-26 | <details><summary>MARS ...</summary><p>MARS Challenge @ NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI. Challenge page: https://mars-eai.github.io/MARS-Challenge-Webpage/</p></details> |
 | **[TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323v1)** | 2026-01-26 |  |
 | **[SPACE-CLIP: Spatial Perception via Adaptive CLIP Embeddings for Monocular Depth Estimation](https://arxiv.org/abs/2601.17657v1)** | 2026-01-25 |  |
@@ -21,43 +22,42 @@ labels: documentation
 | **[Object-Centric Latent Action Learning](https://arxiv.org/abs/2502.09680v3)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral). Source code: https://github.com/dunnolab/object-centric-lapo</p></details> |
 | **[LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI](https://arxiv.org/abs/2601.13556v1)** | 2026-01-20 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 6 tables</p></details> |
 | **[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093v6)** | 2026-01-19 | <details><summary>Proje...</summary><p>Project page: https://github.com/yueen-ma/Awesome-VLA</p></details> |
-| **[The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents](https://arxiv.org/abs/2601.11421v1)** | 2026-01-16 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v1)** | 2026-01-26 |  |
-| **[Multi-Objective Reinforcement Learning for Efficient Tactical Decision Making for Trucks in Highway Traffic](https://arxiv.org/abs/2601.18783v1)** | 2026-01-26 |  |
-| **[POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration](https://arxiv.org/abs/2601.18779v1)** | 2026-01-26 |  |
-| **[Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/abs/2601.18778v1)** | 2026-01-26 |  |
-| **[Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771v1)** | 2026-01-26 | <details><summary>Dep-S...</summary><p>Dep-Search 1st version</p></details> |
-| **[Trust, Don't Trust, or Flip: Robust Preference-Based Reinforcement Learning with Multi-Expert Feedback](https://arxiv.org/abs/2601.18751v1)** | 2026-01-26 | <details><summary>Equal...</summary><p>Equal contribution: Seyed Amir Hosseini and Maryam Abdolali. Corresponding author: Maryam Abdolali (maryam.abdolali@kntu.ac.ir)</p></details> |
-| **[Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections](https://arxiv.org/abs/2411.08835v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal on Selected Areas in Communications</p></details> |
-| **[Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics](https://arxiv.org/abs/2503.00577v2)** | 2026-01-26 | <details><summary>7 pag...</summary><p>7 pages, Accepted at 2025 IEEE ICRA</p></details> |
-| **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734v1)** | 2026-01-26 | 13 pages |
-| **[Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale](https://arxiv.org/abs/2601.18730v1)** | 2026-01-26 |  |
-| **[Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706v1)** | 2026-01-26 |  |
-| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555v3)** | 2026-01-26 | ICLR 2026 |
-| **[Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward](https://arxiv.org/abs/2512.16912v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.07915v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule](https://arxiv.org/abs/2601.18681v1)** | 2026-01-26 | 17 pages, 7 figures |
+| **[Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897v1)** | 2026-01-27 |  |
+| **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v4)** | 2026-01-27 | <details><summary>Wrong...</summary><p>Wrong numbers are reported for main results</p></details> |
+| **[Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals](https://arxiv.org/abs/2601.19810v1)** | 2026-01-27 | <details><summary>To ap...</summary><p>To appear at ICLR 2026</p></details> |
+| **[Reimagining Peer Review Process Through Multi-Agent Mechanism Design](https://arxiv.org/abs/2601.19778v1)** | 2026-01-27 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering (ICSE-FoSE). 4 pages, 1 figure, 1 table</p></details> |
+| **[SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models](https://arxiv.org/abs/2510.21850v2)** | 2026-01-27 |  |
+| **[Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications](https://arxiv.org/abs/2601.19761v1)** | 2026-01-27 | HRI 2026 |
+| **[Activation Function Design Sustains Plasticity in Continual Learning](https://arxiv.org/abs/2509.22562v2)** | 2026-01-27 |  |
+| **[Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning](https://arxiv.org/abs/2506.13474v2)** | 2026-01-27 |  |
+| **[Rewarding Doubt: A Reinforcement Learning Approach to Calibrated Confidence Expression of Large Language Models](https://arxiv.org/abs/2503.02623v4)** | 2026-01-27 |  |
+| **[Improving Policy Exploitation in Online Reinforcement Learning with Instant Retrospect Action](https://arxiv.org/abs/2601.19720v1)** | 2026-01-27 |  |
+| **[Scalable Exploration for High-Dimensional Continuous Control via Value-Guided Flow](https://arxiv.org/abs/2601.19707v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion](https://arxiv.org/abs/2601.19697v1)** | 2026-01-27 | To appear at ASE'25 |
+| **[Group Relative Policy Optimization for Robust Blind Interference Alignment with Fluid Antennas](https://arxiv.org/abs/2601.13506v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by IEEE ICC 2026</p></details> |
+| **[Video-KTR: Reinforcing Video Reasoning via Key Token Attribution](https://arxiv.org/abs/2601.19686v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning](https://arxiv.org/abs/2507.23581v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery](https://arxiv.org/abs/2601.18765v1)** | 2026-01-26 | <details><summary>Submi...</summary><p>Submit to IEEE for potential publication</p></details> |
-| **[Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections](https://arxiv.org/abs/2411.08835v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal on Selected Areas in Communications</p></details> |
-| **[Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge](https://arxiv.org/abs/2601.18733v1)** | 2026-01-26 | <details><summary>MARS ...</summary><p>MARS Challenge @ NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI. Challenge page: https://mars-eai.github.io/MARS-Challenge-Webpage/</p></details> |
-| **[Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods](https://arxiv.org/abs/2601.18723v1)** | 2026-01-26 |  |
-| **[Masked Generative Policy for Robotic Control](https://arxiv.org/abs/2512.09101v2)** | 2026-01-26 |  |
-| **[Constraint-Aware Discrete-Time PID Gain Optimization for Robotic Joint Control Under Actuator Saturation](https://arxiv.org/abs/2601.18639v1)** | 2026-01-26 |  |
-| **[Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation](https://arxiv.org/abs/2601.18569v1)** | 2026-01-26 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323v1)** | 2026-01-26 |  |
-| **[Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models](https://arxiv.org/abs/2512.11908v2)** | 2026-01-26 | version 2 |
-| **[Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks](https://arxiv.org/abs/2512.10481v2)** | 2026-01-26 | 9 pages, 9 figures |
-| **[Towards Real-time Adaptation of Embodied Agent in Human-Robot Collaboration](https://arxiv.org/abs/2412.00435v2)** | 2026-01-26 | 13 pages, 7 figures |
-| **[Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots](https://arxiv.org/abs/2512.10477v6)** | 2026-01-25 | <details><summary>https...</summary><p>https://github.com/SuspensionRailway/symphony</p></details> |
-| **[InteLiPlan: An Interactive Lightweight LLM-Based Planner for Domestic Robot Autonomy](https://arxiv.org/abs/2409.14506v4)** | 2026-01-25 |  |
-| **[Delay-Compensated Stiffness Estimation for Robot-Mediated Dyadic Interaction](https://arxiv.org/abs/2601.17812v1)** | 2026-01-25 |  |
-| **[AsterNav: Autonomous Aerial Robot Navigation In Darkness Using Passive Computation](https://arxiv.org/abs/2601.17550v1)** | 2026-01-24 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, Published in IEEE Robotics And Automation Letters</p></details> |
+| **[Estimating Trust in Human-Robot Collaboration through Behavioral Indicators and Explainability](https://arxiv.org/abs/2601.19856v1)** | 2026-01-27 |  |
+| **[How Does Delegation in Social Interaction Evolve Over Time? Navigation with a Robot for Blind People](https://arxiv.org/abs/2601.19851v1)** | 2026-01-27 | <details><summary>Pre-p...</summary><p>Pre-print of paper accepted into CHI 2026</p></details> |
+| **[HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs](https://arxiv.org/abs/2601.19839v1)** | 2026-01-27 |  |
+| **[Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation](https://arxiv.org/abs/2601.19832v1)** | 2026-01-27 |  |
+| **[Whether We Care, How We Reason: The Dual Role of Anthropomorphism and Moral Foundations in Robot Abuse](https://arxiv.org/abs/2601.19826v1)** | 2026-01-27 |  |
+| **[Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications](https://arxiv.org/abs/2601.19761v1)** | 2026-01-27 | HRI 2026 |
+| **[Enhancing Worker Safety in Harbors Using Quadruped Robots](https://arxiv.org/abs/2601.19643v1)** | 2026-01-27 |  |
+| **[AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation](https://arxiv.org/abs/2601.19634v1)** | 2026-01-27 |  |
+| **[Constraint-Aware Discrete-Time PID Gain Optimization for Robotic Joint Control Under Actuator Saturation](https://arxiv.org/abs/2601.18639v2)** | 2026-01-27 | <details><summary>Pendi...</summary><p>Pending IEEE Transactions on Robotics Publication</p></details> |
+| **[Rhombot: Rhombus-shaped Modular Robots for Stable, Medium-Independent Reconfiguration Motion](https://arxiv.org/abs/2601.19529v1)** | 2026-01-27 |  |
+| **[ALRM: Agentic LLM for Robotic Manipulation](https://arxiv.org/abs/2601.19510v1)** | 2026-01-27 |  |
+| **[Reinforcement Learning Goal-Reaching Control with Guaranteed Lyapunov-Like Stabilizer for Mobile Robots](https://arxiv.org/abs/2601.19499v1)** | 2026-01-27 |  |
+| **[Self-Reconfiguration Planning for Deformable Quadrilateral Modular Robots](https://arxiv.org/abs/2601.19496v1)** | 2026-01-27 |  |
+| **[A Riemannian Take on Distance Fields and Geodesic Flows in Robotics](https://arxiv.org/abs/2412.05197v3)** | 2026-01-27 | <details><summary>27 pa...</summary><p>27 pages, 20 figures. International Journal of Robotics Research (IJRR)</p></details> |
+| **[Physical Human-Robot Interaction: A Critical Review of Safety Constraints](https://arxiv.org/abs/2601.19462v1)** | 2026-01-27 |  |
 
