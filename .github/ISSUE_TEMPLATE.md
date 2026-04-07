@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement](https://arxiv.org/abs/2604.04843v1)** | 2026-04-06 | ICLR 2026 |
+| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998v2)** | 2026-04-06 | <details><summary>Embod...</summary><p>Embodied-R1 technical report v2; Published as a conference paper at ICLR 2026</p></details> |
+| **[From Prompt to Physical Action: Structured Backdoor Attacks on LLM-Mediated Robotic Control Systems](https://arxiv.org/abs/2604.03890v1)** | 2026-04-04 |  |
+| **[ST-BiBench: Benchmarking Multi-Stream Multimodal Coordination in Bimanual Embodied Tasks for MLLMs](https://arxiv.org/abs/2602.08392v2)** | 2026-04-04 | <details><summary>42 pa...</summary><p>42 pages, 9 figures. Project page:https://stbibench.github.io/</p></details> |
+| **[Learning Additively Compositional Latent Actions for Embodied AI](https://arxiv.org/abs/2604.03340v1)** | 2026-04-03 |  |
 | **[Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception](https://arxiv.org/abs/2511.15279v2)** | 2026-04-03 |  |
 | **[PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](https://arxiv.org/abs/2603.22193v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Code: https://github.com/GasaiYU/PAM</p></details> |
 | **[Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping](https://arxiv.org/abs/2604.01720v1)** | 2026-04-02 | <details><summary>This ...</summary><p>This manuscript is the accepted version of IEEE Transactions on Multimedia</p></details> |
@@ -17,47 +22,42 @@ labels: documentation
 | **[A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection](https://arxiv.org/abs/2603.28888v1)** | 2026-03-30 |  |
 | **[From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](https://arxiv.org/abs/2511.21428v2)** | 2026-03-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted to CVPR 2026</p></details> |
 | **[HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System](https://arxiv.org/abs/2603.28010v1)** | 2026-03-30 | 4 pages, 2 figures |
-| **[Learning Multi-View Spatial Reasoning from Cross-View Relations](https://arxiv.org/abs/2603.27967v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](https://arxiv.org/abs/2603.27573v1)** | 2026-03-29 |  |
-| **[AffordGrasp: Cross-Modal Diffusion for Affordance-Aware Grasp Synthesis](https://arxiv.org/abs/2603.08021v2)** | 2026-03-28 | CVPR 2026 |
-| **[ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997v1)** | 2026-03-27 |  |
-| **[Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](https://arxiv.org/abs/2511.20620v2)** | 2026-03-27 | CVPR 2026 |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Reinforcement Learning with Action-Conditioned Root Mean Squared Q-Functions](https://arxiv.org/abs/2510.06649v2)** | 2026-04-03 | 18 pages, 11 figures |
-| **[Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](https://arxiv.org/abs/2604.03179v1)** | 2026-04-03 | CVPR 2026 |
-| **[Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models](https://arxiv.org/abs/2604.03157v1)** | 2026-04-03 | <details><summary>In Pr...</summary><p>In Proceedings of the 32nd ACM-SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
-| **[FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139v1)** | 2026-04-03 |  |
-| **[Self-Distilled RLVR](https://arxiv.org/abs/2604.03128v1)** | 2026-04-03 | Work in progress |
-| **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v2)** | 2026-04-03 |  |
-| **[JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044v1)** | 2026-04-03 | <details><summary>Xiaod...</summary><p>Xiaodong He is the corresponding author</p></details> |
-| **[ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037v1)** | 2026-04-03 |  |
-| **[Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control](https://arxiv.org/abs/2604.03023v1)** | 2026-04-03 |  |
-| **[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](https://arxiv.org/abs/2602.06932v2)** | 2026-04-03 |  |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v3)** | 2026-04-03 |  |
-| **[R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning](https://arxiv.org/abs/2604.03004v1)** | 2026-04-03 | 31 pages |
-| **[A semicontinuous relaxation of Saito's criterion and freeness as angular minimization](https://arxiv.org/abs/2604.02995v1)** | 2026-04-03 | <details><summary>This ...</summary><p>This manuscript is a working paper, and an updated version will be posted later. 26 pages</p></details> |
-| **[Mitigating Reward Hacking in RLHF via Advantage Sign Robustness](https://arxiv.org/abs/2604.02986v1)** | 2026-04-03 | 27 pages, 7 figures |
-| **[Agentic Link Construction for Environment and Intent Aware 6G Communication](https://arxiv.org/abs/2511.05094v2)** | 2026-04-03 |  |
+| **[Stratifying Reinforcement Learning with Signal Temporal Logic](https://arxiv.org/abs/2604.04923v1)** | 2026-04-06 | 8 pages, 13 figures |
+| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
+| **[Analyzing Symbolic Properties for DRL Agents in Systems and Networking](https://arxiv.org/abs/2604.04914v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted in ACM SIGMETRICS'26</p></details> |
+| **[Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125v2)** | 2026-04-06 |  |
+| **[QED-Nano: Teaching a Tiny Model to Prove Hard Theorems](https://arxiv.org/abs/2604.04898v1)** | 2026-04-06 |  |
+| **[Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation](https://arxiv.org/abs/2604.04894v1)** | 2026-04-06 |  |
+| **[A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning](https://arxiv.org/abs/2510.18814v2)** | 2026-04-06 |  |
+| **[Data Attribution in Adaptive Learning](https://arxiv.org/abs/2604.04892v1)** | 2026-04-06 | Work in progress |
+| **[Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872v1)** | 2026-04-06 | <details><summary>28 pa...</summary><p>28 pages, 9 tables, 8 figures</p></details> |
+| **[Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.24324v3)** | 2026-04-06 |  |
+| **[Selecting Decision-Relevant Concepts in Reinforcement Learning](https://arxiv.org/abs/2604.04808v1)** | 2026-04-06 | 16 pages, 13 figures |
+| **[An Information-Theoretic Analysis of OOD Generalization in Meta-Reinforcement Learning](https://arxiv.org/abs/2510.23448v2)** | 2026-04-06 |  |
+| **[Multi-Agent Environments for Vehicle Routing Problems](https://arxiv.org/abs/2411.14411v2)** | 2026-04-06 |  |
+| **[CLEAR: Unlocking Generative Potential for Degraded Image Understanding in Unified Multimodal Models](https://arxiv.org/abs/2604.04780v1)** | 2026-04-06 |  |
+| **[Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems](https://arxiv.org/abs/2604.04767v1)** | 2026-04-06 | <details><summary>22 pa...</summary><p>22 pages, 4 figures. Code: https://github.com/dinobby/Cog-DRIFT</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots](https://arxiv.org/abs/2604.03200v1)** | 2026-04-03 |  |
-| **[Joint Prediction of Human Motions and Actions in Human-Robot Collaboration](https://arxiv.org/abs/2604.03065v1)** | 2026-04-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Submitted to IEEE AIM 2026</p></details> |
-| **[A Flow Matching Framework for Soft-Robot Inverse Dynamics](https://arxiv.org/abs/2604.03006v1)** | 2026-04-03 |  |
-| **[Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping](https://arxiv.org/abs/2511.01770v2)** | 2026-04-03 |  |
-| **[Learning Task-Invariant Properties via Dreamer: Enabling Efficient Policy Transfer for Quadruped Robots](https://arxiv.org/abs/2604.02911v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[UniCon: A Unified System for Efficient Robot Learning Transfers](https://arxiv.org/abs/2601.14617v2)** | 2026-04-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-52064-1}</p></details> |
-| **[Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision](https://arxiv.org/abs/2604.02812v1)** | 2026-04-03 |  |
-| **[ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation](https://arxiv.org/abs/2509.19454v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception](https://arxiv.org/abs/2511.15279v2)** | 2026-04-03 |  |
-| **[Learning Locomotion on Complex Terrain for Quadrupedal Robots with Foot Position Maps and Stability Rewards](https://arxiv.org/abs/2604.02744v1)** | 2026-04-03 | <details><summary>Proje...</summary><p>Project page located at https://mhwang003.github.io/footmaplocomotion/</p></details> |
-| **[A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery](https://arxiv.org/abs/2604.02707v1)** | 2026-04-03 |  |
-| **[Engagement Is Not Transfer: A Withdrawal Study of a Consumer Social Robot with Autistic Children at Home](https://arxiv.org/abs/2604.02642v1)** | 2026-04-03 | Accepted by IDC 2026 |
-| **[Failure Mechanisms and Risk Estimation for Legged Robot Locomotion on Granular Slopes](https://arxiv.org/abs/2603.06928v2)** | 2026-04-02 |  |
-| **[Tune to Learn: How Controller Gains Shape Robot Policy Learning](https://arxiv.org/abs/2604.02523v1)** | 2026-04-02 | <details><summary>Equal...</summary><p>Equal contribution between first two authors; order determined by coin flip. Project website: https://younghyopark.me/tune-to-learn</p></details> |
-| **[ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking](https://arxiv.org/abs/2604.02109v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted for publication at CIRP ICME 2025; will appear in Procedia CIRP</p></details> |
+| **[AnyUser: Translating Sketched User Intent into Domestic Robots](https://arxiv.org/abs/2604.04811v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Robotics (T-RO)</p></details> |
+| **[Allometric Scaling Laws for Bipedal Robots](https://arxiv.org/abs/2603.22560v3)** | 2026-04-06 |  |
+| **[Biologically Inspired Event-Based Perception and Sample-Efficient Learning for High-Speed Table Tennis Robots](https://arxiv.org/abs/2604.04618v1)** | 2026-04-06 |  |
+| **[FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control](https://arxiv.org/abs/2604.04539v1)** | 2026-04-06 | preprint, 40pages |
+| **[Acoustic Feedback for Closed-Loop Force Control in Robotic Grinding](https://arxiv.org/abs/2602.20596v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026. 8 pages, 10 figures. Video demonstration: https://youtu.be/Un7Jqj8e7HA</p></details> |
+| **[Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502v1)** | 2026-04-06 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
+| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998v2)** | 2026-04-06 | <details><summary>Embod...</summary><p>Embodied-R1 technical report v2; Published as a conference paper at ICLR 2026</p></details> |
+| **[Towards Considerate Human-Robot Coexistence: A Dual-Space Framework of Robot Design and Human Perception in Healthcare](https://arxiv.org/abs/2604.04374v1)** | 2026-04-06 |  |
+| **[PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030v3)** | 2026-04-06 | <details><summary>Websi...</summary><p>Website: https://robot-playworld.github.io/</p></details> |
+| **[frax: Fast Robot Kinematics and Dynamics in JAX](https://arxiv.org/abs/2604.04310v1)** | 2026-04-05 | <details><summary>Submi...</summary><p>Submitted to the ICRA 2026 Workshop on Frontiers of Optimization for Robotics</p></details> |
+| **[Real-Time Projected Adaptive Control for Closed-Chain Co-Manipulative Continuum Robots](https://arxiv.org/abs/2604.04286v1)** | 2026-04-05 |  |
+| **[Precise Robot Command Understanding Using Grammar-Constrained Large Language Models](https://arxiv.org/abs/2604.04233v1)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted at ASME MSEC2026</p></details> |
+| **[Robots Need Some Education: On the complexity of learning in evolutionary robotics](https://arxiv.org/abs/2604.04196v1)** | 2026-04-05 | PhD thesis |
+| **[Teaching Machine Learning Fundamentals with LEGO Robotics](https://arxiv.org/abs/2601.19376v2)** | 2026-04-05 | 10 pages, 8 figures |
+| **[Adapting Neural Robot Dynamics on the Fly for Predictive Control](https://arxiv.org/abs/2604.04039v1)** | 2026-04-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
