@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Embodied AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Limited Linguistic Diversity in Embodied AI Datasets](https://arxiv.org/abs/2601.03136v2)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Main Conference)</p></details> |
+| **[MiMo-Embodied: X-Embodied Foundation Model Technical Report](https://arxiv.org/abs/2511.16518v2)** | 2026-04-28 | <details><summary>Code:...</summary><p>Code: https://github.com/XiaomiMiMo/MiMo-Embodied | Model: https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B</p></details> |
+| **[GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459v1)** | 2026-04-28 | <details><summary>Robot...</summary><p>Robotics: Science and Systems 2026</p></details> |
+| **[InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](https://arxiv.org/abs/2509.10813v4)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025; Project page: https://marjordcpz.github.io/InternScenes.github.io</p></details> |
 | **[Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence](https://arxiv.org/abs/2604.24527v1)** | 2026-04-27 |  |
 | **[A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies](https://arxiv.org/abs/2604.22227v2)** | 2026-04-27 |  |
 | **[AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents](https://arxiv.org/abs/2604.24039v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026</p></details> |
@@ -18,46 +22,42 @@ labels: documentation
 | **[A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge](https://arxiv.org/abs/2604.21377v1)** | 2026-04-23 | <details><summary>10 pa...</summary><p>10 pages, 8 Figures, to be submitted for journal per-review</p></details> |
 | **[E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes](https://arxiv.org/abs/2604.17969v2)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://k0uya.github.io/e3vs-proj/</p></details> |
 | **[EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://arxiv.org/abs/2604.22851v1)** | 2026-04-22 | <details><summary>36 Pa...</summary><p>36 Pages, under review</p></details> |
-| **[LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](https://arxiv.org/abs/2604.20193v1)** | 2026-04-22 |  |
-| **[Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems](https://arxiv.org/abs/2604.20910v1)** | 2026-04-22 |  |
-| **[TrianguLang: Geometry-Aware Semantic Consensus for Pose-Free 3D Localization](https://arxiv.org/abs/2603.08096v3)** | 2026-04-20 | <details><summary>Table...</summary><p>Tables updated with current results, typographical errors fixed</p></details> |
-| **[InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](https://arxiv.org/abs/2509.10813v3)** | 2026-04-20 |  |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764v1)** | 2026-04-27 | <details><summary>Proje...</summary><p>Project Page: https://aka.ms/world-r1, Code: https://github.com/microsoft/World-R1</p></details> |
-| **[Scheduling Your LLM Reinforcement Learning with Reasoning Trees](https://arxiv.org/abs/2510.24832v2)** | 2026-04-27 |  |
-| **[SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning](https://arxiv.org/abs/2604.24729v1)** | 2026-04-27 |  |
-| **[Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://arxiv.org/abs/2508.19652v2)** | 2026-04-27 | <details><summary>16 pa...</summary><p>16 pages, two figures</p></details> |
-| **[Agent-Centric Visual Reinforcement Learning under Dynamic Perturbations](https://arxiv.org/abs/2604.24661v1)** | 2026-04-27 |  |
-| **[Improving Vision-language Models with Perception-centric Process Reward Models](https://arxiv.org/abs/2604.24583v1)** | 2026-04-27 | 8 pages |
-| **[Hierarchical Behaviour Spaces](https://arxiv.org/abs/2604.24558v1)** | 2026-04-27 |  |
-| **[GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility](https://arxiv.org/abs/2604.24549v1)** | 2026-04-27 |  |
-| **[A Reward-Free Viewpoint on Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2604.24532v1)** | 2026-04-27 | ICLR 2026 |
-| **[DECOFFEE: Decentralized Reinforcement Learning for Time-critical Workload Offloading and Energy Efficiency across the Computing Continuum](https://arxiv.org/abs/2604.24507v1)** | 2026-04-27 | 22 pages, 14 figures |
-| **[TARMM: Scaling Delay-Critical Edge AI Offloading in 5G O-RAN via Temporal Graph Mobility Management](https://arxiv.org/abs/2604.24501v1)** | 2026-04-27 |  |
-| **[Comparative Evaluation of Modern Deep Learning Methodologies for Portfolio Optimization](https://arxiv.org/abs/2604.24486v1)** | 2026-04-27 |  |
-| **[Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation](https://arxiv.org/abs/2603.17717v3)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2026, Portugal</p></details> |
-| **[An Automatic Ground Collision Avoidance System with Reinforcement Learning](https://arxiv.org/abs/2604.24403v1)** | 2026-04-27 |  |
-| **[Beam Scheduling for Cross-Layer ISAC: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/2604.24369v1)** | 2026-04-27 |  |
+| **[How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](https://arxiv.org/abs/2604.25907v1)** | 2026-04-28 |  |
+| **[TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning](https://arxiv.org/abs/2604.25898v1)** | 2026-04-28 |  |
+| **[Three Models of RLHF Annotation: Extension, Evidence, and Authority](https://arxiv.org/abs/2604.25895v1)** | 2026-04-28 | <details><summary>17 pa...</summary><p>17 pages. Accepted to ACM FAccT '26, June 25-28, Montreal</p></details> |
+| **[When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient](https://arxiv.org/abs/2604.25872v1)** | 2026-04-28 | <details><summary>Code ...</summary><p>Code available at https://github.com/princeton-pli/imperfect-rewards</p></details> |
+| **[Semi-Markov Reinforcement Learning for City-Scale EV Ride-Hailing with Feasibility-Guaranteed Actions](https://arxiv.org/abs/2604.25848v1)** | 2026-04-28 | <details><summary>13 pa...</summary><p>13 pages, 9 figures. Submitted to Neurocomputing</p></details> |
+| **[Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective](https://arxiv.org/abs/2510.10150v3)** | 2026-04-28 |  |
+| **[A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks](https://arxiv.org/abs/2503.09655v2)** | 2026-04-28 |  |
+| **[KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788v1)** | 2026-04-28 | <details><summary>Proje...</summary><p>Project website: https://prpl-group.com/kinder-site/. 21 pages, 8 figures. Accepted to Robotics Science and Systems (RSS), 2026</p></details> |
+| **[EOS-Bench: A Comprehensive Benchmark for Earth Observation Satellite Scheduling](https://arxiv.org/abs/2604.25782v1)** | 2026-04-28 |  |
+| **[QAROO: AI-Driven Online Task Offloading for Energy-Efficient and Sustainable MEC Networks](https://arxiv.org/abs/2604.25740v1)** | 2026-04-28 |  |
+| **[Backtranslation Augmented Direct Preference Optimization for Neural Machine Translation](https://arxiv.org/abs/2604.25702v1)** | 2026-04-28 | 5 pages, 2 figures |
+| **[Policy Improvement Reinforcement Learning](https://arxiv.org/abs/2604.00860v2)** | 2026-04-28 |  |
+| **[K-CARE: Knowledge-driven Symmetrical Contextual Anchoring and Analogical Prototype Reasoning for E-commerce Relevance](https://arxiv.org/abs/2604.25683v1)** | 2026-04-28 |  |
+| **[Modeling Human-Like Color Naming Behavior in Context](https://arxiv.org/abs/2604.25674v1)** | 2026-04-28 | <details><summary>Cogni...</summary><p>Cognitive Science Society Annual Conference 2026</p></details> |
+| **[Reinforcement Learning for Testing Interdependent Requirements in Autonomous Vehicles: An Empirical Study](https://arxiv.org/abs/2502.15792v2)** | 2026-04-28 |  |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788v1)** | 2026-04-28 | <details><summary>Proje...</summary><p>Project website: https://prpl-group.com/kinder-site/. 21 pages, 8 figures. Accepted to Robotics Science and Systems (RSS), 2026</p></details> |
+| **[Scenario-based System Testing for Distributed Robotics Applications](https://arxiv.org/abs/2604.25772v1)** | 2026-04-28 | 58 pages, 8 figures |
+| **[Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics](https://arxiv.org/abs/2604.25700v1)** | 2026-04-28 |  |
+| **[Reference-Augmented Learning for Precise Tracking Policy of Tendon-Driven Continuum Robots](https://arxiv.org/abs/2604.25698v1)** | 2026-04-28 |  |
+| **[Learning-Based Dynamics Modeling and Robust Control for Tendon-Driven Continuum Robots](https://arxiv.org/abs/2604.25691v1)** | 2026-04-28 |  |
+| **[SlicerRoboTMS: An Open-Source 3D Slicer Extension for Robot-Assisted Transcranial Magnetic Stimulation](https://arxiv.org/abs/2604.25661v1)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026</p></details> |
+| **[SAMe: A Semantic Anatomy Mapping Engine for Robotic Ultrasound](https://arxiv.org/abs/2604.25646v1)** | 2026-04-28 | <details><summary>Suppl...</summary><p>Supplementary information included. Code will be released at https://github.com/MiliLab/Echo-SAMe</p></details> |
+| **[Bridging the Indoor-Outdoor Gap: Cross-Technology Ranging for Seamless Robot Navigation](https://arxiv.org/abs/2604.25541v1)** | 2026-04-28 |  |
+| **[RISE: Self-Improving Robot Policy with Compositional World Model](https://arxiv.org/abs/2602.11075v2)** | 2026-04-28 | <details><summary>RSS 2...</summary><p>RSS 2026. Project page: https://opendrivelab.com/RISE/</p></details> |
+| **[Tendon-Actuated Robots with a Tapered, Flexible Polymer Backbone: Design, Fabrication, and Modeling](https://arxiv.org/abs/2603.19124v2)** | 2026-04-28 |  |
+| **[Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot](https://arxiv.org/abs/2601.02078v2)** | 2026-04-28 |  |
 | **[SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](https://arxiv.org/abs/2511.17411v2)** | 2026-04-27 |  |
 | **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v1)** | 2026-04-27 | 13 pages, 5 figures |
 | **[Computational Design and Co-Robotic Fabrication for Material Reuse in Architecture](https://arxiv.org/abs/2604.24648v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the 45th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA 2025)</p></details> |
 | **[Sliding Mode Control for Safe Trajectory Tracking with Moving Obstacles Avoidance: Experimental Validation on Planar Robots](https://arxiv.org/abs/2604.24518v1)** | 2026-04-27 |  |
-| **[Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](https://arxiv.org/abs/2604.24447v1)** | 2026-04-27 | 13 pages |
-| **[SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation](https://arxiv.org/abs/2509.25358v4)** | 2026-04-27 |  |
-| **[Supporting Family-School Partnerships with Robot-Facilitated Home-Based Activities](https://arxiv.org/abs/2604.23978v1)** | 2026-04-27 | <details><summary>Proce...</summary><p>Proceedings of the 25th Interaction Design and Children Conference (IDC '26)</p></details> |
-| **[Designing Robots to Support Parent-Child Connections: Opportunities Through Robot-Mediated Communication](https://arxiv.org/abs/2604.23976v1)** | 2026-04-27 | <details><summary>Proce...</summary><p>Proceedings of the 25th Interaction Design and Children Conference (IDC '26)</p></details> |
-| **[Multi-Robot Motions in Milliseconds: Vector-Accelerated Primitives for Sampling-Based Planning](https://arxiv.org/abs/2604.23960v1)** | 2026-04-27 |  |
-| **[Using Language Models as Closed-Loop High-Level Planners for Robotics Applications: A Brief Overview and Benchmarks](https://arxiv.org/abs/2511.07410v2)** | 2026-04-26 |  |
-| **[Unleashing the Agility of Wheeled-Legged Robots for High-Dynamic Reflexive Obstacle Evasion](https://arxiv.org/abs/2604.23761v1)** | 2026-04-26 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 4 tables</p></details> |
-| **[Real-Time Non-Contact Force Compensation for Wrist-Mounted Force/Torque Sensors in Haptic-Enabled Robotic Surgery Training](https://arxiv.org/abs/2604.23696v1)** | 2026-04-26 | <details><summary>Submi...</summary><p>Submitted to 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Decentralized Heterogeneous Multi-Robot Collaborative Exploration for Indoor and Outdoor 3D Environments](https://arxiv.org/abs/2604.23693v1)** | 2026-04-26 |  |
-| **[Safety-aware Goal-oriented Semantic Sensing, Communication, and Control for Robotics](https://arxiv.org/abs/2603.13502v2)** | 2026-04-26 | <details><summary>7 pag...</summary><p>7 pages. This paper has been submitted to the IEEE Wireless Communications Magazine</p></details> |
-| **[Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation](https://arxiv.org/abs/2604.23620v1)** | 2026-04-26 | 15 pages, 10 figures |
 
