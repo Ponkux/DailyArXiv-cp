@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning](https://arxiv.org/abs/2607.20399v1)** | 2026-07-22 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted manuscript. Published in the 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), pp. 1233-1240</p></details> |
-| **[PercepCap: Video Captioner with Structured Spatio-Temporal Perception](https://arxiv.org/abs/2607.20389v1)** | 2026-07-22 |  |
-| **[Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](https://arxiv.org/abs/2603.08287v3)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 45 pages, 8 figures</p></details> |
-| **[Notes to Self: Can LLMs Benefit from Experiential Abstractions?](https://arxiv.org/abs/2607.20372v1)** | 2026-07-22 |  |
-| **[Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.18722v2)** | 2026-07-22 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 9 tables</p></details> |
-| **[OLEDLM: A Unified Language Model for OLED Molecular Design](https://arxiv.org/abs/2607.20194v1)** | 2026-07-22 |  |
-| **[Safety-Regulated Transfer Reinforcement Learning with Adaptive Teacher Guidance](https://arxiv.org/abs/2606.26527v2)** | 2026-07-22 |  |
-| **[Active Inference as a Convex Markov Decision Process](https://arxiv.org/abs/2607.20152v1)** | 2026-07-22 |  |
-| **[H$^2$SD: Hybrid Hindsight Self-Distillation](https://arxiv.org/abs/2607.18955v2)** | 2026-07-22 |  |
-| **[Learning to Decode Quantum LDPC Codes via Cluster-Based Sequential Belief Propagation](https://arxiv.org/abs/2607.20130v1)** | 2026-07-22 |  |
-| **[Simultaneous Speech-to-Speech Translation Without Aligned Data](https://arxiv.org/abs/2602.11072v2)** | 2026-07-22 | <details><summary>See i...</summary><p>See inference code at: https://github.com/kyutai-labs/hibiki-zero</p></details> |
-| **[Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results](https://arxiv.org/abs/2607.20090v1)** | 2026-07-22 |  |
-| **[Experience Augmented Policy Optimization for LLM Reasoning](https://arxiv.org/abs/2606.30420v2)** | 2026-07-22 |  |
-| **[PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](https://arxiv.org/abs/2510.18348v2)** | 2026-07-22 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 3 tables, Accepted at IROS 2026</p></details> |
-| **[Self-Explaining Reinforcement Learning for Mobile Network Resource Allocation](https://arxiv.org/abs/2509.14925v2)** | 2026-07-22 |  |
+| **[Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving](https://arxiv.org/abs/2508.16947v2)** | 2026-07-23 | <details><summary>Has b...</summary><p>Has been submitted to AAAI 2026</p></details> |
+| **[MIRROR: Learning from the Other View for Multi-Modal Reasoning](https://arxiv.org/abs/2607.21552v1)** | 2026-07-23 |  |
+| **[Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections](https://arxiv.org/abs/2607.21488v1)** | 2026-07-23 |  |
+| **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461v1)** | 2026-07-23 |  |
+| **[ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents](https://arxiv.org/abs/2606.21262v2)** | 2026-07-23 |  |
+| **[PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419v1)** | 2026-07-23 |  |
+| **[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](https://arxiv.org/abs/2601.21778v3)** | 2026-07-23 | Accepted by ICML2026 |
+| **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666v2)** | 2026-07-23 | <details><summary>First...</summary><p>First two authors contributed equally. Code: https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders</p></details> |
+| **[DISCO: Distributed Spectrum Compliance and Orchestration for Scalable IoT Coexistence](https://arxiv.org/abs/2607.21387v1)** | 2026-07-23 |  |
+| **[How Many Bits Can an Adapter Write? Measuring the Capacity and Memorization of Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2607.21351v1)** | 2026-07-23 |  |
+| **[Exploiting Exogenous Structure for Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2409.14557v4)** | 2026-07-23 | 70 pages |
+| **[Non-Stationary Functional Bilevel Optimization](https://arxiv.org/abs/2601.15363v2)** | 2026-07-23 |  |
+| **[PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026v2)** | 2026-07-23 | <details><summary>To ap...</summary><p>To appear in COLM 2026</p></details> |
+| **[Expert Behavior Prior Reinforcement Learning](https://arxiv.org/abs/2607.21302v1)** | 2026-07-23 |  |
+| **[SuperFlow: Training Flow Matching Models with RL on the Fly](https://arxiv.org/abs/2512.17951v3)** | 2026-07-23 | <details><summary>This ...</summary><p>This article is withdrawn because it was submitted to arXiv without obtaining the consent of all listed authors</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot](https://arxiv.org/abs/2607.20392v1)** | 2026-07-22 | <details><summary>Sebas...</summary><p>Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, and Margaret McGuinness, "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot", in IEEE International Conference on Intelligent Robots and Systems, 2026</p></details> |
-| **[Dynamic Multi-Agent Pickup and Delivery in Robotic Cellular Warehousing Systems](https://arxiv.org/abs/2606.05669v2)** | 2026-07-22 |  |
-| **[Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats](https://arxiv.org/abs/2607.20352v1)** | 2026-07-22 | Submitted to IEEE |
-| **[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330v2)** | 2026-07-22 | <details><summary>Proje...</summary><p>Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html</p></details> |
-| **[Robots Acquire Manipulation Skills in Seconds from a Single Human Video](https://arxiv.org/abs/2607.20033v1)** | 2026-07-22 |  |
-| **[Congestion-Aware Robot Tour Planning in Crowded Environments](https://arxiv.org/abs/2606.19031v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted to IEEE IROS 2026</p></details> |
-| **[Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction](https://arxiv.org/abs/2607.19919v1)** | 2026-07-22 | <details><summary>Proje...</summary><p>Project Page: https://seonsoo-p1.github.io/DiffusionReRoll/</p></details> |
-| **[V2F: Vision-Informed Grasp Force Prediction for Damage-Aware Robotic Handling of Date Fruits](https://arxiv.org/abs/2607.19804v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
-| **[RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation](https://arxiv.org/abs/2607.18709v2)** | 2026-07-22 | <details><summary>28 pa...</summary><p>28 pages. arXiv admin note: substantial text overlap with arXiv:2602.09973</p></details> |
-| **[An Intelligent-Cloud Edge Multimodal Interaction System for Robots](https://arxiv.org/abs/2607.14675v2)** | 2026-07-22 |  |
-| **[Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047v3)** | 2026-07-22 | <details><summary>WebPa...</summary><p>WebPage: https://open-gigaai.github.io/Zero2Skill</p></details> |
-| **[Morphing MILR: Design and control of a cable-driven limbless robot with rolling joints for maneuvering in complex environments](https://arxiv.org/abs/2607.19714v1)** | 2026-07-22 |  |
-| **[NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation](https://arxiv.org/abs/2607.19695v1)** | 2026-07-22 |  |
-| **[Learning Personalized Safety Interventions for Haptic Human-Robot Shared Control](https://arxiv.org/abs/2607.19534v1)** | 2026-07-21 |  |
-| **[Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog](https://arxiv.org/abs/2607.19530v1)** | 2026-07-21 | <details><summary>Submi...</summary><p>Submitted to CoRL 2026. The Milo project website is available here: https://fgolemo.github.io/milo</p></details> |
+| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
+| **[Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](https://arxiv.org/abs/2607.21582v1)** | 2026-07-23 |  |
+| **[RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy](https://arxiv.org/abs/2607.21113v1)** | 2026-07-23 |  |
+| **[Q-SpiRL: Quantum Spiking Reinforcement Learning for Adaptive Robot Navigation](https://arxiv.org/abs/2605.20801v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Quantum Computing and Engineering (QCE), 2026</p></details> |
+| **[Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment](https://arxiv.org/abs/2607.21058v1)** | 2026-07-23 |  |
+| **[GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning](https://arxiv.org/abs/2607.21049v1)** | 2026-07-23 |  |
+| **[Vision-Language-Policy Model for Dynamic Robot Task Planning](https://arxiv.org/abs/2512.19178v2)** | 2026-07-23 |  |
+| **[Distributed Model-Based Diffusion For Scalable Multi-Robot Trajectory Optimization](https://arxiv.org/abs/2607.20992v1)** | 2026-07-23 | 9 pages, 4 figures |
+| **[Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation](https://arxiv.org/abs/2604.18336v3)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, Accepted by IROS 2026</p></details> |
+| **[URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation](https://arxiv.org/abs/2607.20912v1)** | 2026-07-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Robots Acquire Manipulation Skills in Seconds from a Single Human Video](https://arxiv.org/abs/2607.20033v2)** | 2026-07-23 |  |
+| **[An Intelligent-Cloud Edge Multimodal Interaction System for Robots](https://arxiv.org/abs/2607.14675v3)** | 2026-07-23 |  |
+| **[i2Nav-Robot: A Large-Scale Indoor-Outdoor Robot Dataset for Multi-Sensor Fusion Navigation](https://arxiv.org/abs/2508.11485v3)** | 2026-07-23 | 13 pages, 15 figures |
+| **[Socially Consistent Multi-Robot Navigation Using Decoupled Planning and Trajectory Coordination](https://arxiv.org/abs/2607.20772v1)** | 2026-07-22 | <details><summary>Submi...</summary><p>Submitted to Civil Engineering Sciences</p></details> |
+| **[TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://arxiv.org/abs/2602.19313v2)** | 2026-07-22 |  |
 
