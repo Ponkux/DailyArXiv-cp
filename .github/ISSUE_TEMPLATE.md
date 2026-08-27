@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](https://arxiv.org/abs/2608.24870v1)** | 2026-08-25 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 3 tables</p></details> |
-| **[Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement](https://arxiv.org/abs/2608.24859v1)** | 2026-08-25 |  |
-| **[Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning](https://arxiv.org/abs/2608.24858v1)** | 2026-08-25 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 4 tables</p></details> |
-| **[Learning Whom to Trust : Decision-Generated Credibility in Social Learning](https://arxiv.org/abs/2608.24851v1)** | 2026-08-25 |  |
-| **[Stabilizing Temporal Difference Learning via Implicit Stochastic Recursion](https://arxiv.org/abs/2505.01361v3)** | 2026-08-25 |  |
-| **[Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models](https://arxiv.org/abs/2602.02304v3)** | 2026-08-25 |  |
-| **[The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence](https://arxiv.org/abs/2604.06621v2)** | 2026-08-25 | <details><summary>Surve...</summary><p>Survey article, 20 pages, 1 figure, 2 tables</p></details> |
-| **[MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning](https://arxiv.org/abs/2608.14026v3)** | 2026-08-25 |  |
-| **[SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents](https://arxiv.org/abs/2608.24747v1)** | 2026-08-25 |  |
-| **[UCO: A Multi-Turn Interactive Reinforcement Learning Method for Adaptive Teaching with Large Language Models](https://arxiv.org/abs/2511.08873v3)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main</p></details> |
-| **[Contextual Online Uncertainty-Aware Preference Learning for Human Feedback](https://arxiv.org/abs/2504.19342v4)** | 2026-08-25 |  |
-| **[On-policy Distillation with Verifiable Reward](https://arxiv.org/abs/2608.24696v1)** | 2026-08-25 |  |
-| **[EviGraph: Towards Verifiable Evidence Construction for Information-Seeking Agents](https://arxiv.org/abs/2608.24667v1)** | 2026-08-25 |  |
-| **[On-Policy Self-Distillation in Diffusion Models](https://arxiv.org/abs/2608.24646v1)** | 2026-08-25 | <details><summary>Techn...</summary><p>Technical Report; Project Page at https://diffusionopsd.github.io GitHub Repo at https://github.com/worldbench/DiffusionOPSD</p></details> |
-| **[EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation](https://arxiv.org/abs/2608.24640v1)** | 2026-08-25 |  |
+| **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](https://arxiv.org/abs/2608.26105v1)** | 2026-08-26 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
+| **[MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156v2)** | 2026-08-26 | EMNLP 2026 Main |
+| **[Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203v2)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 11 figures; Code: https://github.com/mayhugotong/T3RL</p></details> |
+| **[Prefix Sliding for efficient test-time scaling](https://arxiv.org/abs/2608.26070v1)** | 2026-08-26 | <details><summary>28 pa...</summary><p>28 pages (9 main), 22 figures, 3 tables</p></details> |
+| **[$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053v1)** | 2026-08-26 | 42 pages, 23 figures |
+| **[VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following](https://arxiv.org/abs/2608.26013v1)** | 2026-08-26 |  |
+| **[IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents](https://arxiv.org/abs/2608.24588v2)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 5 tables. Preprint</p></details> |
+| **[One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation](https://arxiv.org/abs/2608.25936v1)** | 2026-08-26 | <details><summary>30 pa...</summary><p>30 pages, 4 figures. Survey / critical review</p></details> |
+| **[EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning](https://arxiv.org/abs/2608.21946v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
+| **[RADAR: Accelerate Large Language Model Inference With RL-Based Dynamic Draft Trees](https://arxiv.org/abs/2512.14069v2)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings Paper</p></details> |
+| **[Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence](https://arxiv.org/abs/2608.25905v1)** | 2026-08-26 | accepted by ISSTA 26 |
+| **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v2)** | 2026-08-26 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, project website: https://async-rl-intermediate-information.github.io/</p></details> |
+| **[PreResQ-R1: Response-Preference Disentangled Ranking-and-Scoring Reinforcement Optimization for Robust Visual Quality Assessment](https://arxiv.org/abs/2511.05393v2)** | 2026-08-26 | <details><summary>27 pa...</summary><p>27 pages, 16 figures, Accepted as EMNLP 2026 conference paper</p></details> |
+| **[TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts](https://arxiv.org/abs/2608.22788v2)** | 2026-08-26 |  |
+| **[Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data](https://arxiv.org/abs/2608.25794v1)** | 2026-08-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning](https://arxiv.org/abs/2608.24885v1)** | 2026-08-25 |  |
-| **[XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892v3)** | 2026-08-25 | <details><summary>Websi...</summary><p>Website: xpolicylab.github.io, Code: https://github.com/XPolicyLab/XPolicyLab</p></details> |
-| **[One-Shot Learning from Demonstration of Contact-Rich Robotic Manipulation by Identifying Physical Interactions](https://arxiv.org/abs/2608.24741v1)** | 2026-08-25 |  |
-| **[Fiber Bragg Grating Whiskers for Bioinspired Hydrodynamic Perception on Underwater Robots](https://arxiv.org/abs/2608.24724v1)** | 2026-08-25 | 13 pages, 8 figures |
-| **[VGGT-DP: Generalizable Robot Control via Vision Foundation Models](https://arxiv.org/abs/2509.18778v2)** | 2026-08-25 |  |
-| **[VIP: Variation-based Iterative-learning Planning for Robotic Navigation](https://arxiv.org/abs/2608.24618v1)** | 2026-08-25 |  |
-| **[O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Embodied Intelligent Robotics](https://arxiv.org/abs/2603.12144v5)** | 2026-08-25 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/MengfeiD/O3N</p></details> |
-| **[Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters](https://arxiv.org/abs/2605.02867v3)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted by International Conference on Pattern Recognition (ICPR) 2026</p></details> |
-| **[Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610v3)** | 2026-08-25 | <details><summary>Publi...</summary><p>Published in Robotics and Autonomous Systems, Volume 206, Article 105710</p></details> |
-| **[Balancing Safety and Optimality in Robot Path Planning: Algorithm and Metric](https://arxiv.org/abs/2505.23197v5)** | 2026-08-25 | 31 pages |
-| **[A Durable Vision-Based Tactile Fingertip for Robotic Manipulation](https://arxiv.org/abs/2608.24242v1)** | 2026-08-25 | 22 pages, 20 figures |
-| **[Beyond Viewpoint Generalization: What Multi-View Demonstrations Offer and How to Synthesize Them for Robot Manipulation?](https://arxiv.org/abs/2603.26757v3)** | 2026-08-25 |  |
-| **[NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics](https://arxiv.org/abs/2608.24199v1)** | 2026-08-25 |  |
-| **[Coverage Planning for Robotic Tooth Preparation in Densely Constrained Environments](https://arxiv.org/abs/2608.24155v1)** | 2026-08-25 |  |
-| **[PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control](https://arxiv.org/abs/2608.24115v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project page: https://worv-ai.github.io/ponderpounce/</p></details> |
+| **[VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots](https://arxiv.org/abs/2608.26066v1)** | 2026-08-26 |  |
+| **[$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](https://arxiv.org/abs/2608.26053v1)** | 2026-08-26 | 42 pages, 23 figures |
+| **[When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics](https://arxiv.org/abs/2608.26050v1)** | 2026-08-26 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Multi-Touch and Bending Sensing Using Electrical Impedance Tomography for Robotics](https://arxiv.org/abs/2503.13048v4)** | 2026-08-26 |  |
+| **[Low-Resolution Perception for Robotic Packing](https://arxiv.org/abs/2608.25874v1)** | 2026-08-26 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Accepted to IFAC World Congress 2026</p></details> |
+| **[Human vs. Teleoperated Robots in Vineyard Management: A Simulation-Based Analysis of Travel Speed, Routing, and Task Performance](https://arxiv.org/abs/2507.04167v2)** | 2026-08-26 |  |
+| **[Symmetries Here and There, Combined Everywhere: Cross-space Symmetry Compositions in Robotics](https://arxiv.org/abs/2605.22639v3)** | 2026-08-26 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
+| **[Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency](https://arxiv.org/abs/2608.23831v2)** | 2026-08-26 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, project website: https://async-rl-intermediate-information.github.io/</p></details> |
+| **[Temporally Centered SIGReg Improves LeWorldModel Representations for Robot Policy Learning](https://arxiv.org/abs/2607.26924v3)** | 2026-08-26 |  |
+| **[From World Models to World Action Models: A Concise Tutorial for Robotics](https://arxiv.org/abs/2607.00836v7)** | 2026-08-26 | <details><summary>Githu...</summary><p>Github page: https://github.com/clearlab-sustech/WorldModelSurvey</p></details> |
+| **[LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation](https://arxiv.org/abs/2608.25757v1)** | 2026-08-26 |  |
+| **[DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation](https://arxiv.org/abs/2608.22067v3)** | 2026-08-26 |  |
+| **[Trust-Aware Sequential Decision Making and Rollout Planning for Resilient Multi-Robot Systems](https://arxiv.org/abs/2608.25690v1)** | 2026-08-26 | 20 pages, 17 figures |
+| **[Min-Max Regret Task Allocation and Planning of Heterogeneous Multi-Robot System in Partially Known Environments](https://arxiv.org/abs/2607.13403v2)** | 2026-08-26 |  |
+| **[GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation](https://arxiv.org/abs/2608.25659v1)** | 2026-08-26 | 17 pages, 4 figures |
 
