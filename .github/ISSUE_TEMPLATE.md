@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Rise of Verbal Reinforcement Learning](https://arxiv.org/abs/2609.01597v1)** | 2026-09-01 |  |
-| **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596v1)** | 2026-09-01 | <details><summary>Proje...</summary><p>Project page: https://pine-lab-ntu.github.io/facet-0/</p></details> |
-| **[StudentSim: Training LLM-based Student Simulators](https://arxiv.org/abs/2609.01591v1)** | 2026-09-01 |  |
-| **[Self-EmoQ: Plutchik-Guided Value-based Planning to Drive Streaming Emotional TTS](https://arxiv.org/abs/2606.09837v2)** | 2026-09-01 | ACL 2026 Findings |
-| **[Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs](https://arxiv.org/abs/2609.01573v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](https://arxiv.org/abs/2609.01567v1)** | 2026-09-01 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables in the main text, 27 pages, 4 figures, 9 tables including Appendix</p></details> |
-| **[NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games](https://arxiv.org/abs/2609.01549v1)** | 2026-09-01 |  |
-| **[HALO: Hierarchical Auction-assisted Learning for Offloading in SAGIN](https://arxiv.org/abs/2606.26293v2)** | 2026-09-01 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Accepted at IEEE GLOBECOM 2026, Macau, China, Dec. 2026</p></details> |
-| **[SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning](https://arxiv.org/abs/2511.09681v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Provably Safe Sim-to-Real Transfer](https://arxiv.org/abs/2609.01418v1)** | 2026-09-01 |  |
-| **[EdiTikZ: Scientific Figure Editing from Revision Trajectories](https://arxiv.org/abs/2609.01409v1)** | 2026-09-01 |  |
-| **[Where the Verifier Fails: A Category-Level Audit of Reward Signals in RLVR](https://arxiv.org/abs/2609.01354v1)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 8 tables. Code, transform suite, contract matrix, and per-sample verdict records at https://github.com/ethxin0011/verifier-error-budget</p></details> |
-| **[VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models](https://arxiv.org/abs/2609.01325v1)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning](https://arxiv.org/abs/2608.26116v2)** | 2026-09-01 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. Accepted at ALIFE 2026. Companion website: https://developmentalsystems.org/carl/</p></details> |
-| **[From Base Rollouts to RL Reasoning: A Budgeted Search Perspective](https://arxiv.org/abs/2609.01274v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[Post-Training Language Models for Gold-Medal Performance in Coding Competitions](https://arxiv.org/abs/2609.02849v1)** | 2026-09-02 |  |
+| **[Cliff: Learning Process Rewards from the First Mistake](https://arxiv.org/abs/2609.02817v1)** | 2026-09-02 |  |
+| **[GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design](https://arxiv.org/abs/2609.02813v1)** | 2026-09-02 |  |
+| **[ToSCA: Leveraging Hierarchical Reinforcement Learning on Temporal and Strategic Abstractions of Conversational Agents](https://arxiv.org/abs/2608.21969v3)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
+| **[Deep Reinforcement Learning for Reach-Avoid-Stay Problems](https://arxiv.org/abs/2410.02898v3)** | 2026-09-02 |  |
+| **[Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/abs/2609.02677v1)** | 2026-09-02 |  |
+| **[Action abstractions for amortized sampling](https://arxiv.org/abs/2410.15184v2)** | 2026-09-02 | <details><summary>ICLR ...</summary><p>ICLR 2025. Code available at https://github.com/GFNOrg/Chunk-GFN</p></details> |
+| **[Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning](https://arxiv.org/abs/2512.10534v4)** | 2026-09-02 |  |
+| **[Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling](https://arxiv.org/abs/2609.02566v1)** | 2026-09-02 | 18 pages, 13 figures |
+| **[Objective-Behavior Alignment: Diagnostics for MORL Policy Selection](https://arxiv.org/abs/2606.21321v2)** | 2026-09-02 | <details><summary>22 pa...</summary><p>22 pages, 41 figures, Accepted to Transactions on Machine Learning Research (TMLR). OpenReview: openreview.net/forum?id=hfnMLNCCYz</p></details> |
+| **[Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548v1)** | 2026-09-02 |  |
+| **[A Comparative Study of Graph Representations for GNN-Based Power Grid Control in L2RPN](https://arxiv.org/abs/2609.02538v1)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to IEEE PES International Meetings 2027</p></details> |
+| **[Cantelli Constrained Policy Optimization](https://arxiv.org/abs/2601.22993v5)** | 2026-09-02 |  |
+| **[Train at Moving Edge: Online-Verified Prompt Selection for Efficient RL Training of Large Reasoning Model](https://arxiv.org/abs/2603.25184v3)** | 2026-09-02 |  |
+| **[SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101v4)** | 2026-09-02 | <details><summary>Techn...</summary><p>Technical report from DP Technology.22 pages, 7 figures</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](https://arxiv.org/abs/2609.02861v1)** | 2026-09-02 | <details><summary>7 pag...</summary><p>7 pages. Accepted version. Published in SoutheastCon 2026, IEEE, pp. 1-6</p></details> |
+| **[Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback](https://arxiv.org/abs/2609.02811v1)** | 2026-09-02 | 20 pages, 10 figures |
+| **[WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](https://arxiv.org/abs/2606.16600v2)** | 2026-09-02 |  |
+| **[OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](https://arxiv.org/abs/2606.15255v2)** | 2026-09-02 |  |
+| **[From Digital to Physical Reservoir Computing: Co-Optimizing Soft Robotic Reservoirs via Dynamics Matching](https://arxiv.org/abs/2608.00484v2)** | 2026-09-02 |  |
+| **[MultiGraspNet: A Multitask 3D Vision Model for Multi-gripper Robotic Grasping](https://arxiv.org/abs/2602.06504v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (2026). 8 pages, 5 figures</p></details> |
+| **[Advancing Accessible Underwater Robotics: The Mini-Girona I-AUV at RAMI 2025](https://arxiv.org/abs/2609.02605v1)** | 2026-09-02 |  |
+| **[Robotic Contextual Awareness for Human-Robot Collaboration and Environmental Understanding](https://arxiv.org/abs/2607.10372v2)** | 2026-09-02 | <details><summary>Ph.D....</summary><p>Ph.D. thesis 2026. Officially published in the IRIS institutional repository of the University of Trento (https://hdl.handle.net/11572/482510) and deposited in the Italian National Legal Deposit for Ph.D. theses</p></details> |
+| **[A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](https://arxiv.org/abs/2609.02402v1)** | 2026-09-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to the 2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)</p></details> |
+| **[Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions](https://arxiv.org/abs/2609.02364v1)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, Accepted at the 2nd edition of the Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2026) collocated with ICRA 2026, Austria</p></details> |
+| **[Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Robotics with Criticality Analysis](https://arxiv.org/abs/2609.02219v1)** | 2026-09-02 |  |
+| **[Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot](https://arxiv.org/abs/2609.02157v1)** | 2026-09-02 | <details><summary>6 pag...</summary><p>6 pages; 5 figures, accepted for 2026 Modeling, Estimation, and Control Conference (MECC)</p></details> |
+| **[Passivity-Centric Safe Reinforcement Learning for Contact-Rich Robotic Tasks](https://arxiv.org/abs/2503.00287v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by Robotics and Autonomous Systems (RAS)</p></details> |
 | **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596v1)** | 2026-09-01 | <details><summary>Proje...</summary><p>Project page: https://pine-lab-ntu.github.io/facet-0/</p></details> |
 | **[A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots](https://arxiv.org/abs/2609.01518v1)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages, 25 figures, 1 table. Supplementary video: https://www.youtube.com/playlist?list=PLJK5CTyotYqsfgfnXb-09YNFeBose6uEY</p></details> |
-| **[Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration](https://arxiv.org/abs/2609.01461v1)** | 2026-09-01 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 1 table. Zhehan Qu and Christian Fronk contributed equally</p></details> |
-| **[Autonomous robotic bridging using distributed swarm control without inter-agent communication](https://arxiv.org/abs/2609.01394v1)** | 2026-09-01 | <details><summary>Work ...</summary><p>Work from Army SBIR/STTR A254-012 (contract number W51701-25-C-A253)</p></details> |
-| **[Obstacle-Aware Autonomous Coverage and Navigation for Outdoor Robots](https://arxiv.org/abs/2609.01384v1)** | 2026-09-01 |  |
-| **[D4orm: Multi-Robot Trajectories with Dynamics-aware Diffusion Denoised Deformations](https://arxiv.org/abs/2503.12204v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[Adaptive Collision Sensitivity for Efficient and Safe Human-Robot Collaboration](https://arxiv.org/abs/2409.20184v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to Advanced Intelligent Systems</p></details> |
-| **[MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots](https://arxiv.org/abs/2511.16949v2)** | 2026-09-01 |  |
-| **[Peg-in-Bench: A Modular Benchmark for High-Precision Robotic Insertion](https://arxiv.org/abs/2609.00906v1)** | 2026-09-01 | 6 pages, 5 figures |
-| **[A Compact Robotic Finger with 2-DoF MCP Joint Embedding DoF-Selective Passive Continuously Variable Transmission for Wide Force-Speed Operating Range](https://arxiv.org/abs/2609.00769v1)** | 2026-09-01 | 9 pages, 4 figures |
-| **[Toward Interaction Dynamics: A Predictive Framework for Safe Physical Human Robot Interaction](https://arxiv.org/abs/2606.08281v3)** | 2026-09-01 |  |
-| **[Behavior--Realization Separation for Constrained Physical Human--Robot Interaction](https://arxiv.org/abs/2609.00669v1)** | 2026-09-01 |  |
-| **[Human-robot conversation with multiple participants in noisy public spaces](https://arxiv.org/abs/2609.00648v1)** | 2026-09-01 |  |
-| **[Contact-Consistent Interaction Dynamics Normalization for Predictive Physical Human--Robot Interaction](https://arxiv.org/abs/2606.14617v3)** | 2026-09-01 |  |
-| **[RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction](https://arxiv.org/abs/2608.13028v2)** | 2026-09-01 |  |
 
