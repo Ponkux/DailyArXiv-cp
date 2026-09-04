@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Post-Training Language Models for Gold-Medal Performance in Coding Competitions](https://arxiv.org/abs/2609.02849v1)** | 2026-09-02 |  |
-| **[Cliff: Learning Process Rewards from the First Mistake](https://arxiv.org/abs/2609.02817v1)** | 2026-09-02 |  |
-| **[GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design](https://arxiv.org/abs/2609.02813v1)** | 2026-09-02 |  |
-| **[ToSCA: Leveraging Hierarchical Reinforcement Learning on Temporal and Strategic Abstractions of Conversational Agents](https://arxiv.org/abs/2608.21969v3)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
-| **[Deep Reinforcement Learning for Reach-Avoid-Stay Problems](https://arxiv.org/abs/2410.02898v3)** | 2026-09-02 |  |
-| **[Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://arxiv.org/abs/2609.02677v1)** | 2026-09-02 |  |
-| **[Action abstractions for amortized sampling](https://arxiv.org/abs/2410.15184v2)** | 2026-09-02 | <details><summary>ICLR ...</summary><p>ICLR 2025. Code available at https://github.com/GFNOrg/Chunk-GFN</p></details> |
-| **[Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning](https://arxiv.org/abs/2512.10534v4)** | 2026-09-02 |  |
-| **[Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling](https://arxiv.org/abs/2609.02566v1)** | 2026-09-02 | 18 pages, 13 figures |
-| **[Objective-Behavior Alignment: Diagnostics for MORL Policy Selection](https://arxiv.org/abs/2606.21321v2)** | 2026-09-02 | <details><summary>22 pa...</summary><p>22 pages, 41 figures, Accepted to Transactions on Machine Learning Research (TMLR). OpenReview: openreview.net/forum?id=hfnMLNCCYz</p></details> |
-| **[Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs](https://arxiv.org/abs/2609.02548v1)** | 2026-09-02 |  |
-| **[A Comparative Study of Graph Representations for GNN-Based Power Grid Control in L2RPN](https://arxiv.org/abs/2609.02538v1)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to IEEE PES International Meetings 2027</p></details> |
-| **[Cantelli Constrained Policy Optimization](https://arxiv.org/abs/2601.22993v5)** | 2026-09-02 |  |
-| **[Train at Moving Edge: Online-Verified Prompt Selection for Efficient RL Training of Large Reasoning Model](https://arxiv.org/abs/2603.25184v3)** | 2026-09-02 |  |
-| **[SpecXMaster Technical Report](https://arxiv.org/abs/2603.23101v4)** | 2026-09-02 | <details><summary>Techn...</summary><p>Technical report from DP Technology.22 pages, 7 figures</p></details> |
+| **[Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](https://arxiv.org/abs/2609.04108v1)** | 2026-09-03 |  |
+| **[DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094v1)** | 2026-09-03 |  |
+| **[Subspace Inference Enables Efficient Active Reward Learning from Preferences](https://arxiv.org/abs/2609.04066v1)** | 2026-09-03 | Published at TMLR |
+| **[Spurious Advantage Hidden in GRPO](https://arxiv.org/abs/2609.04063v1)** | 2026-09-03 |  |
+| **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
+| **[Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org/abs/2502.18770v7)** | 2026-09-03 |  |
+| **[The Dually Flat Geometry of Planning as Inference](https://arxiv.org/abs/2609.04005v1)** | 2026-09-03 |  |
+| **[Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning](https://arxiv.org/abs/2511.20591v3)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research: https://openreview.net/pdf?id=0aa9zthk7k</p></details> |
+| **[A Quantitative Comparison of Centralised and Distributed Reinforcement Learning-Based Control for Soft Robotic Arms](https://arxiv.org/abs/2511.02192v3)** | 2026-09-03 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 2 tables, accepted by RoboSoft 2026</p></details> |
+| **[FiMI Banking: A Sovereign Model for Indian Retail Banking](https://arxiv.org/abs/2609.03960v1)** | 2026-09-03 |  |
+| **[Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs](https://arxiv.org/abs/2609.03955v1)** | 2026-09-03 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
+| **[Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/2608.02993v2)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published in ECML-PKDD 2026</p></details> |
+| **[Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment](https://arxiv.org/abs/2609.03906v1)** | 2026-09-03 |  |
+| **[EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846v1)** | 2026-09-03 |  |
+| **[Multi-step Proximal Policy Improvement in Offline Reinforcement Learning](https://arxiv.org/abs/2609.03842v1)** | 2026-09-03 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 7 figures, and 13 tables</p></details> |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](https://arxiv.org/abs/2609.02861v1)** | 2026-09-02 | <details><summary>7 pag...</summary><p>7 pages. Accepted version. Published in SoutheastCon 2026, IEEE, pp. 1-6</p></details> |
-| **[Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback](https://arxiv.org/abs/2609.02811v1)** | 2026-09-02 | 20 pages, 10 figures |
-| **[WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](https://arxiv.org/abs/2606.16600v2)** | 2026-09-02 |  |
-| **[OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](https://arxiv.org/abs/2606.15255v2)** | 2026-09-02 |  |
-| **[From Digital to Physical Reservoir Computing: Co-Optimizing Soft Robotic Reservoirs via Dynamics Matching](https://arxiv.org/abs/2608.00484v2)** | 2026-09-02 |  |
-| **[MultiGraspNet: A Multitask 3D Vision Model for Multi-gripper Robotic Grasping](https://arxiv.org/abs/2602.06504v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (2026). 8 pages, 5 figures</p></details> |
-| **[Advancing Accessible Underwater Robotics: The Mini-Girona I-AUV at RAMI 2025](https://arxiv.org/abs/2609.02605v1)** | 2026-09-02 |  |
-| **[Robotic Contextual Awareness for Human-Robot Collaboration and Environmental Understanding](https://arxiv.org/abs/2607.10372v2)** | 2026-09-02 | <details><summary>Ph.D....</summary><p>Ph.D. thesis 2026. Officially published in the IRIS institutional repository of the University of Trento (https://hdl.handle.net/11572/482510) and deposited in the Italian National Legal Deposit for Ph.D. theses</p></details> |
-| **[A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](https://arxiv.org/abs/2609.02402v1)** | 2026-09-02 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to the 2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)</p></details> |
-| **[Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions](https://arxiv.org/abs/2609.02364v1)** | 2026-09-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, Accepted at the 2nd edition of the Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2026) collocated with ICRA 2026, Austria</p></details> |
-| **[Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Robotics with Criticality Analysis](https://arxiv.org/abs/2609.02219v1)** | 2026-09-02 |  |
-| **[Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot](https://arxiv.org/abs/2609.02157v1)** | 2026-09-02 | <details><summary>6 pag...</summary><p>6 pages; 5 figures, accepted for 2026 Modeling, Estimation, and Control Conference (MECC)</p></details> |
-| **[Passivity-Centric Safe Reinforcement Learning for Contact-Rich Robotic Tasks](https://arxiv.org/abs/2503.00287v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by Robotics and Autonomous Systems (RAS)</p></details> |
-| **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596v1)** | 2026-09-01 | <details><summary>Proje...</summary><p>Project page: https://pine-lab-ntu.github.io/facet-0/</p></details> |
-| **[A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots](https://arxiv.org/abs/2609.01518v1)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages, 25 figures, 1 table. Supplementary video: https://www.youtube.com/playlist?list=PLJK5CTyotYqsfgfnXb-09YNFeBose6uEY</p></details> |
+| **[GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation](https://arxiv.org/abs/2609.04193v1)** | 2026-09-03 |  |
+| **[IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](https://arxiv.org/abs/2609.04030v1)** | 2026-09-03 |  |
+| **[AnyBox: Efficient Zero-Shot 9DoF Pose Estimation of Boxes for Robotic Manipulation](https://arxiv.org/abs/2511.15884v2)** | 2026-09-03 | <details><summary>accep...</summary><p>accepted to EECV 2026 R6D Workshop</p></details> |
+| **[Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation](https://arxiv.org/abs/2609.03970v1)** | 2026-09-03 | <details><summary>Exten...</summary><p>Extended abstract not yet published to a conference or journal</p></details> |
+| **[A Quantitative Comparison of Centralised and Distributed Reinforcement Learning-Based Control for Soft Robotic Arms](https://arxiv.org/abs/2511.02192v3)** | 2026-09-03 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 2 tables, accepted by RoboSoft 2026</p></details> |
+| **[Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models](https://arxiv.org/abs/2609.03927v1)** | 2026-09-03 |  |
+| **[DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs](https://arxiv.org/abs/2503.04580v3)** | 2026-09-03 | 8 pages, 8 figures |
+| **[A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement](https://arxiv.org/abs/2609.03794v1)** | 2026-09-03 |  |
+| **[Robot Aware Computational Design of Object Specific Passive Grippers for Additive Manufacturing](https://arxiv.org/abs/2609.03761v1)** | 2026-09-03 |  |
+| **[A Multi-Vine Soft Robot Enabling Accessible Working Channel and Steering](https://arxiv.org/abs/2609.03758v1)** | 2026-09-03 | <details><summary>Hamly...</summary><p>Hamlyn Symposium on Medical Robotics 2026</p></details> |
+| **[DropClick: Semi-Automated One-Click Segmentation for Agricultural Robotic Data](https://arxiv.org/abs/2609.03680v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026</p></details> |
+| **[PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227v3)** | 2026-09-03 | 7 pages |
+| **[Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions](https://arxiv.org/abs/2609.02364v2)** | 2026-09-03 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, Accepted at the 2nd edition of the Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization (J-WOSMARS 2026) collocated with ICRA 2026, Austria</p></details> |
+| **[QLAUN: A Research-Oriented, Robust, Agile, Modular, and Affordable Torque-Controlled Quadruped Robot](https://arxiv.org/abs/2609.03623v1)** | 2026-09-03 | <details><summary>Exten...</summary><p>Extended abstract presented at IEEE ICRA@40, Rotterdam, Netherlands, September 2024. 2 pages, 1 figure</p></details> |
+| **[FailBench: How Reliable are VLMs at Judging Robot Task Success?](https://arxiv.org/abs/2609.03611v1)** | 2026-09-03 |  |
 
