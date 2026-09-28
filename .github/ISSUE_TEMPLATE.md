@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](https://arxiv.org/abs/2609.30258v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046v2)** | 2026-09-24 | 23 pages, 14 figures |
-| **[Learning Generalizable Behaviors for Terminal Agents](https://arxiv.org/abs/2608.22631v3)** | 2026-09-24 |  |
-| **[PoEM: Predicting RL Outcomes from Existing Policies](https://arxiv.org/abs/2609.30226v1)** | 2026-09-24 |  |
-| **[Learning the Maximum Tolerated Dose for Continuous Toxicity via Monotone Bayesian Trees](https://arxiv.org/abs/2609.30190v1)** | 2026-09-24 |  |
-| **[Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](https://arxiv.org/abs/2609.30177v1)** | 2026-09-24 |  |
-| **[Learning and interpreting policies for simultaneous entanglement requests in quantum networks](https://arxiv.org/abs/2609.30157v1)** | 2026-09-24 |  |
-| **[Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management](https://arxiv.org/abs/2609.30150v1)** | 2026-09-24 |  |
-| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v1)** | 2026-09-24 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
-| **[Self-Play Pretraining with Zero Data](https://arxiv.org/abs/2609.30063v1)** | 2026-09-24 | <details><summary>AC, K...</summary><p>AC, KD, and MYL contributed equally; authors are listed alphabetically</p></details> |
-| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v2)** | 2026-09-24 |  |
-| **[SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback](https://arxiv.org/abs/2609.30054v1)** | 2026-09-24 |  |
-| **[TEMA: Evidence-Grounded Temporal Question Answering in Multi-Turn Multi-Audio Dialogs](https://arxiv.org/abs/2609.30029v1)** | 2026-09-24 | 5 pages, 2 figures |
-| **[Beyond Forgetting: Diagnosing and Harnessing Shared Reasoning in Continual RLVR](https://arxiv.org/abs/2608.18574v3)** | 2026-09-24 |  |
-| **[Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation](https://arxiv.org/abs/2609.30023v1)** | 2026-09-24 |  |
+| **[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](https://arxiv.org/abs/2609.31619v1)** | 2026-09-25 |  |
+| **[Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.11891v3)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at the ICRA 2026 Workshop on Reinforcement Learning in the Era of Imitation Learning (RL4IL), Vienna. 7 pages, 2 figures. v3 fixes the workshop name and the unified run's description; with its own fingers driven, the standing-mode gap falls from 3.5x/2x to 1.3x/1.1x (speed/throughput; one re-evaluation). No retraining. https://mturan33.github.io/critic-architecture-matters/</p></details> |
+| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v2)** | 2026-09-25 |  |
+| **[SLMFix: Leveraging Small Language Models for Domain Specific Language Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v2)** | 2026-09-25 |  |
+| **[HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.31531v1)** | 2026-09-25 |  |
+| **[AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation](https://arxiv.org/abs/2609.29816v2)** | 2026-09-25 | 22 pages |
+| **[Genetic Algorithms with Optimization Guided Operators](https://arxiv.org/abs/2606.12279v2)** | 2026-09-25 | <details><summary>Added...</summary><p>Added references to the literature, other small changes</p></details> |
+| **[Topology-Driven Anti-Entanglement Control for Soft Robots](https://arxiv.org/abs/2605.05236v2)** | 2026-09-25 | <details><summary>This ...</summary><p>This submission is withdrawn by the authors for substantial revisions</p></details> |
+| **[Adaptive Switching Between Leader-Based and Leaderless BFT Protocols](https://arxiv.org/abs/2609.31388v1)** | 2026-09-25 |  |
+| **[A Support-Enhanced Granular-Jamming Gripper for RL-based Grasping with Continuum Manipulators](https://arxiv.org/abs/2609.29093v2)** | 2026-09-25 | 8 pages, 10 figures |
+| **[CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430v2)** | 2026-09-25 |  |
+| **[See to Reach, Feel to Grasp: Learning A Blind Grasp Reflex for Anthropomorphic Robotic Hands](https://arxiv.org/abs/2609.31323v1)** | 2026-09-25 | <details><summary>https...</summary><p>https://blindgraspreflex.github.io</p></details> |
+| **[Dynamic Sampling for Telemetry in Microservices: A Reinforcement Learning and Entropy-Based Approach](https://arxiv.org/abs/2609.31292v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted to the Journal of Network and Systems Management (under review)</p></details> |
+| **[G2MAF: Test-Time Gradient Guidance for Multi-Agent Flow Policies](https://arxiv.org/abs/2609.31286v1)** | 2026-09-25 | <details><summary>24 pa...</summary><p>24 pages, including appendices. Project page: https://g2maf.github.io/</p></details> |
+| **[Q-Probe: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing](https://arxiv.org/abs/2601.15356v6)** | 2026-09-25 | NeurIPS 2026 |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249v1)** | 2026-09-24 |  |
-| **[Self-Adaptive VLA for Robust Robot Deployment](https://arxiv.org/abs/2609.30092v1)** | 2026-09-24 |  |
-| **[World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964v1)** | 2026-09-24 | Working in progress |
-| **[Pairwise Approximation Can Select the Wrong Multi-Robot Plan](https://arxiv.org/abs/2609.29929v1)** | 2026-09-24 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted at the IROS 2026 Workshop on Intelligent Information Gathering. Code: https://github.com/williamteo/pairwise-regret</p></details> |
-| **[MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots](https://arxiv.org/abs/2609.29908v1)** | 2026-09-24 |  |
-| **[Flow as Flow: Modeling Robot Velocity Fields as Probability Velocity Fields for Flow-Based Object Manipulation](https://arxiv.org/abs/2606.23090v3)** | 2026-09-24 |  |
-| **[Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning](https://arxiv.org/abs/2609.29822v1)** | 2026-09-24 | <details><summary>Proje...</summary><p>Project page is available at https://tomohiromotoda.github.io/nia.propra/</p></details> |
-| **[Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](https://arxiv.org/abs/2609.29644v1)** | 2026-09-24 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, accepted conference paper</p></details> |
-| **[Temperament Engineering: Designing Strategic Behavioural Diversity in Robot Swarms](https://arxiv.org/abs/2609.29423v1)** | 2026-09-24 |  |
-| **[WRAP: Fixtureless Wrench-aware Multi-Robot Assembly Planning](https://arxiv.org/abs/2609.29407v1)** | 2026-09-24 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 5 tables</p></details> |
-| **[RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394v1)** | 2026-09-24 |  |
-| **[Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation](https://arxiv.org/abs/2609.29389v1)** | 2026-09-24 | preprint |
-| **[RHINO-AR: An Augmented Reality Exhibit for Teaching Mobile Robotics Concepts in Museums](https://arxiv.org/abs/2604.16384v2)** | 2026-09-24 |  |
-| **[EgoSpeedUp: Transferring Human Manipulation Tempo to Robot Policies](https://arxiv.org/abs/2609.29310v1)** | 2026-09-24 | 8pages |
-| **[Dense-Joint-Based Obstacle-Aided Locomotion with a Joint-Repositionable Snake Robot](https://arxiv.org/abs/2609.29261v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient](https://arxiv.org/abs/2609.31606v1)** | 2026-09-25 |  |
+| **[Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding](https://arxiv.org/abs/2609.31452v1)** | 2026-09-25 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Cybernetics</p></details> |
+| **[CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation](https://arxiv.org/abs/2609.31418v1)** | 2026-09-25 |  |
+| **[dRVG: Quadtree-Guided, Resolution-Complete Online Motion Planning for Polygonal Robots in Unknown Environments](https://arxiv.org/abs/2609.31412v1)** | 2026-09-25 |  |
+| **[Topology-Driven Anti-Entanglement Control for Soft Robots](https://arxiv.org/abs/2605.05236v2)** | 2026-09-25 | <details><summary>This ...</summary><p>This submission is withdrawn by the authors for substantial revisions</p></details> |
+| **[Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms](https://arxiv.org/abs/2609.31396v1)** | 2026-09-25 | <details><summary>Bache...</summary><p>Bachelor's Thesis, University of Padua (IAS-Lab). 92 pages, 31 figures</p></details> |
+| **[Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation](https://arxiv.org/abs/2609.31337v1)** | 2026-09-25 |  |
+| **[See to Reach, Feel to Grasp: Learning A Blind Grasp Reflex for Anthropomorphic Robotic Hands](https://arxiv.org/abs/2609.31323v1)** | 2026-09-25 | <details><summary>https...</summary><p>https://blindgraspreflex.github.io</p></details> |
+| **[Cybflight: An Embedded Rust Autopilot for Aerial Robotics Research](https://arxiv.org/abs/2609.31232v1)** | 2026-09-25 |  |
+| **[CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection](https://arxiv.org/abs/2609.31211v1)** | 2026-09-25 | 8 pages |
+| **[Evaluating the Impact of Adaptive Extended Reality on Human-Robot Interaction Across the Reality-Virtuality Continuum](https://arxiv.org/abs/2609.31138v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted to Advanced Robotics, Special Issue on "Next Generation Cognitive Robotics: Nurturing Embodied Intelligence for a Symbiotic Future with Humans and AI"</p></details> |
+| **[Comparative Evaluation of an XR Pen-based Control Interface for Semi-Autonomous Mobile Robot Navigation in Service Environments](https://arxiv.org/abs/2609.31117v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted for presentation at the 2027 IEEE/SICE International Symposium on System Integration (SII), Kobe, Japan</p></details> |
+| **[AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots](https://arxiv.org/abs/2609.31110v1)** | 2026-09-25 |  |
+| **[SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](https://arxiv.org/abs/2604.27508v2)** | 2026-09-25 |  |
+| **[Co-design of trajectory and morphology for a vertical jump-climbing robot](https://arxiv.org/abs/2609.31014v1)** | 2026-09-25 | 8 pages |
 
