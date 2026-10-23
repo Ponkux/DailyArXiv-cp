@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://arxiv.org/abs/2610.30132v1)** | 2026-10-21 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/zhennan1/LongZero</p></details> |
-| **[Environment Duels: A Microcosm of LLM Co-Evolution](https://arxiv.org/abs/2610.30116v1)** | 2026-10-21 |  |
-| **[Asymmetric On-Policy Distillation Learns In-Context Exploration](https://arxiv.org/abs/2610.30105v1)** | 2026-10-21 |  |
-| **[Differentially Private Sparse Reward Estimation with Preference Feedback](https://arxiv.org/abs/2610.30099v1)** | 2026-10-21 | 36 pages |
-| **[AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2610.30097v1)** | 2026-10-21 |  |
-| **[Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions](https://arxiv.org/abs/2504.21164v4)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[AI-driven Prices for Externalities and Sustainability in Production Markets](https://arxiv.org/abs/2106.06060v5)** | 2026-10-21 | <details><summary>A pre...</summary><p>A preliminary version was accepted to the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023). This full version has been accepted at the journal of Autonomous Agents and Multi-Agent Systems (Volume 40, article number 46, 2026)</p></details> |
-| **[RLMuscle: Muscle-Driven Character Animation via Reinforcement Learning](https://arxiv.org/abs/2610.30033v1)** | 2026-10-21 | <details><summary>12 pa...</summary><p>12 pages. Project page: https://chunleili.github.io/project-page-rlmuscle/</p></details> |
-| **[To Retain or to Adapt? Generalizing Continual Learning](https://arxiv.org/abs/2607.05609v2)** | 2026-10-21 | <details><summary>https...</summary><p>https://openreview.net/forum?id=C4zRmT9jYO</p></details> |
-| **[EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping](https://arxiv.org/abs/2610.29999v1)** | 2026-10-21 | <details><summary>27 pa...</summary><p>27 pages. Code: https://github.com/LiChengxi666/EPIC</p></details> |
-| **[CORD: Conflict-Aware Optimization for Joint RL and Distillation in Agents](https://arxiv.org/abs/2610.29965v1)** | 2026-10-21 | 38 pages, 12 figures |
-| **[RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation](https://arxiv.org/abs/2610.29845v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 5 tables. Submitted to ICRA 2027; under review</p></details> |
-| **[CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization](https://arxiv.org/abs/2605.08802v4)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. 17 pages, 10 figures, 9 tables</p></details> |
-| **[Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate](https://arxiv.org/abs/2608.03648v2)** | 2026-10-21 | NeurIPS 2026 Accept |
-| **[ProMORNA: An End-to-End Generative Framework for Full-Length mRNA Design](https://arxiv.org/abs/2605.01513v2)** | 2026-10-21 |  |
+| **[How Does RL Post-training Induce Skill Composition? A Case Study on Countdown](https://arxiv.org/abs/2512.01775v2)** | 2026-10-22 |  |
+| **[METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](https://arxiv.org/abs/2610.31656v1)** | 2026-10-22 | 9 pages |
+| **[Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3](https://arxiv.org/abs/2610.31624v1)** | 2026-10-22 |  |
+| **[DiffDreamer: Coupling World Models with Differentiable Simulation for Agile Quadrotor Control](https://arxiv.org/abs/2610.31617v1)** | 2026-10-22 |  |
+| **[Humanoid Mobility via Attention-based Contacts](https://arxiv.org/abs/2610.31608v1)** | 2026-10-22 | under review |
+| **[Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization](https://arxiv.org/abs/2605.19721v2)** | 2026-10-22 | Preprint |
+| **[Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.31544v1)** | 2026-10-22 |  |
+| **[Towards User Simulators That Stay On Task And Still Sound Natural](https://arxiv.org/abs/2610.31512v1)** | 2026-10-22 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 6 tables. In submission</p></details> |
+| **[Training Small Language Models for Transferable Tool Selection](https://arxiv.org/abs/2610.31483v1)** | 2026-10-22 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 5 tables</p></details> |
+| **[Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models](https://arxiv.org/abs/2610.31471v1)** | 2026-10-22 |  |
+| **[TRCA: Transition-wise Rubric Credit Assignment for Long-horizon LLM Agents](https://arxiv.org/abs/2608.16156v2)** | 2026-10-22 |  |
+| **[Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO](https://arxiv.org/abs/2610.27003v2)** | 2026-10-22 |  |
+| **[To Distill or Decide? Understanding the Algorithmic Trade-off in Partially Observable Reinforcement Learning](https://arxiv.org/abs/2510.03207v2)** | 2026-10-22 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, published at NeurIPS 2025</p></details> |
+| **[RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding](https://arxiv.org/abs/2610.31276v1)** | 2026-10-22 |  |
+| **[R$^2$ Flow: Recursive Self-Improvement via Recursive Skill Evolution](https://arxiv.org/abs/2609.33867v3)** | 2026-10-22 | 27 pages |
 
 ## Robotics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://arxiv.org/abs/2610.30108v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project website: https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/</p></details> |
-| **[Implementation of Dynamic Microsegmentation for a Multi-Robot Network](https://arxiv.org/abs/2610.30102v1)** | 2026-10-21 |  |
-| **[AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2610.30097v1)** | 2026-10-21 |  |
-| **[OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation](https://arxiv.org/abs/2606.00990v3)** | 2026-10-21 | <details><summary>8 pag...</summary><p>8 pages main text, appendices included</p></details> |
-| **[From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](https://arxiv.org/abs/2610.30051v1)** | 2026-10-21 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables. May Espinola and Qifan Zhang contributed equally. Project page: https://irvlutd.github.io/LLM-LIBERO/ Code: https://github.com/IRVLUTD/LLM_LIBERO</p></details> |
-| **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables. Project page: https://xuyicheng-zju.github.io/TARSphere/ Code: https://github.com/xuyicheng-zju/TARSphere</p></details> |
-| **[Goal Images Are Control Targets: Spatially-Grounded Goal-Image Synthesis for Robotic Manipulation](https://arxiv.org/abs/2610.24885v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at WACV 2027. Project page: https://riddhi-chatterjee.github.io/SGE-Goal/</p></details> |
-| **[RangeNav: Task-Aligned LiDAR Range-Image Pretraining for Robot Navigation](https://arxiv.org/abs/2610.29845v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 5 tables. Submitted to ICRA 2027; under review</p></details> |
-| **[Spacetime Splines for Adaptive Robot Motions](https://arxiv.org/abs/2610.29839v1)** | 2026-10-21 |  |
-| **[Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities](https://arxiv.org/abs/2610.29829v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables, including supplementary material</p></details> |
-| **[Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation](https://arxiv.org/abs/2610.26854v3)** | 2026-10-21 |  |
-| **[Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots](https://arxiv.org/abs/2610.28432v2)** | 2026-10-21 |  |
-| **[FlowVLA: Learning Flow-Aware Physical Completion for Quantitative Robotic Pouring](https://arxiv.org/abs/2610.29692v1)** | 2026-10-21 | 9 pages, 6 figures |
-| **[AgriVLN: Vision-and-Language Navigation for Agricultural Robots](https://arxiv.org/abs/2508.07406v2)** | 2026-10-21 |  |
-| **[Joint-Angle Invariance of Jacobian-Based Performance Indices for Serial Robotic Manipulators](https://arxiv.org/abs/2610.29570v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables. Accepted at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[Dispersive Tree Agreements for Multi-Robot Coordination](https://arxiv.org/abs/2610.31540v1)** | 2026-10-22 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 7 tables. Submitted to IEEE Transactions on Robotics</p></details> |
+| **[SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets](https://arxiv.org/abs/2610.31518v1)** | 2026-10-22 | <details><summary>8 pag...</summary><p>8 pages. Accepted at IROS 2026. Project page: https://scope-page.github.io/</p></details> |
+| **[Skeleton-Grounded Latent Action Model for Robot World Models](https://arxiv.org/abs/2610.31474v1)** | 2026-10-22 | <details><summary>Proje...</summary><p>Project Page: https://aopolin-lv.github.io/SkeLAM/</p></details> |
+| **[Learning Robot Behavior Priors from Non-Robotic Synthetic Data](https://arxiv.org/abs/2610.31275v1)** | 2026-10-22 |  |
+| **[V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582v2)** | 2026-10-22 |  |
+| **[Navigating human-robot interaction challenges in private and residential aged care homes](https://arxiv.org/abs/2610.31149v1)** | 2026-10-22 | <details><summary>Autho...</summary><p>Author-accepted manuscript of a book chapter published online in Elsevier's Reference Module in Materials Science and Materials Engineering (2026). Scheduled for inclusion in Comprehensive Robotics for Extreme and Challenging Environments (June 2027)</p></details> |
+| **[Hearing the shape of an arena with spectral swarm robotics](https://arxiv.org/abs/2403.17147v2)** | 2026-10-22 |  |
+| **[RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation](https://arxiv.org/abs/2610.31121v1)** | 2026-10-22 |  |
+| **[AstroBench: Benchmarking Free-Floating Capture and Space Robotic Manipulation](https://arxiv.org/abs/2610.31064v1)** | 2026-10-22 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 9 tables. Code and assets: https://github.com/AstroUpLab/AstroBench ; project website: https://astroup.com/astrobench/</p></details> |
+| **[Multimodal Progress-Residual Fusion for Anticipating Navigation Retreat in Robotic Flexible Endoscopy](https://arxiv.org/abs/2610.31028v1)** | 2026-10-22 |  |
+| **[ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making](https://arxiv.org/abs/2603.25044v3)** | 2026-10-22 | 2026 RA-L |
+| **[Demonstration-Based Robotic Feeding Using Dynamic Movement Primitives](https://arxiv.org/abs/2610.31020v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted on RAAI 2026</p></details> |
+| **[Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM](https://arxiv.org/abs/2610.31013v1)** | 2026-10-22 |  |
+| **[Revisiting Distribution Matching for State-to-Vision Policy Distillation in Laparoscopic Robotic Manipulation](https://arxiv.org/abs/2610.31010v1)** | 2026-10-22 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables</p></details> |
+| **[In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations](https://arxiv.org/abs/2610.30988v1)** | 2026-10-22 |  |
 
